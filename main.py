@@ -20,7 +20,7 @@ with open('CountyElectionData.csv') as file:
                 if cRow[1] == row[1].strip(' County') and cRow[2] == row[0]:
                     DPC = getDeathsPerCapita(cRow[2], cRow[1], cRow[5])
                     print(
-                        row[0] + " - " + row[1] + ":    " + row[4] + " ----- COVID DEATHS PER CAPITA: " +
+                        row[0] + " - " + row[1] + ":    " + row[4] + " - _dpc: " +
                         str(DPC)
                     )
                     trump_pctg.append(
