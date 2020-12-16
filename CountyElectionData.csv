@@ -1,0 +1,4634 @@
+state,county,current_votes,trump_votes,percent_trump_votes
+Alabama,Cherokee County,12301,10583,86.03%
+Alabama,Chilton County,19310,16085,83.30%
+Alabama,Choctaw County,7464,4296,57.56%
+Alabama,Clarke County,13135,7324,55.76%
+Alabama,Clay County,6930,5601,80.82%
+Alabama,Cleburne County,7227,6484,89.72%
+Alabama,Coffee County,22275,16899,75.87%
+Alabama,Colbert County,27886,19203,68.86%
+Alabama,Conecuh County,6441,3442,53.44%
+Alabama,Coosa County,5479,3631,66.27%
+Alabama,Autauga County,27770,19838,71.44%
+Alabama,Covington County,17430,14586,83.68%
+Alabama,Crenshaw County,6617,4864,73.51%
+Alabama,Cullman County,41851,36880,88.12%
+Alabama,Dale County,19738,14303,72.46%
+Alabama,Dallas County,17864,5524,30.92%
+Alabama,DeKalb County,29356,24767,84.37%
+Alabama,Elmore County,41030,30164,73.52%
+Alabama,Escambia County,15910,10869,68.32%
+Alabama,Etowah County,47728,35528,74.44%
+Alabama,Fayette County,8766,7300,83.28%
+Alabama,Baldwin County,109679,83544,76.17%
+Alabama,Franklin County,12578,10376,82.49%
+Alabama,Geneva County,12545,10848,86.47%
+Alabama,Greene County,4775,875,18.32%
+Alabama,Hale County,7922,3190,40.27%
+Alabama,Henry County,9298,6607,71.06%
+Alabama,Houston County,46173,32618,70.64%
+Alabama,Jackson County,23636,19670,83.22%
+Alabama,Jefferson County,325848,138843,42.61%
+Alabama,Lamar County,7193,6174,85.83%
+Alabama,Lauderdale County,44339,31721,71.54%
+Alabama,Barbour County,10518,5622,53.45%
+Alabama,Lawrence County,16031,12322,76.86%
+Alabama,Lee County,71449,42221,59.09%
+Alabama,Limestone County,49235,34640,70.36%
+Alabama,Lowndes County,6835,1836,26.86%
+Alabama,Macon County,8723,1541,17.67%
+Alabama,Madison County,194767,102780,52.77%
+Alabama,Marengo County,10900,5343,49.02%
+Alabama,Marion County,13807,12205,88.40%
+Alabama,Marshall County,39655,33191,83.70%
+Alabama,Mobile County,183164,101243,55.27%
+Alabama,Bibb County,9595,7525,78.43%
+Alabama,Monroe County,10668,6147,57.62%
+Alabama,Montgomery County,99139,33311,33.60%
+Alabama,Morgan County,53722,39664,73.83%
+Alabama,Perry County,5230,1339,25.60%
+Alabama,Pickens County,9668,5594,57.86%
+Alabama,Pike County,13841,8042,58.10%
+Alabama,Randolph County,10837,8559,78.98%
+Alabama,Russell County,21329,9864,46.25%
+Alabama,St. Clair County,44441,36166,81.38%
+Alabama,Shelby County,114950,79700,69.33%
+Alabama,Blount County,27588,24711,89.57%
+Alabama,Sumter County,6291,1598,25.40%
+Alabama,Talladega County,35663,22235,62.35%
+Alabama,Tallapoosa County,20991,14963,71.28%
+Alabama,Tuscaloosa County,90172,51117,56.69%
+Alabama,Walker County,31170,26002,83.42%
+Alabama,Washington County,8876,6564,73.95%
+Alabama,Wilcox County,5903,1833,31.05%
+Alabama,Winston County,11284,10195,90.35%
+Alabama,Bullock County,4613,1146,24.84%
+Alabama,Butler County,9488,5458,57.53%
+Alabama,Calhoun County,50983,35101,68.85%
+Alabama,Chambers County,15284,8753,57.27%
+Alaska,ED 10,11256,8081,71.79%
+Alaska,ED 11,10686,7096,66.40%
+Alaska,ED 12,11280,7893,69.97%
+Alaska,ED 13,7765,4652,59.91%
+Alaska,ED 14,11534,6714,58.21%
+Alaska,ED 15,5593,2671,47.76%
+Alaska,ED 16,8170,3516,43.04%
+Alaska,ED 17,7271,2810,38.65%
+Alaska,ED 18,7759,2760,35.57%
+Alaska,ED 19,5338,1975,37.00%
+Alaska,ED 1,7360,3511,47.70%
+Alaska,ED 20,7544,2383,31.59%
+Alaska,ED 21,9482,3690,38.92%
+Alaska,ED 22,9597,4684,48.81%
+Alaska,ED 23,7796,3655,46.88%
+Alaska,ED 24,10484,5378,51.30%
+Alaska,ED 25,9369,4407,47.04%
+Alaska,ED 26,20292,5243,25.84%
+Alaska,ED 27,19037,4324,22.71%
+Alaska,ED 28,25580,6162,24.09%
+Alaska,ED 29,10784,7464,69.21%
+Alaska,ED 2,6161,3674,59.63%
+Alaska,ED 30,10226,7180,70.21%
+Alaska,ED 31,12481,6971,55.85%
+Alaska,ED 32,8361,4440,53.10%
+Alaska,ED 33,11016,3059,27.77%
+Alaska,ED 34,10794,4543,42.09%
+Alaska,ED 35,10149,4769,46.99%
+Alaska,ED 36,9292,5114,55.04%
+Alaska,ED 37,5168,2358,45.63%
+Alaska,ED 38,5299,1737,32.78%
+Alaska,ED 39,5930,1939,32.70%
+Alaska,ED 3,8385,6076,72.46%
+Alaska,ED 40,4628,1994,43.09%
+Alaska,ED 4,10587,4690,44.30%
+Alaska,ED 5,8706,4077,46.83%
+Alaska,ED 6,9518,5770,60.62%
+Alaska,ED 7,9664,7027,72.71%
+Alaska,ED 8,9957,7618,76.51%
+Alaska,ED 9,11047,7787,70.49%
+Arizona,Navajo County,51783,27657,53.41%
+Arizona,Pima County,520735,207758,39.90%
+Arizona,Pinal County,185037,107077,57.87%
+Arizona,Santa Cruz County,19561,6194,31.67%
+Arizona,Yavapai County,143280,91527,63.88%
+Arizona,Yuma County,69926,36534,52.25%
+Arizona,Apache County,35183,11442,32.52%
+Arizona,Cochise County,60473,35557,58.80%
+Arizona,Coconino County,73346,27052,36.88%
+Arizona,Gila County,27678,18377,66.40%
+Arizona,Graham County,14996,10749,71.68%
+Arizona,Greenlee County,3688,2433,65.97%
+Arizona,La Paz County,7460,5129,68.75%
+Arizona,Maricopa County,2069475,995665,48.11%
+Arizona,Mohave County,104705,78535,75.01%
+Arkansas,Clark County,8395,4616,54.99%
+Arkansas,Clay County,5183,4086,78.83%
+Arkansas,Cleburne County,12680,10328,81.45%
+Arkansas,Cleveland County,3600,2867,79.64%
+Arkansas,Columbia County,8616,5500,63.83%
+Arkansas,Conway County,8685,5694,65.56%
+Arkansas,Craighead County,38511,25558,66.37%
+Arkansas,Crawford County,24091,18607,77.24%
+Arkansas,Crittenden County,16367,7333,44.80%
+Arkansas,Cross County,6942,4946,71.25%
+Arkansas,Arkansas County,6292,4304,68.40%
+Arkansas,Dallas County,2649,1573,59.38%
+Arkansas,Desha County,4164,1921,46.13%
+Arkansas,Drew County,6908,4349,62.96%
+Arkansas,Faulkner County,54428,34421,63.24%
+Arkansas,Franklin County,7129,5677,79.63%
+Arkansas,Fulton County,5119,3961,77.38%
+Arkansas,Garland County,44199,29069,65.77%
+Arkansas,Grant County,8200,6794,82.85%
+Arkansas,Greene County,16100,12670,78.70%
+Arkansas,Hempstead County,6848,4470,65.27%
+Arkansas,Ashley County,7926,5548,70.00%
+Arkansas,Hot Spring County,12557,9202,73.28%
+Arkansas,Howard County,4834,3367,69.65%
+Arkansas,Independence County,14512,11250,77.52%
+Arkansas,Izard County,5810,4631,79.71%
+Arkansas,Jackson County,5091,3593,70.58%
+Arkansas,Jefferson County,25158,9521,37.84%
+Arkansas,Johnson County,9498,6938,73.05%
+Arkansas,Lafayette County,2679,1757,65.58%
+Arkansas,Lawrence County,5857,4569,78.01%
+Arkansas,Lee County,2848,1286,45.15%
+Arkansas,Baxter County,21007,15836,75.38%
+Arkansas,Lincoln County,3875,2729,70.43%
+Arkansas,Little River County,5177,3715,71.76%
+Arkansas,Logan County,8225,6441,78.31%
+Arkansas,Lonoke County,30662,22884,74.63%
+Arkansas,Madison County,7351,5658,76.97%
+Arkansas,Marion County,7503,5783,77.08%
+Arkansas,Miller County,16529,11920,72.12%
+Arkansas,Mississippi County,12342,7296,59.12%
+Arkansas,Monroe County,2816,1545,54.87%
+Arkansas,Montgomery County,3873,3046,78.65%
+Arkansas,Benton County,119912,73965,61.68%
+Arkansas,Nevada County,3358,2133,63.52%
+Arkansas,Newton County,3998,3192,79.84%
+Arkansas,Ouachita County,9629,5294,54.98%
+Arkansas,Perry County,4627,3479,75.19%
+Arkansas,Phillips County,6242,2417,38.72%
+Arkansas,Pike County,4246,3519,82.88%
+Arkansas,Poinsett County,7521,5918,78.69%
+Arkansas,Polk County,8490,7035,82.86%
+Arkansas,Pope County,24432,18081,74.01%
+Arkansas,Prairie County,3495,2786,79.71%
+Arkansas,Boone County,17114,13652,79.77%
+Arkansas,Pulaski County,169956,63687,37.47%
+Arkansas,Randolph County,6812,5355,78.61%
+Arkansas,St. Francis County,7108,3242,45.61%
+Arkansas,Saline County,56959,39556,69.45%
+Arkansas,Scott County,3551,2962,83.41%
+Arkansas,Searcy County,4019,3365,83.73%
+Arkansas,Sebastian County,47140,31198,66.18%
+Arkansas,Sevier County,5202,3884,74.66%
+Arkansas,Sharp County,7566,5938,78.48%
+Arkansas,Stone County,5938,4616,77.74%
+Arkansas,Bradley County,3654,2335,63.90%
+Arkansas,Union County,16607,10478,63.09%
+Arkansas,Van Buren County,7807,6034,77.29%
+Arkansas,Washington County,94266,47504,50.39%
+Arkansas,White County,30885,24182,78.30%
+Arkansas,Woodruff County,2476,1543,62.32%
+Arkansas,Yell County,6741,5226,77.53%
+Arkansas,Calhoun County,2182,1636,74.98%
+Arkansas,Carroll County,11797,7424,62.93%
+Arkansas,Chicot County,4103,1752,42.70%
+California,Fresno County,364809,164464,45.08%
+California,Glenn County,11292,7063,62.55%
+California,Humboldt County,68828,21770,31.63%
+California,Imperial County,56718,20847,36.76%
+California,Inyo County,9481,4620,48.73%
+California,Kern County,305226,164484,53.89%
+California,Kings County,43858,24072,54.89%
+California,Lake County,28800,13123,45.57%
+California,Lassen County,11985,8970,74.84%
+California,Los Angeles County,4263443,1145530,26.87%
+California,Alameda County,769864,136309,17.71%
+California,Madera County,53722,29378,54.69%
+California,Marin County,155801,24612,15.80%
+California,Mariposa County,10280,5950,57.88%
+California,Mendocino County,43336,13267,30.61%
+California,Merced County,90541,39397,43.51%
+California,Modoc County,4338,3109,71.67%
+California,Mono County,6737,2513,37.30%
+California,Monterey County,163883,46299,28.25%
+California,Napa County,72122,20676,28.67%
+California,Nevada County,64738,26779,41.37%
+California,Alpine County,741,244,32.93%
+California,Orange County,1521725,676498,44.46%
+California,Placer County,235017,122488,52.12%
+California,Plumas County,11256,6445,57.26%
+California,Riverside County,996156,448702,45.04%
+California,Sacramento County,718290,259405,36.11%
+California,San Benito County,28821,10590,36.74%
+California,San Bernardino County,840931,366257,43.55%
+California,San Diego County,1601722,600094,37.47%
+California,San Francisco County,443458,56417,12.72%
+California,San Joaquin County,288443,121098,41.98%
+California,Amador County,22302,13585,60.91%
+California,San Luis Obispo County,159681,67436,42.23%
+California,San Mateo County,374138,75563,20.20%
+California,Santa Barbara County,200288,65736,32.82%
+California,Santa Clara County,850522,214612,25.23%
+California,Santa Cruz County,144796,26937,18.60%
+California,Shasta County,92900,60789,65.43%
+California,Sierra County,1930,1142,59.17%
+California,Siskiyou County,23450,13290,56.67%
+California,Solano County,205831,69306,33.67%
+California,Sonoma County,268252,61825,23.05%
+California,Butte County,102042,48730,47.75%
+California,Stanislaus County,214876,104145,48.47%
+California,Sutter County,42640,24375,57.16%
+California,Tehama County,28721,19141,66.64%
+California,Trinity County,6258,3188,50.94%
+California,Tulare County,146832,77579,52.84%
+California,Tuolumne County,30401,17689,58.19%
+California,Ventura County,422698,162207,38.37%
+California,Yolo County,97264,27292,28.06%
+California,Yuba County,29787,17676,59.34%
+California,Calaveras County,27164,16518,60.81%
+California,Colusa County,7951,4554,57.28%
+California,Contra Costa County,581230,152877,26.30%
+California,Del Norte County,11452,6461,56.42%
+California,El Dorado County,116138,61838,53.25%
+Colorado,Clear Creek County,6548,2754,42.06%
+Colorado,Conejos County,4333,2286,52.76%
+Colorado,Costilla County,2094,741,35.39%
+Colorado,Crowley County,1750,1271,72.63%
+Colorado,Custer County,3634,2474,68.08%
+Colorado,Delta County,19370,13081,67.53%
+Colorado,Denver County,393827,71618,18.19%
+Colorado,Dolores County,1449,1089,75.16%
+Colorado,Douglas County,231599,121270,52.36%
+Colorado,Eagle County,29140,9892,33.95%
+Colorado,Adams County,236735,95657,40.41%
+Colorado,Elbert County,18983,14027,73.89%
+Colorado,El Paso County,378849,202828,53.54%
+Colorado,Fremont County,25557,17517,68.54%
+Colorado,Garfield County,30904,14717,47.62%
+Colorado,Gilpin County,4186,1833,43.79%
+Colorado,Grand County,9870,4883,49.47%
+Colorado,Gunnison County,11190,3735,33.38%
+Colorado,Hinsdale County,632,353,55.85%
+Colorado,Huerfano County,4406,2203,50.00%
+Colorado,Jackson County,876,681,77.74%
+Colorado,Alamosa County,7808,3813,48.83%
+Colorado,Jefferson County,377357,148417,39.33%
+Colorado,Kiowa County,903,795,88.04%
+Colorado,Kit Carson County,3871,3144,81.22%
+Colorado,Lake County,3961,1497,37.79%
+Colorado,La Plata County,35667,14233,39.91%
+Colorado,Larimer County,224338,91489,40.78%
+Colorado,Las Animas County,7961,4284,53.81%
+Colorado,Lincoln County,2651,2135,80.54%
+Colorado,Logan County,10532,8087,76.79%
+Colorado,Mesa County,90622,56894,62.78%
+Colorado,Arapahoe County,350183,127323,36.36%
+Colorado,Mineral County,756,427,56.48%
+Colorado,Moffat County,7026,5670,80.70%
+Colorado,Montezuma County,15500,9306,60.04%
+Colorado,Montrose County,24922,16770,67.29%
+Colorado,Morgan County,13744,9593,69.80%
+Colorado,Otero County,9576,5756,60.11%
+Colorado,Ouray County,4020,1577,39.23%
+Colorado,Park County,12290,6991,56.88%
+Colorado,Phillips County,2485,1958,78.79%
+Colorado,Pitkin County,11957,2780,23.25%
+Colorado,Archuleta County,9144,5189,56.75%
+Colorado,Prowers County,5561,4008,72.07%
+Colorado,Pueblo County,88299,42252,47.85%
+Colorado,Rio Blanco County,3691,3061,82.93%
+Colorado,Rio Grande County,6305,3660,58.05%
+Colorado,Routt County,16876,5925,35.11%
+Colorado,Saguache County,3389,1413,41.69%
+Colorado,San Juan County,563,202,35.88%
+Colorado,San Miguel County,5147,1136,22.07%
+Colorado,Sedgwick County,1446,1121,77.52%
+Colorado,Summit County,18479,5322,28.80%
+Colorado,Baca County,2225,1867,83.91%
+Colorado,Teller County,16939,11241,66.36%
+Colorado,Washington County,3008,2595,86.27%
+Colorado,Weld County,166968,96145,57.58%
+Colorado,Yuma County,4981,4107,82.45%
+Colorado,Broomfield County,46632,16295,34.94%
+Colorado,Bent County,2274,1503,66.09%
+Colorado,Boulder County,206111,42501,20.62%
+Colorado,Chaffee County,13717,6222,45.36%
+Colorado,Cheyenne County,1136,993,87.41%
+Connecticut,North Canaan,1705,812,47.62%
+Connecticut,North Haven,15441,7879,51.03%
+Connecticut,North Stonington,3375,1710,50.67%
+Connecticut,Norwalk,43219,13311,30.80%
+Connecticut,Norwich,15290,5643,36.91%
+Connecticut,Old Lyme,5413,2099,38.78%
+Connecticut,Old Saybrook,7343,2995,40.79%
+Connecticut,Orange,9253,4317,46.66%
+Connecticut,Oxford,8514,5118,60.11%
+Connecticut,Plainfield,7086,4080,57.58%
+Connecticut,Bethlehem,2367,1393,58.85%
+Connecticut,Plainville,9647,4811,49.87%
+Connecticut,Plymouth,6593,3984,60.43%
+Connecticut,Pomfret,2524,1113,44.10%
+Connecticut,Portland,5888,2641,44.85%
+Connecticut,Preston,2868,1529,53.31%
+Connecticut,Prospect,6111,3935,64.39%
+Connecticut,Putnam,4350,2193,50.41%
+Connecticut,Redding,5975,2052,34.34%
+Connecticut,Ridgefield,16245,5689,35.02%
+Connecticut,Rocky Hill,10940,4670,42.69%
+Connecticut,Bloomfield,12821,1698,13.24%
+Connecticut,Roxbury,1622,660,40.69%
+Connecticut,Salem,2623,1291,49.22%
+Connecticut,Salisbury,2555,502,19.65%
+Connecticut,Scotland,970,537,55.36%
+Connecticut,Seymour,9392,5242,55.81%
+Connecticut,Sharon,1555,510,32.80%
+Connecticut,Shelton,23892,12747,53.35%
+Connecticut,Sherman,2336,1076,46.06%
+Connecticut,Simsbury,16174,5575,34.47%
+Connecticut,Somers,5731,3204,55.91%
+Connecticut,Bolton,3288,1482,45.07%
+Connecticut,Southbury,12990,6260,48.19%
+Connecticut,Southington,26718,13473,50.43%
+Connecticut,South Windsor,15523,5630,36.27%
+Connecticut,Sprague,1557,882,56.65%
+Connecticut,Stafford,6422,3461,53.89%
+Connecticut,Stamford,59412,18242,30.70%
+Connecticut,Sterling,1908,1229,64.41%
+Connecticut,Stonington,11889,4240,35.66%
+Connecticut,Stratford,28194,10516,37.30%
+Connecticut,Suffield,8686,4155,47.84%
+Connecticut,Bozrah,1548,817,52.78%
+Connecticut,Thomaston,4374,2768,63.28%
+Connecticut,Thompson,5155,3005,58.29%
+Connecticut,Tolland,9257,3975,42.94%
+Connecticut,Torrington,16824,9220,54.80%
+Connecticut,Trumbull,22002,9769,44.40%
+Connecticut,Union,571,307,53.77%
+Connecticut,Vernon,15400,5848,37.97%
+Connecticut,Voluntown,1524,918,60.24%
+Connecticut,Wallingford,25785,11831,45.88%
+Connecticut,Warren,945,470,49.74%
+Connecticut,Branford,17913,7098,39.62%
+Connecticut,Washington,2268,770,33.95%
+Connecticut,Waterbury,36107,14157,39.21%
+Connecticut,Waterford,12316,5124,41.60%
+Connecticut,Watertown,12754,7976,62.54%
+Connecticut,Westbrook,4311,1958,45.42%
+Connecticut,West Hartford,36291,8451,23.29%
+Connecticut,West Haven,22605,8126,35.95%
+Connecticut,Weston,6528,1680,25.74%
+Connecticut,Westport,17523,4222,24.09%
+Connecticut,Wethersfield,16277,6413,39.40%
+Connecticut,Bridgeport,42188,8269,19.60%
+Connecticut,Willington,3204,1445,45.10%
+Connecticut,Wilton,11715,3819,32.60%
+Connecticut,Winchester,5133,2799,54.53%
+Connecticut,Windham,8348,2824,33.83%
+Connecticut,Windsor,17514,4090,23.35%
+Connecticut,Windsor Locks,7021,3156,44.95%
+Connecticut,Wolcott,10002,6519,65.18%
+Connecticut,Woodbridge,5739,1816,31.64%
+Connecticut,Woodbury,6559,3295,50.24%
+Connecticut,Woodstock,5179,2520,48.66%
+Connecticut,Bridgewater,1233,549,44.53%
+Connecticut,Bristol,29799,13834,46.42%
+Connecticut,Brookfield,10807,5226,48.36%
+Connecticut,Brooklyn,4222,2262,53.58%
+Connecticut,Andover,2091,998,47.73%
+Connecticut,Burlington,6233,3034,48.68%
+Connecticut,Canaan,655,209,31.91%
+Connecticut,Canterbury,3012,1755,58.27%
+Connecticut,Canton,6663,2663,39.97%
+Connecticut,Chaplin,1290,662,51.32%
+Connecticut,Cheshire,17418,7349,42.19%
+Connecticut,Chester,2596,853,32.86%
+Connecticut,Clinton,7804,3312,42.44%
+Connecticut,Colchester,9691,4243,43.78%
+Connecticut,Colebrook,988,563,56.98%
+Connecticut,Ansonia,8419,3797,45.10%
+Connecticut,Columbia,3568,1600,44.84%
+Connecticut,Cornwall,1032,250,24.22%
+Connecticut,Coventry,7772,3545,45.61%
+Connecticut,Cromwell,8783,3749,42.68%
+Connecticut,Danbury,32021,12788,39.94%
+Connecticut,Darien,13018,4921,37.80%
+Connecticut,Deep River,2902,1076,37.08%
+Connecticut,Derby,5778,2749,47.58%
+Connecticut,Durham,4782,2330,48.72%
+Connecticut,Eastford,1067,572,53.61%
+Connecticut,Ashford,2544,1160,45.60%
+Connecticut,East Granby,3264,1405,43.05%
+Connecticut,East Haddam,5825,2731,46.88%
+Connecticut,East Hampton,7988,3746,46.90%
+Connecticut,East Hartford,20607,5524,26.81%
+Connecticut,East Haven,14501,7572,52.22%
+Connecticut,East Lyme,11756,4285,36.45%
+Connecticut,Easton,5023,2178,43.36%
+Connecticut,East Windsor,5652,2541,44.96%
+Connecticut,Ellington,9491,4515,47.57%
+Connecticut,Enfield,20929,9298,44.43%
+Connecticut,Avon,11987,4469,37.28%
+Connecticut,Essex,4715,1635,34.68%
+Connecticut,Fairfield,35414,12052,34.03%
+Connecticut,Farmington,16037,6160,38.41%
+Connecticut,Franklin,1261,674,53.45%
+Connecticut,Glastonbury,22374,7998,35.75%
+Connecticut,Goshen,2100,1161,55.29%
+Connecticut,Granby,7373,3166,42.94%
+Connecticut,Greenwich,36112,13269,36.74%
+Connecticut,Griswold,5981,3257,54.46%
+Connecticut,Groton,17389,6272,36.07%
+Connecticut,Barkhamsted,2442,1228,50.29%
+Connecticut,Guilford,14867,5050,33.97%
+Connecticut,Haddam,5517,2693,48.81%
+Connecticut,Hamden,29104,7139,24.53%
+Connecticut,Hampton,1139,551,48.38%
+Connecticut,Hartford,32687,4116,12.59%
+Connecticut,Hartland,1292,818,63.31%
+Connecticut,Harwinton,3701,2229,60.23%
+Connecticut,Hebron,6266,2731,43.58%
+Connecticut,Kent,1865,568,30.46%
+Connecticut,Killingly,8283,4678,56.48%
+Connecticut,Beacon Falls,3803,2191,57.61%
+Connecticut,Killingworth,4387,1979,45.11%
+Connecticut,Lebanon,4438,2268,51.10%
+Connecticut,Ledyard,8427,3664,43.48%
+Connecticut,Lisbon,2490,1331,53.45%
+Connecticut,Litchfield,5342,2555,47.83%
+Connecticut,Lyme,1772,576,32.51%
+Connecticut,Madison,12437,4638,37.29%
+Connecticut,Manchester,28466,8530,29.97%
+Connecticut,Mansfield,7485,1708,22.82%
+Connecticut,Marlborough,4062,1861,45.81%
+Connecticut,Berlin,12873,6687,51.95%
+Connecticut,Meriden,25326,9981,39.41%
+Connecticut,Middlebury,5078,2741,53.98%
+Connecticut,Middlefield,2853,1356,47.53%
+Connecticut,Middletown,23509,7611,32.37%
+Connecticut,Milford,32062,13997,43.66%
+Connecticut,Monroe,12002,5989,49.90%
+Connecticut,Montville,8873,4242,47.81%
+Connecticut,Morris,1561,874,55.99%
+Connecticut,Naugatuck,14904,7740,51.93%
+Connecticut,New Britain,24071,7724,32.09%
+Connecticut,Bethany,3698,1718,46.46%
+Connecticut,New Canaan,12365,4855,39.26%
+Connecticut,New Fairfield,8558,4343,50.75%
+Connecticut,New Hartford,4577,2382,52.04%
+Connecticut,New Haven,42102,6146,14.60%
+Connecticut,Newington,17355,7074,40.76%
+Connecticut,New London,9123,2045,22.42%
+Connecticut,New Milford,15734,7493,47.62%
+Connecticut,Newtown,17269,7292,42.23%
+Connecticut,Norfolk,1060,381,35.94%
+Connecticut,North Branford,8631,4786,55.45%
+Connecticut,Bethel,11172,4734,42.37%
+Delaware,Kent County,87025,41009,47.12%
+Delaware,New Castle County,287633,88364,30.72%
+Delaware,Sussex County,129352,71230,55.07%
+District of Columbia,District of Columbia,41681,1725,4.14%
+District of Columbia,Ward 2,32881,2918,8.87%
+District of Columbia,Ward 3,44231,3705,8.38%
+District of Columbia,Ward 4,45296,1913,4.22%
+District of Columbia,Ward 5,46107,1769,3.84%
+District of Columbia,Ward 6,62918,4337,6.89%
+District of Columbia,Ward 7,38384,1134,2.95%
+District of Columbia,Ward 8,32858,1085,3.30%
+Florida,Alachua County,142604,50972,35.74%
+Florida,Baker County,14059,11911,84.72%
+Florida,Bay County,93024,66097,71.05%
+Florida,Bradford County,13632,10334,75.81%
+Florida,Brevard County,360764,207883,57.62%
+Florida,Broward County,957672,333409,34.81%
+Florida,Calhoun County,6526,5274,80.82%
+Florida,Charlotte County,116340,73243,62.96%
+Florida,Citrus County,93208,65352,70.11%
+Florida,Clay County,124405,84480,67.91%
+Florida,Collier County,207818,128950,62.05%
+Florida,Columbia County,33042,23836,72.14%
+Florida,DeSoto County,12659,8313,65.67%
+Florida,Dixie County,8167,6759,82.76%
+Florida,Duval County,492820,233762,47.43%
+Florida,Escambia County,170372,96674,56.74%
+Florida,Flagler County,71716,43043,60.02%
+Florida,Franklin County,6849,4675,68.26%
+Florida,Gadsden County,23762,7465,31.42%
+Florida,Gilchrist County,9685,7895,81.52%
+Florida,Glades County,5193,3782,72.83%
+Florida,Gulf County,8163,6113,74.89%
+Florida,Hamilton County,5830,3815,65.44%
+Florida,Hardee County,8485,6122,72.15%
+Florida,Hendry County,12940,7906,61.10%
+Florida,Hernando County,108922,70412,64.64%
+Florida,Highlands County,52170,34873,66.84%
+Florida,Hillsborough County,712063,327398,45.98%
+Florida,Holmes County,9068,8080,89.10%
+Florida,Indian River County,97484,58872,60.39%
+Florida,Jackson County,22419,15488,69.08%
+Florida,Jefferson County,8451,4479,53.00%
+Florida,Lafayette County,3658,3128,85.51%
+Florida,Lake County,211314,125859,59.56%
+Florida,Lee County,393899,233247,59.21%
+Florida,Leon County,162929,57453,35.26%
+Florida,Levy County,23145,16749,72.37%
+Florida,Liberty County,3561,2846,79.92%
+Florida,Madison County,9380,5576,59.45%
+Florida,Manatee County,216958,124987,57.61%
+Florida,Marion County,204376,127826,62.54%
+Florida,Martin County,98726,61168,61.96%
+Florida,Miami-Dade County,1156816,532833,46.06%
+Florida,Monroe County,48029,25693,53.49%
+Florida,Nassau County,58811,42566,72.38%
+Florida,Okaloosa County,116373,79798,68.57%
+Florida,Okeechobee County,15954,11470,71.89%
+Florida,Orange County,647403,245398,37.90%
+Florida,Osceola County,172436,73480,42.61%
+Florida,Palm Beach County,773158,334711,43.29%
+Florida,Pasco County,301970,179621,59.48%
+Florida,Pinellas County,559715,276209,49.35%
+Florida,Polk County,343256,194586,56.69%
+Florida,Putnam County,36373,25514,70.15%
+Florida,St. Johns County,176622,110946,62.82%
+Florida,St. Lucie County,172169,86831,50.43%
+Florida,Santa Rosa County,106928,77385,72.37%
+Florida,Sarasota County,270575,148370,54.84%
+Florida,Seminole County,260815,125241,48.02%
+Florida,Sumter County,92485,62761,67.86%
+Florida,Suwannee County,21057,16410,77.93%
+Florida,Taylor County,10127,7751,76.54%
+Florida,Union County,6245,5133,82.19%
+Florida,Volusia County,307439,173821,56.54%
+Florida,Wakulla County,18404,12874,69.95%
+Florida,Walton County,43711,32947,75.37%
+Florida,Washington County,12327,9876,80.12%
+Georgia,Appling County,8390,6570,78.31%
+Georgia,Atkinson County,3155,2300,72.90%
+Georgia,Bacon County,4667,4017,86.07%
+Georgia,Baker County,1555,897,57.68%
+Georgia,Baldwin County,18251,8903,48.78%
+Georgia,Banks County,8801,7795,88.57%
+Georgia,Barrow County,37921,26804,70.68%
+Georgia,Bartow County,50464,37672,74.65%
+Georgia,Ben Hill County,6564,4111,62.63%
+Georgia,Berrien County,7743,6419,82.90%
+Georgia,Bibb County,70714,26559,37.56%
+Georgia,Bleckley County,5708,4329,75.84%
+Georgia,Brantley County,7749,6993,90.24%
+Georgia,Brooks County,7101,4261,60.01%
+Georgia,Bryan County,21335,14240,66.74%
+Georgia,Bulloch County,30090,18387,61.11%
+Georgia,Burke County,10683,5400,50.55%
+Georgia,Butts County,11771,8406,71.41%
+Georgia,Calhoun County,2198,923,41.99%
+Georgia,Camden County,23686,15249,64.38%
+Georgia,Candler County,4431,3133,70.71%
+Georgia,Carroll County,54472,37476,68.80%
+Georgia,Catoosa County,32593,25167,77.22%
+Georgia,Charlton County,4568,3419,74.85%
+Georgia,Chatham County,133408,53232,39.90%
+Georgia,Chattahoochee County,1582,880,55.63%
+Georgia,Chattooga County,10050,8064,80.24%
+Georgia,Cherokee County,144815,99585,68.77%
+Georgia,Clarke County,51346,14450,28.14%
+Georgia,Clay County,1435,637,44.39%
+Georgia,Clayton County,112330,15811,14.08%
+Georgia,Clinch County,2861,2105,73.58%
+Georgia,Cobb County,393728,165436,42.02%
+Georgia,Coffee County,15214,10578,69.53%
+Georgia,Colquitt County,16086,11777,73.21%
+Georgia,Columbia County,80575,50013,62.07%
+Georgia,Cook County,7035,4900,69.65%
+Georgia,Coweta County,76799,51501,67.06%
+Georgia,Crawford County,6102,4428,72.57%
+Georgia,Crisp County,8033,4985,62.06%
+Georgia,Dade County,7434,6066,81.60%
+Georgia,Dawson County,16081,13398,83.32%
+Georgia,Decatur County,11625,6755,58.11%
+Georgia,DeKalb County,370746,58377,15.75%
+Georgia,Dodge County,8071,5843,72.39%
+Georgia,Dooly County,4105,2159,52.59%
+Georgia,Dougherty County,35287,10441,29.59%
+Georgia,Douglas County,69106,25454,36.83%
+Georgia,Early County,5188,2710,52.24%
+Georgia,Echols County,1441,1256,87.16%
+Georgia,Effingham County,31571,23361,74.00%
+Georgia,Elbert County,9171,6226,67.89%
+Georgia,Emanuel County,9505,6553,68.94%
+Georgia,Evans County,4247,2888,68.00%
+Georgia,Fannin County,14849,12169,81.95%
+Georgia,Fayette County,71994,37956,52.72%
+Georgia,Floyd County,41341,28906,69.92%
+Georgia,Forsyth County,129311,85123,65.83%
+Georgia,Franklin County,10765,9069,84.25%
+Georgia,Fulton County,523779,137247,26.20%
+Georgia,Gilmer County,16525,13429,81.26%
+Georgia,Glascock County,1565,1402,89.58%
+Georgia,Glynn County,41988,25617,61.01%
+Georgia,Gordon County,24033,19405,80.74%
+Georgia,Grady County,10707,7034,65.70%
+Georgia,Greene County,11244,7066,62.84%
+Georgia,Gwinnett County,414023,166400,40.19%
+Georgia,Habersham County,20431,16637,81.43%
+Georgia,Hall County,90537,64183,70.89%
+Georgia,Hancock County,4153,1154,27.79%
+Georgia,Haralson County,14246,12330,86.55%
+Georgia,Harris County,19991,14319,71.63%
+Georgia,Hart County,12728,9465,74.36%
+Georgia,Heard County,5394,4519,83.78%
+Georgia,Henry County,122998,48259,39.24%
+Georgia,Houston County,74838,41540,55.51%
+Georgia,Irwin County,4168,3134,75.19%
+Georgia,Jackson County,37675,29502,78.31%
+Georgia,Jasper County,7644,5822,76.16%
+Georgia,Jeff Davis County,5771,4695,81.36%
+Georgia,Jefferson County,7639,3537,46.30%
+Georgia,Jenkins County,3455,2161,62.55%
+Georgia,Johnson County,4100,2850,69.51%
+Georgia,Jones County,14934,9940,66.56%
+Georgia,Lamar County,9045,6331,69.99%
+Georgia,Lanier County,3576,2509,70.16%
+Georgia,Laurens County,22731,14493,63.76%
+Georgia,Lee County,16714,12007,71.84%
+Georgia,Liberty County,21394,7959,37.20%
+Georgia,Lincoln County,4641,3173,68.37%
+Georgia,Long County,5657,3527,62.35%
+Georgia,Lowndes County,46355,25692,55.42%
+Georgia,Lumpkin County,15531,12163,78.31%
+Georgia,McDuffie County,10455,6169,59.01%
+Georgia,McIntosh County,6696,4016,59.98%
+Georgia,Macon County,4663,1783,38.24%
+Georgia,Madison County,14937,11326,75.83%
+Georgia,Marion County,3625,2275,62.76%
+Georgia,Meriwether County,10877,6524,59.98%
+Georgia,Miller County,2834,2066,72.90%
+Georgia,Mitchell County,8962,4935,55.07%
+Georgia,Monroe County,15590,11057,70.92%
+Georgia,Montgomery County,3967,2960,74.62%
+Georgia,Morgan County,11706,8231,70.31%
+Georgia,Murray County,15389,12944,84.11%
+Georgia,Muscogee County,80514,30107,37.39%
+Georgia,Newton County,54234,23869,44.01%
+Georgia,Oconee County,25168,16595,65.94%
+Georgia,Oglethorpe County,8133,5592,68.76%
+Georgia,Paulding County,85372,54517,63.86%
+Georgia,Peach County,12553,6506,51.83%
+Georgia,Pickens County,17167,14110,82.19%
+Georgia,Pierce County,9047,7898,87.30%
+Georgia,Pike County,10720,9127,85.14%
+Georgia,Polk County,17396,13587,78.10%
+Georgia,Pulaski County,4081,2815,68.98%
+Georgia,Putnam County,11855,8291,69.94%
+Georgia,Quitman County,1106,604,54.61%
+Georgia,Rabun County,9568,7474,78.11%
+Georgia,Randolph County,3073,1390,45.23%
+Georgia,Richmond County,87009,26780,30.78%
+Georgia,Rockdale County,44681,13014,29.13%
+Georgia,Schley County,2275,1800,79.12%
+Georgia,Screven County,6627,3915,59.08%
+Georgia,Seminole County,3888,2613,67.21%
+Georgia,Spalding County,30211,18104,59.93%
+Georgia,Stephens County,11885,9367,78.81%
+Georgia,Stewart County,1990,801,40.25%
+Georgia,Sumter County,12148,5733,47.19%
+Georgia,Talbot County,3522,1392,39.52%
+Georgia,Taliaferro County,928,360,38.79%
+Georgia,Tattnall County,8185,6054,73.96%
+Georgia,Taylor County,3842,2420,62.99%
+Georgia,Telfair County,4334,2825,65.18%
+Georgia,Terrell County,4416,2004,45.38%
+Georgia,Thomas County,21872,12969,59.29%
+Georgia,Tift County,16279,10784,66.24%
+Georgia,Toombs County,10914,7873,72.14%
+Georgia,Towns County,7979,6384,80.01%
+Georgia,Treutlen County,3077,2101,68.28%
+Georgia,Troup County,30047,18142,60.38%
+Georgia,Turner County,3791,2349,61.96%
+Georgia,Twiggs County,4444,2370,53.33%
+Georgia,Union County,15558,12650,81.31%
+Georgia,Upson County,12905,8606,66.69%
+Georgia,Walker County,29354,23173,78.94%
+Georgia,Walton County,51093,37839,74.06%
+Georgia,Ware County,14189,9903,69.79%
+Georgia,Warren County,2650,1166,44.00%
+Georgia,Washington County,9477,4668,49.26%
+Georgia,Wayne County,12779,9987,78.15%
+Georgia,Webster County,1391,748,53.77%
+Georgia,Wheeler County,2285,1583,69.28%
+Georgia,White County,14816,12222,82.49%
+Georgia,Whitfield County,36766,25644,69.75%
+Georgia,Wilcox County,3279,2402,73.25%
+Georgia,Wilkes County,5030,2823,56.12%
+Georgia,Wilkinson County,4770,2665,55.87%
+Georgia,Worth County,9285,6830,73.56%
+Hawaii,Hawaii County,87814,26897,30.63%
+Hawaii,Honolulu County,382114,136259,35.66%
+Hawaii,Kauai County,33497,11582,34.58%
+Hawaii,Maui County,71044,22126,31.14%
+Idaho,Ada County,259389,130699,50.39%
+Idaho,Adams County,2586,1941,75.06%
+Idaho,Bannock County,39553,23331,58.99%
+Idaho,Bear Lake County,3315,2914,87.90%
+Idaho,Benewah County,4973,3878,77.98%
+Idaho,Bingham County,20094,15295,76.12%
+Idaho,Blaine County,13288,4031,30.34%
+Idaho,Boise County,4820,3485,72.30%
+Idaho,Bonner County,27352,18369,67.16%
+Idaho,Bonneville County,53995,37805,70.02%
+Idaho,Boundary County,6313,4937,78.20%
+Idaho,Butte County,1415,1202,84.95%
+Idaho,Camas County,754,507,67.24%
+Idaho,Canyon County,90438,61759,68.29%
+Idaho,Caribou County,3416,2906,85.07%
+Idaho,Cassia County,9629,7907,82.12%
+Idaho,Clark County,311,264,84.89%
+Idaho,Clearwater County,4419,3453,78.14%
+Idaho,Custer County,2739,2089,76.27%
+Idaho,Elmore County,10205,7246,71.00%
+Idaho,Franklin County,6664,5845,87.71%
+Idaho,Fremont County,6719,5548,82.57%
+Idaho,Gem County,9958,7951,79.85%
+Idaho,Gooding County,6050,4659,77.01%
+Idaho,Idaho County,9602,7826,81.50%
+Idaho,Jefferson County,14173,12099,85.37%
+Idaho,Jerome County,7812,5734,73.40%
+Idaho,Kootenai County,89878,62837,69.91%
+Idaho,Latah County,20570,9472,46.05%
+Idaho,Lemhi County,4738,3592,75.81%
+Idaho,Lewis County,1870,1489,79.63%
+Idaho,Lincoln County,1940,1469,75.72%
+Idaho,Madison County,17112,13559,79.24%
+Idaho,Minidoka County,7993,6265,78.38%
+Idaho,Nez Perce County,20967,13738,65.52%
+Idaho,Oneida County,2451,2148,87.64%
+Idaho,Owyhee County,4742,3819,80.54%
+Idaho,Payette County,11293,8862,78.47%
+Idaho,Power County,3086,2116,68.57%
+Idaho,Shoshone County,6049,4216,69.70%
+Idaho,Teton County,6347,2858,45.03%
+Idaho,Twin Falls County,36680,25897,70.60%
+Idaho,Valley County,7063,3947,55.88%
+Idaho,Washington County,5344,4154,77.73%
+Illinois,Adams County,33527,24220,72.24%
+Illinois,Alexander County,2625,1486,56.61%
+Illinois,Bond County,8144,5625,69.07%
+Illinois,Boone County,24979,13883,55.58%
+Illinois,Brown County,2525,1931,76.48%
+Illinois,Bureau County,17434,10411,59.72%
+Illinois,Calhoun County,2773,2046,73.78%
+Illinois,Carroll County,8024,5105,63.62%
+Illinois,Cass County,5326,3625,68.06%
+Illinois,Champaign County,95568,35285,36.92%
+Illinois,Christian County,16204,11563,71.36%
+Illinois,Clark County,8355,6226,74.52%
+Illinois,Clay County,6899,5629,81.59%
+Illinois,Clinton County,19214,14304,74.45%
+Illinois,Coles County,22606,14037,62.09%
+Illinois,Cook County,2321399,558269,24.05%
+Illinois,Crawford County,9441,7043,74.60%
+Illinois,Cumberland County,5850,4601,78.65%
+Illinois,DeKalb County,47989,21905,45.65%
+Illinois,De Witt County,8024,5632,70.19%
+Illinois,Douglas County,8760,6227,71.08%
+Illinois,DuPage County,485064,193611,39.91%
+Illinois,Edgar County,8196,6193,75.56%
+Illinois,Edwards County,3368,2833,84.12%
+Illinois,Effingham County,19083,15006,78.64%
+Illinois,Fayette County,10076,8055,79.94%
+Illinois,Ford County,6967,5048,72.46%
+Illinois,Franklin County,18669,13622,72.97%
+Illinois,Fulton County,16724,9867,59.00%
+Illinois,Gallatin County,2675,2019,75.48%
+Illinois,Greene County,6227,4770,76.60%
+Illinois,Grundy County,26753,16523,61.76%
+Illinois,Hamilton County,4323,3432,79.39%
+Illinois,Hancock County,9383,6906,73.60%
+Illinois,Hardin County,2162,1691,78.21%
+Illinois,Henderson County,3656,2394,65.48%
+Illinois,Henry County,25700,15300,59.53%
+Illinois,Iroquois County,14044,10877,77.45%
+Illinois,Jackson County,22716,10890,47.94%
+Illinois,Jasper County,5586,4494,80.45%
+Illinois,Jefferson County,17436,12476,71.55%
+Illinois,Jersey County,11960,8712,72.84%
+Illinois,Jo Daviess County,12495,7166,57.35%
+Illinois,Johnson County,6450,5059,78.43%
+Illinois,Kane County,231876,96775,41.74%
+Illinois,Kankakee County,50039,28532,57.02%
+Illinois,Kendall County,64205,29492,45.93%
+Illinois,Knox County,23205,12009,51.75%
+Illinois,Lake County,334156,123594,36.99%
+Illinois,LaSalle County,53683,30113,56.09%
+Illinois,Lawrence County,6422,4886,76.08%
+Illinois,Lee County,16440,9630,58.58%
+Illinois,Livingston County,17174,12208,71.08%
+Illinois,Logan County,13294,9136,68.72%
+Illinois,McDonough County,12285,7027,57.20%
+Illinois,McHenry County,164578,82260,49.98%
+Illinois,McLean County,87389,40502,46.35%
+Illinois,Macon County,49387,28589,57.89%
+Illinois,Macoupin County,24070,16153,67.11%
+Illinois,Madison County,137558,76031,55.27%
+Illinois,Marion County,17492,12678,72.48%
+Illinois,Marshall County,6345,4197,66.15%
+Illinois,Mason County,6766,4654,68.79%
+Illinois,Massac County,6818,4997,73.29%
+Illinois,Menard County,6954,4764,68.51%
+Illinois,Mercer County,8914,5418,60.78%
+Illinois,Monroe County,21206,14142,66.69%
+Illinois,Montgomery County,13761,9544,69.36%
+Illinois,Morgan County,15333,9950,64.89%
+Illinois,Moultrie County,6744,4964,73.61%
+Illinois,Ogle County,26340,16248,61.69%
+Illinois,Peoria County,83973,38252,45.55%
+Illinois,Perry County,10071,7313,72.61%
+Illinois,Piatt County,9851,6248,63.43%
+Illinois,Pike County,7965,6332,79.50%
+Illinois,Pope County,2175,1722,79.17%
+Illinois,Pulaski County,2631,1699,64.58%
+Illinois,Putnam County,3390,1993,58.79%
+Illinois,Randolph County,14910,11076,74.29%
+Illinois,Richland County,8063,6089,75.52%
+Illinois,Rock Island County,66817,28603,42.81%
+Illinois,St. Clair County,128104,57150,44.61%
+Illinois,Saline County,11089,8103,73.07%
+Illinois,Sangamon County,104751,53485,51.06%
+Illinois,Schuyler County,3918,2773,70.78%
+Illinois,Scott County,2741,2114,77.13%
+Illinois,Shelby County,12097,9426,77.92%
+Illinois,Stark County,2886,2004,69.44%
+Illinois,Stephenson County,22048,12521,56.79%
+Illinois,Tazewell County,69051,42513,61.57%
+Illinois,Union County,8904,6161,69.19%
+Illinois,Vermilion County,31642,20725,65.50%
+Illinois,Wabash County,5607,4237,75.57%
+Illinois,Warren County,7924,4676,59.01%
+Illinois,Washington County,7921,6115,77.20%
+Illinois,Wayne County,8499,7176,84.43%
+Illinois,White County,7431,5791,77.93%
+Illinois,Whiteside County,27375,14527,53.07%
+Illinois,Will County,346266,155116,44.80%
+Illinois,Williamson County,33729,22801,67.60%
+Illinois,Winnebago County,127710,60861,47.66%
+Illinois,Woodford County,21498,14799,68.84%
+Illinois,Cook Suburbs,1176658,377035,32.04%
+Indiana,Adams County,14209,10686,75.21%
+Indiana,Allen County,169082,92083,54.46%
+Indiana,Bartholomew County,36235,22410,61.85%
+Indiana,Benton County,4114,3007,73.09%
+Indiana,Blackford County,5350,3841,71.79%
+Indiana,Boone County,38520,22351,58.02%
+Indiana,Brown County,8981,5777,64.32%
+Indiana,Carroll County,9495,7086,74.63%
+Indiana,Cass County,15198,10552,69.43%
+Indiana,Clark County,57869,33668,58.18%
+Indiana,Clay County,12267,9499,77.44%
+Indiana,Clinton County,12949,9334,72.08%
+Indiana,Crawford County,4944,3483,70.45%
+Indiana,Daviess County,11954,9576,80.11%
+Indiana,Dearborn County,25383,19528,76.93%
+Indiana,Decatur County,12287,9575,77.93%
+Indiana,DeKalb County,19628,14237,72.53%
+Indiana,Delaware County,48191,26827,55.67%
+Indiana,Dubois County,21770,15033,69.05%
+Indiana,Elkhart County,74387,46972,63.15%
+Indiana,Fayette County,10136,7755,76.51%
+Indiana,Floyd County,41802,23400,55.98%
+Indiana,Fountain County,7986,6154,77.06%
+Indiana,Franklin County,12000,9691,80.76%
+Indiana,Fulton County,9147,6694,73.18%
+Indiana,Gibson County,16161,11817,73.12%
+Indiana,Grant County,27159,18543,68.28%
+Indiana,Greene County,14784,11103,75.10%
+Indiana,Hamilton County,193999,101587,52.36%
+Indiana,Hancock County,42911,28996,67.57%
+Indiana,Harrison County,20236,14565,71.98%
+Indiana,Hendricks County,88505,53802,60.79%
+Indiana,Henry County,21030,15043,71.53%
+Indiana,Howard County,40630,26449,65.10%
+Indiana,Huntington County,17829,13147,73.74%
+Indiana,Jackson County,19238,14555,75.66%
+Indiana,Jasper County,15475,11383,73.56%
+Indiana,Jay County,8461,6361,75.18%
+Indiana,Jefferson County,14697,9663,65.75%
+Indiana,Jennings County,12251,9490,77.46%
+Indiana,Johnson County,77618,51219,65.99%
+Indiana,Knox County,16011,11655,72.79%
+Indiana,Kosciusko County,35787,26499,74.05%
+Indiana,LaGrange County,10633,8110,76.27%
+Indiana,Lake County,219956,91760,41.72%
+Indiana,LaPorte County,49392,25997,52.63%
+Indiana,Lawrence County,21025,15601,74.20%
+Indiana,Madison County,51793,31215,60.27%
+Indiana,Marion County,389619,134175,34.44%
+Indiana,Marshall County,19927,13844,69.47%
+Indiana,Martin County,5144,4029,78.32%
+Indiana,Miami County,14473,10925,75.49%
+Indiana,Monroe County,63151,22071,34.95%
+Indiana,Montgomery County,17198,12659,73.61%
+Indiana,Morgan County,36159,27512,76.09%
+Indiana,Newton County,6591,4942,74.98%
+Indiana,Noble County,19190,14195,73.97%
+Indiana,Ohio County,3164,2392,75.60%
+Indiana,Orange County,8832,6432,72.83%
+Indiana,Owen County,9904,7286,73.57%
+Indiana,Parke County,7011,5398,76.99%
+Indiana,Perry County,8722,5345,61.28%
+Indiana,Pike County,6220,4692,75.43%
+Indiana,Porter County,86509,45008,52.03%
+Indiana,Posey County,13236,9206,69.55%
+Indiana,Pulaski County,5806,4246,73.13%
+Indiana,Putnam County,16597,12278,73.98%
+Indiana,Randolph County,11070,8312,75.09%
+Indiana,Ripley County,14271,11261,78.91%
+Indiana,Rush County,7932,6035,76.08%
+Indiana,St. Joseph County,115238,53164,46.13%
+Indiana,Scott County,10161,7328,72.12%
+Indiana,Shelby County,19991,14568,72.87%
+Indiana,Spencer County,10769,7357,68.32%
+Indiana,Starke County,10290,7466,72.56%
+Indiana,Steuben County,16162,11327,70.08%
+Indiana,Sullivan County,8994,6691,74.39%
+Indiana,Switzerland County,4154,3133,75.42%
+Indiana,Tippecanoe County,71448,34581,48.40%
+Indiana,Tipton County,8116,6110,75.28%
+Indiana,Union County,3483,2688,77.17%
+Indiana,Vanderburgh County,77662,41844,53.88%
+Indiana,Vermillion County,7481,5184,69.30%
+Indiana,Vigo County,43594,24545,56.30%
+Indiana,Wabash County,14573,10762,73.85%
+Indiana,Warren County,4472,3401,76.05%
+Indiana,Warrick County,33829,21326,63.04%
+Indiana,Washington County,12139,9114,75.08%
+Indiana,Wayne County,27679,17567,63.47%
+Indiana,Wells County,14050,10855,77.26%
+Indiana,White County,11166,7957,71.26%
+Indiana,Whitley County,17556,12862,73.26%
+Iowa,Adair County,4177,2917,69.83%
+Iowa,Adams County,2160,1530,70.83%
+Iowa,Allamakee County,7422,4735,63.80%
+Iowa,Appanoose County,6516,4512,69.24%
+Iowa,Audubon County,3420,2295,67.11%
+Iowa,Benton County,14642,9188,62.75%
+Iowa,Black Hawk County,66593,29640,44.51%
+Iowa,Boone County,15340,8695,56.68%
+Iowa,Bremer County,14546,8294,57.02%
+Iowa,Buchanan County,10774,6420,59.59%
+Iowa,Buena Vista County,8167,5056,61.91%
+Iowa,Butler County,8098,5542,68.44%
+Iowa,Calhoun County,5258,3689,70.16%
+Iowa,Carroll County,11335,7737,68.26%
+Iowa,Cass County,7276,4969,68.29%
+Iowa,Cedar County,10703,6161,57.56%
+Iowa,Cerro Gordo County,23801,12442,52.28%
+Iowa,Cherokee County,6518,4495,68.96%
+Iowa,Chickasaw County,6631,4308,64.97%
+Iowa,Clarke County,4670,3144,67.32%
+Iowa,Clay County,8969,6137,68.42%
+Iowa,Clayton County,9594,6106,63.64%
+Iowa,Clinton County,24687,13361,54.12%
+Iowa,Crawford County,7154,4854,67.85%
+Iowa,Dallas County,56022,27987,49.96%
+Iowa,Davis County,4102,3032,73.92%
+Iowa,Decatur County,3804,2615,68.74%
+Iowa,Delaware County,10003,6666,66.64%
+Iowa,Des Moines County,19956,10592,53.08%
+Iowa,Dickinson County,11244,7438,66.15%
+Iowa,Dubuque County,53926,27214,50.47%
+Iowa,Emmet County,4853,3265,67.28%
+Iowa,Fayette County,10186,6145,60.33%
+Iowa,Floyd County,8032,4732,58.91%
+Iowa,Franklin County,5130,3422,66.71%
+Iowa,Fremont County,3857,2711,70.29%
+Iowa,Greene County,5057,3223,63.73%
+Iowa,Grundy County,7276,4929,67.74%
+Iowa,Guthrie County,6371,4272,67.05%
+Iowa,Hamilton County,7943,4956,62.39%
+Iowa,Hancock County,6172,4390,71.13%
+Iowa,Hardin County,8989,5850,65.08%
+Iowa,Harrison County,8155,5569,68.29%
+Iowa,Henry County,9982,6507,65.19%
+Iowa,Howard County,4958,3127,63.07%
+Iowa,Humboldt County,5327,3819,71.69%
+Iowa,Ida County,3849,2880,74.82%
+Iowa,Iowa County,9742,6009,61.68%
+Iowa,Jackson County,11135,6940,62.33%
+Iowa,Jasper County,20184,12084,59.87%
+Iowa,Jefferson County,8959,4443,49.59%
+Iowa,Johnson County,83851,22925,27.34%
+Iowa,Jones County,10989,6572,59.81%
+Iowa,Keokuk County,5303,3797,71.60%
+Iowa,Kossuth County,9090,6275,69.03%
+Iowa,Lee County,16734,9773,58.40%
+Iowa,Linn County,127458,53364,41.87%
+Iowa,Louisa County,5332,3500,65.64%
+Iowa,Lucas County,4630,3287,70.99%
+Iowa,Lyon County,6863,5707,83.16%
+Iowa,Madison County,9824,6507,66.24%
+Iowa,Mahaska County,11404,8297,72.76%
+Iowa,Marion County,19232,12663,65.84%
+Iowa,Marshall County,18136,9571,52.77%
+Iowa,Mills County,8268,5585,67.55%
+Iowa,Mitchell County,5822,3677,63.16%
+Iowa,Monona County,4728,3248,68.70%
+Iowa,Monroe County,4088,2975,72.77%
+Iowa,Montgomery County,5327,3659,68.69%
+Iowa,Muscatine County,20671,10823,52.36%
+Iowa,O'Brien County,7551,5861,77.62%
+Iowa,Osceola County,3328,2690,80.83%
+Iowa,Page County,7528,5319,70.66%
+Iowa,Palo Alto County,4958,3370,67.97%
+Iowa,Plymouth County,14188,10492,73.95%
+Iowa,Pocahontas County,3823,2826,73.92%
+Iowa,Polk County,258755,106800,41.27%
+Iowa,Pottawattamie County,45744,26247,57.38%
+Iowa,Poweshiek County,10140,5657,55.79%
+Iowa,Ringgold County,2714,1968,72.51%
+Iowa,Sac County,5535,4061,73.37%
+Iowa,Scott County,92599,43683,47.17%
+Iowa,Shelby County,6795,4697,69.12%
+Iowa,Sioux County,19051,15680,82.31%
+Iowa,Story County,51038,20340,39.85%
+Iowa,Tama County,9048,5303,58.61%
+Iowa,Taylor County,3249,2463,75.81%
+Iowa,Union County,6185,4010,64.83%
+Iowa,Van Buren County,3791,2859,75.42%
+Iowa,Wapello County,15633,9516,60.87%
+Iowa,Warren County,31039,17782,57.29%
+Iowa,Washington County,11765,6971,59.25%
+Iowa,Wayne County,3109,2338,75.20%
+Iowa,Webster County,17822,10938,61.37%
+Iowa,Winnebago County,5970,3707,62.09%
+Iowa,Winneshiek County,12064,6235,51.68%
+Iowa,Woodbury County,45362,25736,56.73%
+Iowa,Worth County,4418,2738,61.97%
+Iowa,Wright County,6254,4136,66.13%
+Kansas,Allen County,5842,4155,71.12%
+Kansas,Anderson County,3720,2874,77.26%
+Kansas,Atchison County,7312,4826,66.00%
+Kansas,Barber County,2313,1992,86.12%
+Kansas,Barton County,10961,8480,77.37%
+Kansas,Bourbon County,6550,4910,74.96%
+Kansas,Brown County,4396,3206,72.93%
+Kansas,Butler County,31946,22250,69.65%
+Kansas,Chase County,1478,1114,75.37%
+Kansas,Chautauqua County,1634,1397,85.50%
+Kansas,Cherokee County,8945,6622,74.03%
+Kansas,Cheyenne County,1400,1158,82.71%
+Kansas,Clark County,1048,885,84.45%
+Kansas,Clay County,4134,3129,75.69%
+Kansas,Cloud County,4174,3182,76.23%
+Kansas,Coffey County,4448,3407,76.60%
+Kansas,Comanche County,904,745,82.41%
+Kansas,Cowley County,13911,9442,67.87%
+Kansas,Crawford County,16718,10045,60.08%
+Kansas,Decatur County,1458,1232,84.50%
+Kansas,Dickinson County,9246,7045,76.20%
+Kansas,Doniphan County,3674,2949,80.27%
+Kansas,Douglas County,57540,16737,29.09%
+Kansas,Edwards County,1413,1127,79.76%
+Kansas,Elk County,1347,1130,83.89%
+Kansas,Ellis County,13501,9569,70.88%
+Kansas,Ellsworth County,2806,2106,75.05%
+Kansas,Finney County,11466,7079,61.74%
+Kansas,Ford County,8850,5763,65.12%
+Kansas,Franklin County,12247,8326,67.98%
+Kansas,Geary County,9311,5193,55.77%
+Kansas,Gove County,1433,1256,87.65%
+Kansas,Graham County,1302,1052,80.80%
+Kansas,Grant County,2452,1910,77.90%
+Kansas,Gray County,2240,1871,83.53%
+Kansas,Greeley County,629,537,85.37%
+Kansas,Greenwood County,3030,2404,79.34%
+Kansas,Hamilton County,837,684,81.72%
+Kansas,Harper County,2626,2128,81.04%
+Kansas,Harvey County,17034,10015,58.79%
+Kansas,Haskell County,1383,1103,79.75%
+Kansas,Hodgeman County,1033,866,83.83%
+Kansas,Jackson County,6468,4435,68.57%
+Kansas,Jefferson County,9581,6193,64.64%
+Kansas,Jewell County,1608,1369,85.14%
+Kansas,Johnson County,349386,155631,44.54%
+Kansas,Kearny County,1413,1134,80.25%
+Kansas,Kingman County,3929,3102,78.95%
+Kansas,Kiowa County,1139,957,84.02%
+Kansas,Labette County,8414,5639,67.02%
+Kansas,Lane County,888,757,85.25%
+Kansas,Leavenworth County,36115,21378,59.19%
+Kansas,Lincoln County,1570,1273,81.08%
+Kansas,Linn County,4903,3940,80.36%
+Kansas,Logan County,1437,1231,85.66%
+Kansas,Lyon County,13622,7381,54.18%
+Kansas,McPherson County,13868,9562,68.95%
+Kansas,Marion County,5969,4377,73.33%
+Kansas,Marshall County,5023,3662,72.90%
+Kansas,Meade County,1807,1508,83.45%
+Kansas,Miami County,17624,12116,68.75%
+Kansas,Mitchell County,3039,2454,80.75%
+Kansas,Montgomery County,13177,9768,74.13%
+Kansas,Morris County,2849,2085,73.18%
+Kansas,Morton County,1163,1004,86.33%
+Kansas,Nemaha County,5625,4612,81.99%
+Kansas,Neosho County,6629,4795,72.33%
+Kansas,Ness County,1487,1315,88.43%
+Kansas,Norton County,2390,1977,82.72%
+Kansas,Osage County,7893,5591,70.83%
+Kansas,Osborne County,1899,1590,83.73%
+Kansas,Ottawa County,3159,2581,81.70%
+Kansas,Pawnee County,2712,2028,74.78%
+Kansas,Phillips County,2752,2388,86.77%
+Kansas,Pottawatomie County,12815,9247,72.16%
+Kansas,Pratt County,4107,3087,75.16%
+Kansas,Rawlins County,1496,1253,83.76%
+Kansas,Reno County,27245,17948,65.88%
+Kansas,Republic County,2643,2172,82.18%
+Kansas,Rice County,4230,3187,75.34%
+Kansas,Riley County,23855,11174,46.84%
+Kansas,Rooks County,2661,2294,86.21%
+Kansas,Rush County,1748,1425,81.52%
+Kansas,Russell County,3429,2765,80.64%
+Kansas,Saline County,23911,15313,64.04%
+Kansas,Scott County,2322,1991,85.75%
+Kansas,Sedgwick County,213552,117653,55.09%
+Kansas,Seward County,5099,3285,64.42%
+Kansas,Shawnee County,86122,40443,46.96%
+Kansas,Sheridan County,1397,1237,88.55%
+Kansas,Sherman County,2673,2222,83.13%
+Kansas,Smith County,2092,1734,82.89%
+Kansas,Stafford County,2017,1631,80.86%
+Kansas,Stanton County,767,607,79.14%
+Kansas,Stevens County,1997,1731,86.68%
+Kansas,Sumner County,10779,7998,74.20%
+Kansas,Thomas County,3794,3106,81.87%
+Kansas,Trego County,1603,1341,83.66%
+Kansas,Wabaunsee County,3861,2813,72.86%
+Kansas,Wallace County,817,762,93.27%
+Kansas,Washington County,2843,2332,82.03%
+Kansas,Wichita County,961,803,83.56%
+Kansas,Wilson County,3899,3111,79.79%
+Kansas,Woodson County,1495,1189,79.53%
+Kansas,Wyandotte County,55107,18512,33.59%
+Kentucky,Adair County,8768,7276,82.98%
+Kentucky,Allen County,9364,7587,81.02%
+Kentucky,Anderson County,13254,9661,72.89%
+Kentucky,Ballard County,4225,3356,79.43%
+Kentucky,Barren County,20064,14654,73.04%
+Kentucky,Bath County,5627,3986,70.84%
+Kentucky,Bell County,10044,8140,81.04%
+Kentucky,Boone County,66998,44814,66.89%
+Kentucky,Bourbon County,9648,6190,64.16%
+Kentucky,Boyd County,21751,14295,65.72%
+Kentucky,Boyle County,14478,8872,61.28%
+Kentucky,Bracken County,4246,3398,80.03%
+Kentucky,Breathitt County,5661,4265,75.34%
+Kentucky,Breckinridge County,10201,7701,75.49%
+Kentucky,Bullitt County,41998,30708,73.12%
+Kentucky,Butler County,6125,4960,80.98%
+Kentucky,Caldwell County,6434,4906,76.25%
+Kentucky,Calloway County,17457,11352,65.03%
+Kentucky,Campbell County,48878,28482,58.27%
+Kentucky,Carlisle County,2638,2159,81.84%
+Kentucky,Carroll County,4136,2954,71.42%
+Kentucky,Carter County,11586,8775,75.74%
+Kentucky,Casey County,7171,6179,86.17%
+Kentucky,Christian County,23863,15080,63.19%
+Kentucky,Clark County,18139,11811,65.11%
+Kentucky,Clay County,7591,6677,87.96%
+Kentucky,Clinton County,4932,4280,86.78%
+Kentucky,Crittenden County,4242,3451,81.35%
+Kentucky,Cumberland County,3309,2769,83.68%
+Kentucky,Daviess County,49287,31025,62.95%
+Kentucky,Edmonson County,6132,4828,78.73%
+Kentucky,Elliott County,2995,2246,74.99%
+Kentucky,Estill County,6540,5100,77.98%
+Kentucky,Fayette County,152912,58860,38.49%
+Kentucky,Fleming County,7068,5534,78.30%
+Kentucky,Floyd County,16353,12250,74.91%
+Kentucky,Franklin County,26072,12900,49.48%
+Kentucky,Fulton County,2426,1606,66.20%
+Kentucky,Gallatin County,3849,2955,76.77%
+Kentucky,Garrard County,8706,6754,77.58%
+Kentucky,Grant County,11108,8725,78.55%
+Kentucky,Graves County,17019,13206,77.60%
+Kentucky,Grayson County,11985,9453,78.87%
+Kentucky,Green County,5812,4838,83.24%
+Kentucky,Greenup County,18176,13064,71.88%
+Kentucky,Hancock County,4587,3145,68.56%
+Kentucky,Hardin County,48941,29832,60.96%
+Kentucky,Harlan County,10971,9367,85.38%
+Kentucky,Harrison County,8859,6334,71.50%
+Kentucky,Hart County,8370,6345,75.81%
+Kentucky,Henderson County,20697,12730,61.51%
+Kentucky,Henry County,8110,5843,72.05%
+Kentucky,Hickman County,2199,1714,77.94%
+Kentucky,Hopkins County,21512,15757,73.25%
+Kentucky,Jackson County,6113,5453,89.20%
+Kentucky,Jefferson County,386629,150646,38.96%
+Kentucky,Jessamine County,26280,17096,65.05%
+Kentucky,Johnson County,10192,8450,82.91%
+Kentucky,Kenton County,82198,48129,58.55%
+Kentucky,Knott County,6252,4780,76.46%
+Kentucky,Knox County,13273,11012,82.97%
+Kentucky,Larue County,7301,5685,77.87%
+Kentucky,Laurel County,28111,23237,82.66%
+Kentucky,Lawrence County,6955,5633,80.99%
+Kentucky,Lee County,2801,2273,81.15%
+Kentucky,Leslie County,4813,4321,89.78%
+Kentucky,Letcher County,9135,7226,79.10%
+Kentucky,Lewis County,5883,4986,84.75%
+Kentucky,Lincoln County,10914,8489,77.78%
+Kentucky,Livingston County,5004,4010,80.14%
+Kentucky,Logan County,12350,9067,73.42%
+Kentucky,Lyon County,4228,3100,73.32%
+Kentucky,McCracken County,33549,21820,65.04%
+Kentucky,McCreary County,6438,5664,87.98%
+Kentucky,McLean County,4782,3633,75.97%
+Kentucky,Madison County,43957,27356,62.23%
+Kentucky,Magoffin County,5447,4174,76.63%
+Kentucky,Marion County,8928,6113,68.47%
+Kentucky,Marshall County,17603,13297,75.54%
+Kentucky,Martin County,3936,3496,88.82%
+Kentucky,Mason County,7958,5477,68.82%
+Kentucky,Meade County,14113,10185,72.17%
+Kentucky,Menifee County,3102,2311,74.50%
+Kentucky,Mercer County,11735,8506,72.48%
+Kentucky,Metcalfe County,5012,3959,78.99%
+Kentucky,Monroe County,5330,4628,86.83%
+Kentucky,Montgomery County,12842,8993,70.03%
+Kentucky,Morgan County,5544,4301,77.58%
+Kentucky,Muhlenberg County,14235,10497,73.74%
+Kentucky,Nelson County,23256,15703,67.52%
+Kentucky,Nicholas County,3396,2408,70.91%
+Kentucky,Ohio County,11129,8582,77.11%
+Kentucky,Oldham County,37976,22654,59.65%
+Kentucky,Owen County,5458,4292,78.64%
+Kentucky,Owsley County,1896,1671,88.13%
+Kentucky,Pendleton County,6925,5515,79.64%
+Kentucky,Perry County,10626,8129,76.50%
+Kentucky,Pike County,25395,20284,79.87%
+Kentucky,Powell County,5505,4041,73.41%
+Kentucky,Pulaski County,31557,25442,80.62%
+Kentucky,Robertson County,1146,884,77.14%
+Kentucky,Rockcastle County,7784,6577,84.49%
+Kentucky,Rowan County,10065,5994,59.55%
+Kentucky,Russell County,8955,7519,83.96%
+Kentucky,Scott County,28969,17767,61.33%
+Kentucky,Shelby County,23550,15055,63.93%
+Kentucky,Simpson County,8732,5888,67.43%
+Kentucky,Spencer County,11433,8737,76.42%
+Kentucky,Taylor County,12517,9376,74.91%
+Kentucky,Todd County,5363,4062,75.74%
+Kentucky,Trigg County,7376,5487,74.39%
+Kentucky,Trimble County,4320,3227,74.70%
+Kentucky,Union County,6577,4965,75.49%
+Kentucky,Warren County,55401,31791,57.38%
+Kentucky,Washington County,6225,4482,72.00%
+Kentucky,Wayne County,9240,7430,80.41%
+Kentucky,Webster County,5993,4506,75.19%
+Kentucky,Whitley County,15356,12567,81.84%
+Kentucky,Wolfe County,2979,2097,70.39%
+Kentucky,Woodford County,15211,8362,54.97%
+Louisiana,Acadia Parish,28425,22596,79.49%
+Louisiana,Allen Parish,9810,7574,77.21%
+Louisiana,Ascension Parish,62325,40687,65.28%
+Louisiana,Assumption Parish,11235,7271,64.72%
+Louisiana,Avoyelles Parish,17292,12028,69.56%
+Louisiana,Beauregard Parish,16357,13575,82.99%
+Louisiana,Bienville Parish,7050,3891,55.19%
+Louisiana,Bossier Parish,54655,38074,69.66%
+Louisiana,Caddo Parish,104912,48021,45.77%
+Louisiana,Calcasieu Parish,82663,55066,66.62%
+Louisiana,Caldwell Parish,4762,3976,83.49%
+Louisiana,Cameron Parish,4039,3671,90.89%
+Louisiana,Catahoula Parish,4858,3541,72.89%
+Louisiana,Claiborne Parish,6580,3770,57.29%
+Louisiana,Concordia Parish,8828,5550,62.87%
+Louisiana,De Soto Parish,14736,9112,61.83%
+Louisiana,East Baton Rouge Parish,208182,88420,42.47%
+Louisiana,East Carroll Parish,3036,1080,35.57%
+Louisiana,East Feliciana Parish,10509,6064,57.70%
+Louisiana,Evangeline Parish,15412,11053,71.72%
+Louisiana,Franklin Parish,9720,6970,71.71%
+Louisiana,Grant Parish,9392,8117,86.42%
+Louisiana,Iberia Parish,32713,21251,64.96%
+Louisiana,Iberville Parish,16719,7893,47.21%
+Louisiana,Jackson Parish,7632,5394,70.68%
+Louisiana,Jefferson Parish,193733,105949,54.69%
+Louisiana,Jefferson Davis Parish,14841,11423,76.97%
+Louisiana,Lafayette Parish,114521,72519,63.32%
+Louisiana,Lafourche Parish,45388,36024,79.37%
+Louisiana,LaSalle Parish,7077,6378,90.12%
+Louisiana,Lincoln Parish,19275,11311,58.68%
+Louisiana,Livingston Parish,65230,54877,84.13%
+Louisiana,Madison Parish,4670,1930,41.33%
+Louisiana,Morehouse Parish,11574,6510,56.25%
+Louisiana,Natchitoches Parish,16554,9358,56.53%
+Louisiana,Orleans Parish,177819,26664,15.00%
+Louisiana,Ouachita Parish,69166,42255,61.09%
+Louisiana,Plaquemines Parish,11014,7412,67.30%
+Louisiana,Pointe Coupee Parish,12371,7503,60.65%
+Louisiana,Rapides Parish,58865,38347,65.14%
+Louisiana,Red River Parish,4132,2413,58.40%
+Louisiana,Richland Parish,9940,6607,66.47%
+Louisiana,Sabine Parish,10596,8776,82.82%
+Louisiana,St. Bernard Parish,17650,11179,63.34%
+Louisiana,St. Charles Parish,28517,18233,63.94%
+Louisiana,St. Helena Parish,6158,2714,44.07%
+Louisiana,St. James Parish,12590,5954,47.29%
+Louisiana,St. John the Baptist Parish,21432,7538,35.17%
+Louisiana,St. Landry Parish,41154,23171,56.30%
+Louisiana,St. Martin Parish,27038,18203,67.32%
+Louisiana,St. Mary Parish,23186,14811,63.88%
+Louisiana,St. Tammany Parish,140110,99666,71.13%
+Louisiana,Tangipahoa Parish,57661,37806,65.57%
+Louisiana,Tensas Parish,2554,1197,46.87%
+Louisiana,Terrebonne Parish,46240,34339,74.26%
+Louisiana,Union Parish,11201,8407,75.06%
+Louisiana,Vermilion Parish,27324,21930,80.26%
+Louisiana,Vernon Parish,17268,14107,81.69%
+Louisiana,Washington Parish,19513,13307,68.20%
+Louisiana,Webster Parish,18216,11830,64.94%
+Louisiana,West Baton Rouge Parish,14097,7684,54.51%
+Louisiana,West Carroll Parish,5052,4317,85.45%
+Louisiana,West Feliciana Parish,6268,3863,61.63%
+Louisiana,Winn Parish,6225,4619,74.20%
+Maine,Aroostook Cty Townships,292,150,51.37%
+Maine,Franklin Cty Townships,52,17,32.69%
+Maine,Hancock Cty Townships,13,7,53.85%
+Maine,Oxford Cty Townships,333,159,47.75%
+Maine,Penobscot Cty Townships,506,348,68.77%
+Maine,Piscataquis Cty Townshps,87,61,70.11%
+Maine,Somerset Cty Townships,243,173,71.19%
+Maine,Washington Cty Townships,30,21,70.00%
+Maine,Indian Township Vtng Dst,263,69,26.24%
+Maine,Oxbow Plt.,35,22,62.86%
+Maine,Pleasant Point Votng Dst,235,35,14.89%
+Maine,Auburn,12285,5409,44.03%
+Maine,Durham,2790,1333,47.78%
+Maine,Greene,2640,1663,62.99%
+Maine,Leeds,1362,818,60.06%
+Maine,Lewiston,17388,7232,41.59%
+Maine,Lisbon,5243,2853,54.42%
+Maine,Livermore,1394,783,56.17%
+Maine,Livermore Falls,1393,809,58.08%
+Maine,Mechanic Falls,1703,989,58.07%
+Maine,Minot,1769,1040,58.79%
+Maine,Poland,3519,1906,54.16%
+Maine,Sabattus,2878,1765,61.33%
+Maine,Turner,3428,2052,59.86%
+Maine,Wales,915,616,67.32%
+Maine,Allagash,169,95,56.21%
+Maine,Amity,124,96,77.42%
+Maine,Ashland,615,376,61.14%
+Maine,Blaine,400,298,74.50%
+Maine,Bridgewater,292,214,73.29%
+Maine,Caribou,4024,2262,56.21%
+Maine,Cary Plt.,0,0,#DIV/0!
+Maine,Castle Hill,230,130,56.52%
+Maine,Caswell,134,73,54.48%
+Maine,Chapman,279,177,63.44%
+Maine,Crystal,164,120,73.17%
+Maine,Cyr Plt.,56,30,53.57%
+Maine,Dyer Brook,150,106,70.67%
+Maine,Eagle Lake,460,256,55.65%
+Maine,Easton,715,467,65.31%
+Maine,Fort Fairfield,1701,985,57.91%
+Maine,Fort Kent,2266,1141,50.35%
+Maine,Frenchville,603,361,59.87%
+Maine,Garfield Plt.,56,42,75.00%
+Maine,Glenwood Plt.,1,1,100.00%
+Maine,Grand Isle,232,119,51.29%
+Maine,Hamlin,109,61,55.96%
+Maine,Hammond,46,34,73.91%
+Maine,Haynesville,63,50,79.37%
+Maine,Hersey,42,0,0.00%
+Maine,Hodgdon,812,613,75.49%
+Maine,Houlton,2740,1639,59.82%
+Maine,Island Falls,450,306,68.00%
+Maine,Limestone,765,423,55.29%
+Maine,Linneus,508,411,80.91%
+Maine,Littleton,531,381,71.75%
+Maine,Ludlow,255,169,66.27%
+Maine,Macwahoc Plt.,43,30,69.77%
+Maine,Madawaska,2112,940,44.51%
+Maine,Mapleton,1159,726,62.64%
+Maine,Mars Hill,742,511,68.87%
+Maine,Masardis,122,85,69.67%
+Maine,Merrill,136,91,66.91%
+Maine,Monticello,434,335,77.19%
+Maine,Moro Plt.,29,27,93.10%
+Maine,Nashville Plt.,23,16,69.57%
+Maine,New Canada,159,93,58.49%
+Maine,New Limerick,372,253,68.01%
+Maine,New Sweden,322,178,55.28%
+Maine,Oakfield,408,286,70.10%
+Maine,Orient,90,68,75.56%
+Maine,Penobscot Nation Vot Dst,302,54,17.88%
+Maine,Perham,214,146,68.22%
+Maine,Portage Lake,265,160,60.38%
+Maine,Presque Isle,4239,2266,53.46%
+Maine,Reed Plt.,81,58,71.60%
+Maine,Saint Agatha,637,334,52.43%
+Maine,St. Francis,245,121,49.39%
+Maine,St. John Plt.,171,104,60.82%
+Maine,Sherman,665,497,74.74%
+Maine,Smyrna,157,111,70.70%
+Maine,Stockholm,160,86,53.75%
+Maine,Van Buren,898,415,46.21%
+Maine,Wade,142,79,55.63%
+Maine,Wallagrass,291,134,46.05%
+Maine,Washburn,820,518,63.17%
+Maine,Westfield,267,174,65.17%
+Maine,Westmanland,55,24,43.64%
+Maine,Weston,182,125,68.68%
+Maine,Winterville Plt.,125,72,57.60%
+Maine,Woodland,662,409,61.78%
+Maine,Baldwin,999,623,62.36%
+Maine,Bridgton,3268,1528,46.76%
+Maine,Brunswick,13892,3733,26.87%
+Maine,Cape Elizabeth,6939,1462,21.07%
+Maine,Casco,2296,1184,51.57%
+Maine,Chebeague Island,330,66,20.00%
+Maine,Cumberland,6002,1800,29.99%
+Maine,Falmouth,9031,2672,29.59%
+Maine,Freeport,6184,1675,27.09%
+Maine,Frye Island,57,19,33.33%
+Maine,Gorham,11115,4275,38.46%
+Maine,Gray,5390,2557,47.44%
+Maine,Harpswell,3884,1423,36.64%
+Maine,Harrison,1574,796,50.57%
+Maine,Long Island,191,53,27.75%
+Maine,Naples,2495,1389,55.67%
+Maine,New Gloucester,3599,1757,48.82%
+Maine,North Yarmouth,2960,1018,34.39%
+Maine,Portland,41544,6486,15.61%
+Maine,Pownal,1206,489,40.55%
+Maine,Raymond,3142,1472,46.85%
+Maine,Scarborough,15057,5217,34.65%
+Maine,Sebago,1277,719,56.30%
+Maine,South Portland,16286,3783,23.23%
+Maine,Standish,6060,3078,50.79%
+Maine,Westbrook,11187,3591,32.10%
+Maine,Windham,11442,5280,46.15%
+Maine,Yarmouth,6358,1439,22.63%
+Maine,Avon,263,164,62.36%
+Maine,Carrabassett Valley,527,164,31.12%
+Maine,Carthage,312,214,68.59%
+Maine,Chesterville,799,460,57.57%
+Maine,Coplin Plt.,110,44,40.00%
+Maine,Dallas Plt.,209,104,49.76%
+Maine,Eustis,447,255,57.05%
+Maine,Farmington,3906,1541,39.45%
+Maine,Industry,504,253,50.20%
+Maine,Jay,2665,1375,51.59%
+Maine,Kingfield,888,444,50.00%
+Maine,New Sharon,956,528,55.23%
+Maine,New Vineyard,463,293,63.28%
+Maine,Phillips,656,385,58.69%
+Maine,Rangeley,758,449,59.23%
+Maine,Rangeley Plt.,145,86,59.31%
+Maine,Sandy River Plt.,102,36,35.29%
+Maine,Strong,816,526,64.46%
+Maine,Temple,336,155,46.13%
+Maine,Weld,299,144,48.16%
+Maine,Wilton,2177,1117,51.31%
+Maine,Amherst,189,115,60.85%
+Maine,Aurora,72,42,58.33%
+Maine,Bar Harbor,3576,804,22.48%
+Maine,Blue Hill,1977,624,31.56%
+Maine,Brooklin,624,189,30.29%
+Maine,Brooksville,686,219,31.92%
+Maine,Bucksport,2855,1481,51.87%
+Maine,Castine,499,136,27.25%
+Maine,Cranberry Isles,138,36,26.09%
+Maine,Dedham,1167,582,49.87%
+Maine,Deer Isle,1323,496,37.49%
+Maine,Eastbrook,222,148,66.67%
+Maine,Ellsworth,4824,2359,48.90%
+Maine,Franklin,861,459,53.31%
+Maine,Frenchboro,31,19,61.29%
+Maine,Gouldsboro,1116,612,54.84%
+Maine,Great Pond,43,25,58.14%
+Maine,Hancock,1472,778,52.85%
+Maine,Lamoine,1211,576,47.56%
+Maine,Mariaville,310,191,61.61%
+Maine,Mount Desert,1490,381,25.57%
+Maine,Orland,1424,693,48.67%
+Maine,Osborn,44,31,70.45%
+Maine,Otis,484,323,66.74%
+Maine,Penobscot,845,306,36.21%
+Maine,Sedgwick,843,321,38.08%
+Maine,Sorrento,189,94,49.74%
+Maine,Southwest Harbor,1137,381,33.51%
+Maine,Stonington,640,220,34.38%
+Maine,Sullivan,724,348,48.07%
+Maine,Surry,1091,464,42.53%
+Maine,Swan's Island,266,129,48.50%
+Maine,Tremont,1043,422,40.46%
+Maine,Trenton,987,451,45.69%
+Maine,Verona,350,182,52.00%
+Maine,Waltham,230,159,69.13%
+Maine,Winter Harbor,329,179,54.41%
+Maine,Albion,1219,801,65.71%
+Maine,Augusta,9738,4155,42.67%
+Maine,Belgrade,2216,1166,52.62%
+Maine,Benton,1632,984,60.29%
+Maine,Chelsea,1563,917,58.67%
+Maine,China,2590,1395,53.86%
+Maine,Clinton,1788,1098,61.41%
+Maine,Farmingdale,1738,768,44.19%
+Maine,Fayette,830,421,50.72%
+Maine,Gardiner,3278,1471,44.87%
+Maine,Hallowell,1780,445,25.00%
+Maine,Litchfield,2177,1260,57.88%
+Maine,Manchester,1690,810,47.93%
+Maine,Monmouth,2578,1397,54.19%
+Maine,Mount Vernon,1158,560,48.36%
+Maine,Oakland,3628,1853,51.07%
+Maine,Pittston,1778,1034,58.16%
+Maine,Randolph,1029,533,51.80%
+Maine,Readfield,1820,818,44.95%
+Maine,Rome,713,350,49.09%
+Maine,Sidney,2954,1688,57.14%
+Maine,Unity,950,455,47.89%
+Maine,Vassalboro,2553,1394,54.60%
+Maine,Vienna,405,208,51.36%
+Maine,Waterville,7905,2627,33.23%
+Maine,Wayne,869,343,39.47%
+Maine,West Gardiner,2380,1317,55.34%
+Maine,Windsor,1433,899,62.74%
+Maine,Winslow,4679,2360,50.44%
+Maine,Winthrop,3737,1649,44.13%
+Maine,Appleton,915,407,44.48%
+Maine,Camden,3837,832,21.68%
+Maine,Cushing,960,520,54.17%
+Maine,Friendship,799,477,59.70%
+Maine,Hope,1117,443,39.66%
+Maine,Isle Au Haut,66,9,13.64%
+Maine,Matinicus Isle Plt.,50,14,28.00%
+Maine,North Haven,321,85,26.48%
+Maine,Owl's Head,1065,454,42.63%
+Maine,Rockland,3965,1363,34.38%
+Maine,Rockport,2530,776,30.67%
+Maine,St. George,1814,663,36.55%
+Maine,South Thomaston,997,403,40.42%
+Maine,Thomaston,1668,664,39.81%
+Maine,Union,1561,786,50.35%
+Maine,Vinalhaven,837,287,34.29%
+Maine,Warren,2244,1259,56.11%
+Maine,Washington,988,540,54.66%
+Maine,Alna,517,174,33.66%
+Maine,Boothbay,2208,922,41.76%
+Maine,Boothbay Harbor,1395,545,39.07%
+Maine,Bremen,563,185,32.86%
+Maine,Bristol,2124,808,38.04%
+Maine,Damariscotta,1476,463,31.37%
+Maine,Dresden,1159,580,50.04%
+Maine,Edgecomb,889,348,39.15%
+Maine,Jefferson,1691,951,56.24%
+Maine,Monhegan Plt.,62,7,11.29%
+Maine,Newcastle,1359,403,29.65%
+Maine,Nobleboro,1310,559,42.67%
+Maine,Somerville,357,213,59.66%
+Maine,South Bristol,716,261,36.45%
+Maine,Southport,491,173,35.23%
+Maine,Waldoboro,2934,1568,53.44%
+Maine,Westport,551,231,41.92%
+Maine,Whitefield,1479,753,50.91%
+Maine,Wiscasset,2313,1112,48.08%
+Maine,Andover,538,293,54.46%
+Maine,Bethel,1830,749,40.93%
+Maine,Brownfield,957,466,48.69%
+Maine,Buckfield,1098,636,57.92%
+Maine,Byron,92,58,63.04%
+Maine,Canton,544,374,68.75%
+Maine,Denmark,827,392,47.40%
+Maine,Dixfield,1302,803,61.67%
+Maine,Fryeburg,1937,813,41.97%
+Maine,Gilead,123,66,53.66%
+Maine,Greenwood,533,242,45.40%
+Maine,Hanover,198,92,46.46%
+Maine,Hartford,724,428,59.12%
+Maine,Hebron,778,427,54.88%
+Maine,Hiram,928,528,56.90%
+Maine,Lincoln Plt.,32,20,62.50%
+Maine,Lovell,766,353,46.08%
+Maine,Magalloway Plt.,16,10,62.50%
+Maine,Mexico,1271,676,53.19%
+Maine,Newry,289,119,41.18%
+Maine,Norway,2854,1363,47.76%
+Maine,Otisfield,1171,605,51.67%
+Maine,Oxford,2325,1456,62.62%
+Maine,Paris,2855,1494,52.33%
+Maine,Peru,909,561,61.72%
+Maine,Porter,875,521,59.54%
+Maine,Roxbury,246,147,59.76%
+Maine,Rumford,2863,1502,52.46%
+Maine,Stoneham,185,102,55.14%
+Maine,Stow,253,121,47.83%
+Maine,Sumner,553,324,58.59%
+Maine,Sweden,283,108,38.16%
+Maine,Upton,64,47,73.44%
+Maine,Waterford,1038,557,53.66%
+Maine,West Paris,957,552,57.68%
+Maine,Woodstock,945,534,56.51%
+Maine,Alton,476,293,61.55%
+Maine,Bangor,16173,6065,37.50%
+Maine,Bradford,694,485,69.88%
+Maine,Bradley,887,485,54.68%
+Maine,Brewer,5278,2568,48.65%
+Maine,Burlington,206,145,70.39%
+Maine,Carmel,1782,1183,66.39%
+Maine,Carroll Plt.,87,73,83.91%
+Maine,Charleston,753,580,77.03%
+Maine,Chester,326,261,80.06%
+Maine,Clifton,532,324,60.90%
+Maine,Corinna,1244,847,68.09%
+Maine,Corinth,1574,1147,72.87%
+Maine,Dexter,1841,1169,63.50%
+Maine,Dixmont,731,446,61.01%
+Maine,Drew Plt.,19,13,68.42%
+Maine,East Millinocket,953,567,59.50%
+Maine,Eddington,1456,903,62.02%
+Maine,Edinburg,105,66,62.86%
+Maine,Enfield,879,585,66.55%
+Maine,Etna,726,495,68.18%
+Maine,Exeter,571,366,64.10%
+Maine,Garland,605,409,67.60%
+Maine,Glenburn,2789,1612,57.80%
+Maine,Greenbush,717,499,69.60%
+Maine,Hampden,4878,2265,46.43%
+Maine,Hermon,3965,2427,61.21%
+Maine,Holden,2125,1200,56.47%
+Maine,Howland,643,390,60.65%
+Maine,Hudson,611,484,79.21%
+Maine,Kenduskeag,770,514,66.75%
+Maine,LaGrange,358,248,69.27%
+Maine,Lakeville,69,38,55.07%
+Maine,Lee,508,350,68.90%
+Maine,Levant,1665,1149,69.01%
+Maine,Lincoln,2596,1723,66.37%
+Maine,Lowell,255,193,75.69%
+Maine,Mattawamkeag,388,257,66.24%
+Maine,Maxfield,69,48,69.57%
+Maine,Medway,758,550,72.56%
+Maine,Milford,1851,922,49.81%
+Maine,Millinocket,2397,1310,54.65%
+Maine,Mount Chase,122,81,66.39%
+Maine,Newburgh,994,599,60.26%
+Maine,Newport,1741,1118,64.22%
+Maine,Old Town,4259,1668,39.16%
+Maine,Orono,5200,1200,23.08%
+Maine,Orrington,2562,1405,54.84%
+Maine,Passadumkeag,224,165,73.66%
+Maine,Patten,520,362,69.62%
+Maine,Plymouth,745,505,67.79%
+Maine,Seboeis Plt.,41,19,46.34%
+Maine,Springfield,161,135,83.85%
+Maine,Stacyville,209,169,80.86%
+Maine,Stetson,765,524,68.50%
+Maine,Veazie,1223,525,42.93%
+Maine,Webster Plt.,42,33,78.57%
+Maine,Winn,207,145,70.05%
+Maine,Woodville,136,116,85.29%
+Maine,Abbot,417,288,69.06%
+Maine,Atkinson,173,122,70.52%
+Maine,Beaver Cove,119,60,50.42%
+Maine,Bowerbank,117,76,64.96%
+Maine,Brownville,780,467,59.87%
+Maine,Dover-Foxcroft,2335,1356,58.07%
+Maine,Greenville,1158,644,55.61%
+Maine,Guilford,728,466,64.01%
+Maine,Kingsbury Plt.,0,0,#DIV/0!
+Maine,Lake View Plt.,114,71,62.28%
+Maine,Medford,164,112,68.29%
+Maine,Milo,1227,781,63.65%
+Maine,Monson,475,289,60.84%
+Maine,Parkman,491,333,67.82%
+Maine,Sangerville,753,479,63.61%
+Maine,Sebec,428,305,71.26%
+Maine,Shirley,133,96,72.18%
+Maine,Wellington,119,67,56.30%
+Maine,Willimantic,90,70,77.78%
+Maine,Arrowsic,373,104,27.88%
+Maine,Bath,5142,1540,29.95%
+Maine,Bowdoin,1877,1079,57.49%
+Maine,Bowdoinham,2067,856,41.41%
+Maine,Georgetown,839,294,35.04%
+Maine,Phippsburg,1570,745,47.45%
+Maine,Richmond,2076,1056,50.87%
+Maine,Topsham,6552,2390,36.48%
+Maine,West Bath,1392,629,45.19%
+Maine,Woolwich,2150,1062,49.40%
+Maine,Anson,1223,796,65.09%
+Maine,Athens,510,332,65.10%
+Maine,Bingham,580,349,60.17%
+Maine,Brighton Plt.,49,29,59.18%
+Maine,Cambridge,252,176,69.84%
+Maine,Canaan,1155,749,64.85%
+Maine,Caratunk,61,36,59.02%
+Maine,Cornville,776,471,60.70%
+Maine,Dennistown Plt.,24,19,79.17%
+Maine,Detroit,436,276,63.30%
+Maine,Embden,565,374,66.19%
+Maine,Fairfield,3391,1845,54.41%
+Maine,Harmony,488,326,66.80%
+Maine,Hartland,899,610,67.85%
+Maine,Highland Plt.,116,71,61.21%
+Maine,Jackman,535,387,72.34%
+Maine,Madison,2382,1411,59.24%
+Maine,Mercer,481,283,58.84%
+Maine,Moose River,124,107,86.29%
+Maine,Moscow,279,199,71.33%
+Maine,New Portland,481,266,55.30%
+Maine,Norridgewock,1874,1128,60.19%
+Maine,Palmyra,1155,800,69.26%
+Maine,Pittsfield,2042,1156,56.61%
+Maine,Pleasant Ridge Plt.,53,40,75.47%
+Maine,Ripley,299,195,65.22%
+Maine,St. Albans,1186,833,70.24%
+Maine,Skowhegan,4197,2215,52.78%
+Maine,Smithfield,627,342,54.55%
+Maine,Solon,623,365,58.59%
+Maine,Starks,381,237,62.20%
+Maine,The Forks Plt.,38,18,47.37%
+Maine,West Forks Plt.,53,30,56.60%
+Maine,Belfast,4237,1259,29.71%
+Maine,Belmont,598,319,53.34%
+Maine,Brooks,593,317,53.46%
+Maine,Burnham,644,389,60.40%
+Maine,Frankfort,680,441,64.85%
+Maine,Freedom,469,236,50.32%
+Maine,Islesboro,445,120,26.97%
+Maine,Jackson,338,191,56.51%
+Maine,Knox,475,315,66.32%
+Maine,Liberty,591,308,52.12%
+Maine,Lincolnville,1654,551,33.31%
+Maine,Monroe,602,266,44.19%
+Maine,Montville,650,266,40.92%
+Maine,Morrill,611,355,58.10%
+Maine,Northport,1109,408,36.79%
+Maine,Palermo,939,537,57.19%
+Maine,Prospect,423,242,57.21%
+Maine,Searsmont,937,481,51.33%
+Maine,Searsport,1608,721,44.84%
+Maine,Stockton Springs,1065,508,47.70%
+Maine,Swanville,826,454,54.96%
+Maine,Thorndike,446,211,47.31%
+Maine,Troy,593,340,57.34%
+Maine,Waldo,502,261,51.99%
+Maine,Winterport,2335,1245,53.32%
+Maine,Addison,706,451,63.88%
+Maine,Alexander,308,224,72.73%
+Maine,Baileyville,673,421,62.56%
+Maine,Baring Plt.,112,68,60.71%
+Maine,Beals,293,191,65.19%
+Maine,Beddington,51,36,70.59%
+Maine,Calais,1516,856,56.46%
+Maine,Charlotte,216,145,67.13%
+Maine,Cherryfield,645,417,64.65%
+Maine,Columbia,228,156,68.42%
+Maine,Columbia Falls,335,204,60.90%
+Maine,Cooper,96,60,62.50%
+Maine,Crawford,66,45,68.18%
+Maine,Cutler,315,218,69.21%
+Maine,Danforth,421,314,74.58%
+Maine,Deblois,40,35,87.50%
+Maine,Dennysville,357,214,59.94%
+Maine,East Machias,814,528,64.86%
+Maine,Eastport,835,339,40.60%
+Maine,Grand Lake Stream Plt,98,60,61.22%
+Maine,Harrington,538,363,67.47%
+Maine,Jonesboro,346,212,61.27%
+Maine,Jonesport,712,447,62.78%
+Maine,Lubec,883,406,45.98%
+Maine,Machias,893,461,51.62%
+Maine,Machiasport,566,337,59.54%
+Maine,Marshfield,316,208,65.82%
+Maine,Meddybemps,103,70,67.96%
+Maine,Milbridge,731,391,53.49%
+Maine,Northfield,125,81,64.80%
+Maine,Pembroke,482,267,55.39%
+Maine,Perry,470,258,54.89%
+Maine,Princeton,468,340,72.65%
+Maine,Robbinston,353,221,62.61%
+Maine,Roque Bluffs,183,80,43.72%
+Maine,Steuben,668,409,61.23%
+Maine,Talmadge,32,18,56.25%
+Maine,Topsfield,124,100,80.65%
+Maine,Vanceboro,93,65,69.89%
+Maine,Waite,51,33,64.71%
+Maine,Wesley,76,45,59.21%
+Maine,Whiting,361,205,56.79%
+Maine,Whitneyville,130,70,53.85%
+Maine,Acton,1636,930,56.85%
+Maine,Alfred,1995,948,47.52%
+Maine,Arundel,2825,1347,47.68%
+Maine,Berwick,4371,2229,51.00%
+Maine,Biddeford,11066,3705,33.48%
+Maine,Buxton,5279,2686,50.88%
+Maine,Cornish,944,478,50.64%
+Maine,Dayton,1381,756,54.74%
+Maine,Eliot,4728,1788,37.82%
+Maine,Hollis,2895,1535,53.02%
+Maine,Kennebunk,8236,2682,32.56%
+Maine,Kennebunkport,2746,926,33.72%
+Maine,Kittery,6412,1809,28.21%
+Maine,Lebanon,3529,2178,61.72%
+Maine,Limerick,1840,948,51.52%
+Maine,Limington,2298,1357,59.05%
+Maine,Lyman,2944,1537,52.21%
+Maine,Newfield,963,575,59.71%
+Maine,North Berwick,3111,1557,50.05%
+Maine,Ogunquit,1058,311,29.40%
+Maine,Old Orchrd Bch,6215,2368,38.10%
+Maine,Parsonsfield,1066,564,52.91%
+Maine,Saco,12656,4497,35.53%
+Maine,Sanford,10931,5182,47.41%
+Maine,Shapleigh,1789,1034,57.80%
+Maine,South Berwick,4634,1734,37.42%
+Maine,Waterboro,4478,2471,55.18%
+Maine,Wells,7975,3333,41.79%
+Maine,York,9658,3352,34.71%
+Maryland,Allegany County,30641,20886,68.16%
+Maryland,Anne Arundel County,309617,127821,41.28%
+Maryland,Baltimore County,414932,146202,35.24%
+Maryland,Calvert County,49112,25346,51.61%
+Maryland,Caroline County,15794,10283,65.11%
+Maryland,Carroll County,100327,60218,60.02%
+Maryland,Cecil County,47462,29439,62.03%
+Maryland,Charles County,89498,25579,28.58%
+Maryland,Dorchester County,15977,8764,54.85%
+Maryland,Frederick County,145615,63682,43.73%
+Maryland,Garrett County,15611,12002,76.88%
+Maryland,Harford County,148186,80930,54.61%
+Maryland,Howard County,183062,48390,26.43%
+Maryland,Kent County,10794,5195,48.13%
+Maryland,Montgomery County,533743,101222,18.96%
+Maryland,Prince George's County,424855,37090,8.73%
+Maryland,Queen Anne's County,30290,18741,61.87%
+Maryland,St. Mary's County,55665,30826,55.38%
+Maryland,Somerset County,10147,5739,56.56%
+Maryland,Talbot County,22555,10946,48.53%
+Maryland,Washington County,67779,40224,59.35%
+Maryland,Wicomico County,46216,22944,49.65%
+Maryland,Worcester County,31691,18571,58.60%
+Maryland,Baltimore city,237461,25374,10.69%
+Massachusetts,Barnstable,28427,11436,40.23%
+Massachusetts,Bourne,12119,5331,43.99%
+Massachusetts,Brewster,7436,2338,31.44%
+Massachusetts,Chatham,5075,1834,36.14%
+Massachusetts,Dennis,10321,3938,38.16%
+Massachusetts,Eastham,4100,1151,28.07%
+Massachusetts,Falmouth,21890,7319,33.44%
+Massachusetts,Harwich,9448,3365,35.62%
+Massachusetts,Mashpee,10263,4086,39.81%
+Massachusetts,Orleans,4842,1458,30.11%
+Massachusetts,Provincetown,2613,182,6.97%
+Massachusetts,Sandwich,14061,6044,42.98%
+Massachusetts,Truro,1762,340,19.30%
+Massachusetts,Wellfleet,2516,496,19.71%
+Massachusetts,Yarmouth,15452,5993,38.78%
+Massachusetts,Adams,4441,1428,32.15%
+Massachusetts,Alford,325,50,15.38%
+Massachusetts,Becket,1195,413,34.56%
+Massachusetts,Cheshire,1946,775,39.83%
+Massachusetts,Clarksburg,990,390,39.39%
+Massachusetts,Dalton,3821,1039,27.19%
+Massachusetts,Egremont,973,174,17.88%
+Massachusetts,Florida,418,203,48.56%
+Massachusetts,Great Barrington,4112,654,15.90%
+Massachusetts,Hancock,478,207,43.31%
+Massachusetts,Hinsdale,1210,402,33.22%
+Massachusetts,Lanesborough,1891,604,31.94%
+Massachusetts,Lee,3489,985,28.23%
+Massachusetts,Lenox,3368,602,17.87%
+Massachusetts,Monterey,592,102,17.23%
+Massachusetts,Mount Washington,125,16,12.80%
+Massachusetts,New Ashford,151,48,31.79%
+Massachusetts,New Marlborough,959,264,27.53%
+Massachusetts,North Adams,5932,1600,26.97%
+Massachusetts,Otis,1014,441,43.49%
+Massachusetts,Peru,533,216,40.53%
+Massachusetts,Pittsfield,21942,5017,22.86%
+Massachusetts,Richmond,1057,215,20.34%
+Massachusetts,Sandisfield,515,200,38.83%
+Massachusetts,Savoy,399,161,40.35%
+Massachusetts,Sheffield,2162,578,26.73%
+Massachusetts,Stockbridge,1363,237,17.39%
+Massachusetts,Tyringham,314,72,22.93%
+Massachusetts,Washington,353,107,30.31%
+Massachusetts,West Stockbridge,971,164,16.89%
+Massachusetts,Williamstown,3757,499,13.28%
+Massachusetts,Windsor,579,201,34.72%
+Massachusetts,Acushnet,6068,3290,54.22%
+Massachusetts,Attleboro,23555,9272,39.36%
+Massachusetts,Berkley,4113,2251,54.73%
+Massachusetts,Dartmouth,17884,7778,43.49%
+Massachusetts,Dighton,4724,2473,52.35%
+Massachusetts,Easton,14519,5467,37.65%
+Massachusetts,Fairhaven,9557,4275,44.73%
+Massachusetts,Fall River,31616,13571,42.92%
+Massachusetts,Freetown,5506,2906,52.78%
+Massachusetts,Mansfield,14537,5149,35.42%
+Massachusetts,New Bedford,34877,12964,37.17%
+Massachusetts,North Attleborough,17191,7050,41.01%
+Massachusetts,Norton,10974,4735,43.15%
+Massachusetts,Raynham,8811,4243,48.16%
+Massachusetts,Rehoboth,7917,4076,51.48%
+Massachusetts,Seekonk,8955,3970,44.33%
+Massachusetts,Somerset,11122,5113,45.97%
+Massachusetts,Swansea,10034,5123,51.06%
+Massachusetts,Taunton,26773,11148,41.64%
+Massachusetts,Westport,10546,5018,47.58%
+Massachusetts,Aquinnah,355,34,9.58%
+Massachusetts,Chilmark,921,111,12.05%
+Massachusetts,Edgartown,3101,854,27.54%
+Massachusetts,Gosnold,82,22,26.83%
+Massachusetts,Oak Bluffs,3209,730,22.75%
+Massachusetts,Tisbury,2835,542,19.12%
+Massachusetts,West Tisbury,2295,338,14.73%
+Massachusetts,Amesbury,10395,3326,32.00%
+Massachusetts,Andover,21743,6693,30.78%
+Massachusetts,Beverly,24450,7205,29.47%
+Massachusetts,Boxford,5543,2271,40.97%
+Massachusetts,Danvers,16907,6725,39.78%
+Massachusetts,Essex,2512,796,31.69%
+Massachusetts,Georgetown,5585,2388,42.76%
+Massachusetts,Gloucester,18159,5595,30.81%
+Massachusetts,Groveland,4536,1976,43.56%
+Massachusetts,Hamilton,4988,1458,29.23%
+Massachusetts,Haverhill,32401,12571,38.80%
+Massachusetts,Ipswich,9614,3109,32.34%
+Massachusetts,Lawrence,23208,5803,25.00%
+Massachusetts,Lynn,35777,10425,29.14%
+Massachusetts,Lynnfield,8345,3969,47.56%
+Massachusetts,Manchester,3819,1014,26.55%
+Massachusetts,Marblehead,14234,3790,26.63%
+Massachusetts,Merrimac,4391,1725,39.28%
+Massachusetts,Methuen,25919,11127,42.93%
+Massachusetts,Middleton,5858,2966,50.63%
+Massachusetts,Nahant,2524,842,33.36%
+Massachusetts,Newbury,5025,1754,34.91%
+Massachusetts,Newburyport,12708,3253,25.60%
+Massachusetts,North Andover,18012,6548,36.35%
+Massachusetts,Peabody,30090,12704,42.22%
+Massachusetts,Rockport,5275,1306,24.76%
+Massachusetts,Rowley,4227,1942,45.94%
+Massachusetts,Salem,24018,5433,22.62%
+Massachusetts,Salisbury,5556,2597,46.74%
+Massachusetts,Saugus,15797,7543,47.75%
+Massachusetts,Swampscott,9572,2555,26.69%
+Massachusetts,Topsfield,4144,1602,38.66%
+Massachusetts,Wenham,2608,765,29.33%
+Massachusetts,West Newbury,3270,1061,32.45%
+Massachusetts,Ashfield,1218,180,14.78%
+Massachusetts,Bernardston,1375,423,30.76%
+Massachusetts,Buckland,1191,268,22.50%
+Massachusetts,Charlemont,743,235,31.63%
+Massachusetts,Colrain,1007,306,30.39%
+Massachusetts,Conway,1303,278,21.34%
+Massachusetts,Deerfield,3350,839,25.04%
+Massachusetts,Erving,929,355,38.21%
+Massachusetts,Gill,987,279,28.27%
+Massachusetts,Greenfield,9409,2265,24.07%
+Massachusetts,Hawley,231,70,30.30%
+Massachusetts,Heath,468,158,33.76%
+Massachusetts,Leverett,1386,163,11.76%
+Massachusetts,Leyden,502,155,30.88%
+Massachusetts,Monroe,60,31,51.67%
+Massachusetts,Montague,4898,1211,24.72%
+Massachusetts,New Salem,681,237,34.80%
+Massachusetts,Northfield,1855,592,31.91%
+Massachusetts,Orange,3800,1699,44.71%
+Massachusetts,Rowe,267,113,42.32%
+Massachusetts,Shelburne,1174,209,17.80%
+Massachusetts,Shutesbury,1330,144,10.83%
+Massachusetts,Sunderland,2050,394,19.22%
+Massachusetts,Warwick,523,160,30.59%
+Massachusetts,Wendell,614,105,17.10%
+Massachusetts,Whately,1107,332,29.99%
+Massachusetts,Agawam,16185,8073,49.88%
+Massachusetts,Blandford,775,454,58.58%
+Massachusetts,Brimfield,2314,1193,51.56%
+Massachusetts,Chester,744,415,55.78%
+Massachusetts,Chicopee,25795,10636,41.23%
+Massachusetts,East Longmeadow,10122,4623,45.67%
+Massachusetts,Granville,990,565,57.07%
+Massachusetts,Hampden,3339,1713,51.30%
+Massachusetts,Holland,1545,793,51.33%
+Massachusetts,Holyoke,16313,4843,29.69%
+Massachusetts,Longmeadow,10395,3493,33.60%
+Massachusetts,Ludlow,11384,5695,50.03%
+Massachusetts,Monson,5175,2588,50.01%
+Massachusetts,Montgomery,564,312,55.32%
+Massachusetts,Palmer,6503,3240,49.82%
+Massachusetts,Russell,919,512,55.71%
+Massachusetts,Southwick,5732,3221,56.19%
+Massachusetts,Springfield,54373,13957,25.67%
+Massachusetts,Tolland,328,186,56.71%
+Massachusetts,Wales,1087,619,56.95%
+Massachusetts,Westfield,20685,9858,47.66%
+Massachusetts,West Springfield,13513,6067,44.90%
+Massachusetts,Wilbraham,9397,4262,45.35%
+Massachusetts,Amherst,11871,873,7.35%
+Massachusetts,Belchertown,9609,3481,36.23%
+Massachusetts,Chesterfield,822,287,34.91%
+Massachusetts,Cummington,591,162,27.41%
+Massachusetts,Easthampton,10592,2525,23.84%
+Massachusetts,Goshen,672,231,34.38%
+Massachusetts,Granby,3956,1815,45.88%
+Massachusetts,Hadley,3493,925,26.48%
+Massachusetts,Hatfield,2313,686,29.66%
+Massachusetts,Huntington,1217,593,48.73%
+Massachusetts,Middlefield,334,124,37.13%
+Massachusetts,Northampton,17925,1855,10.35%
+Massachusetts,Pelham,925,89,9.62%
+Massachusetts,Plainfield,443,116,26.19%
+Massachusetts,Southampton,4194,1811,43.18%
+Massachusetts,South Hadley,10059,3230,32.11%
+Massachusetts,Ware,4951,2444,49.36%
+Massachusetts,Westhampton,1195,426,35.65%
+Massachusetts,Williamsburg,1822,337,18.50%
+Massachusetts,Worthington,870,271,31.15%
+Massachusetts,Acton,13927,2471,17.74%
+Massachusetts,Arlington,28551,4381,15.34%
+Massachusetts,Ashby,2023,1008,49.83%
+Massachusetts,Ashland,10444,2936,28.11%
+Massachusetts,Ayer,4625,1537,33.23%
+Massachusetts,Bedford,8859,2180,24.61%
+Massachusetts,Belmont,15356,2956,19.25%
+Massachusetts,Billerica,24644,10731,43.54%
+Massachusetts,Boxborough,3402,786,23.10%
+Massachusetts,Burlington,15346,5566,36.27%
+Massachusetts,Cambridge,54795,3519,6.42%
+Massachusetts,Carlisle,3638,767,21.08%
+Massachusetts,Chelmsford,22349,7823,35.00%
+Massachusetts,Concord,12311,1977,16.06%
+Massachusetts,Dracut,17845,8812,49.38%
+Massachusetts,Dunstable,2173,877,40.36%
+Massachusetts,Everett,14817,4093,27.62%
+Massachusetts,Framingham,32048,7712,24.06%
+Massachusetts,Groton,7285,2149,29.50%
+Massachusetts,Holliston,9617,2579,26.82%
+Massachusetts,Hopkinton,10296,2981,28.95%
+Massachusetts,Hudson,11583,3852,33.26%
+Massachusetts,Lexington,20048,3337,16.65%
+Massachusetts,Lincoln,4271,683,15.99%
+Massachusetts,Littleton,6691,1980,29.59%
+Massachusetts,Lowell,38681,12346,31.92%
+Massachusetts,Malden,25623,6026,23.52%
+Massachusetts,Marlborough,19143,6100,31.87%
+Massachusetts,Maynard,6786,1672,24.64%
+Massachusetts,Medford,31713,7566,23.86%
+Massachusetts,Melrose,18241,4646,25.47%
+Massachusetts,Natick,21776,4971,22.83%
+Massachusetts,Newton,50295,8357,16.62%
+Massachusetts,North Reading,9930,4116,41.45%
+Massachusetts,Pepperell,7307,3205,43.86%
+Massachusetts,Reading,16952,5444,32.11%
+Massachusetts,Sherborn,2963,579,19.54%
+Massachusetts,Shirley,3700,1493,40.35%
+Massachusetts,Somerville,42200,4283,10.15%
+Massachusetts,Stoneham,14322,5372,37.51%
+Massachusetts,Stow,4964,1258,25.34%
+Massachusetts,Sudbury,12354,2691,21.78%
+Massachusetts,Tewksbury,19137,8783,45.90%
+Massachusetts,Townsend,5476,2620,47.85%
+Massachusetts,Tyngsborough,7545,3375,44.73%
+Massachusetts,Wakefield,16623,6032,36.29%
+Massachusetts,Waltham,28896,7787,26.95%
+Massachusetts,Watertown,19227,3801,19.77%
+Massachusetts,Wayland,9302,1705,18.33%
+Massachusetts,Westford,15298,4656,30.44%
+Massachusetts,Weston,7085,1712,24.16%
+Massachusetts,Wilmington,14806,6448,43.55%
+Massachusetts,Winchester,13870,3736,26.94%
+Massachusetts,Woburn,22418,8483,37.84%
+Massachusetts,Nantucket,7306,1914,26.20%
+Massachusetts,Avon,2697,1030,38.19%
+Massachusetts,Bellingham,9889,4402,44.51%
+Massachusetts,Braintree,21795,8744,40.12%
+Massachusetts,Brookline,31084,3418,11.00%
+Massachusetts,Canton,14485,4965,34.28%
+Massachusetts,Cohasset,5669,1665,29.37%
+Massachusetts,Dedham,15867,4771,30.07%
+Massachusetts,Dover,4023,1142,28.39%
+Massachusetts,Foxborough,11346,4357,38.40%
+Massachusetts,Franklin,20346,7345,36.10%
+Massachusetts,Holbrook,6213,2381,38.32%
+Massachusetts,Medfield,8211,2374,28.91%
+Massachusetts,Medway,8416,3004,35.69%
+Massachusetts,Millis,5639,2001,35.49%
+Massachusetts,Milton,17654,4441,25.16%
+Massachusetts,Needham,20113,4078,20.28%
+Massachusetts,Norfolk,6853,2570,37.50%
+Massachusetts,Norwood,17453,5824,33.37%
+Massachusetts,Plainville,5823,2474,42.49%
+Massachusetts,Quincy,45793,14340,31.31%
+Massachusetts,Randolph,17455,3523,20.18%
+Massachusetts,Sharon,11617,2603,22.41%
+Massachusetts,Stoughton,15623,5081,32.52%
+Massachusetts,Walpole,16166,6243,38.62%
+Massachusetts,Wellesley,16342,3295,20.16%
+Massachusetts,Westwood,10545,3444,32.66%
+Massachusetts,Weymouth,32827,12460,37.96%
+Massachusetts,Wrentham,7807,3319,42.51%
+Massachusetts,Abington,9660,4236,43.85%
+Massachusetts,Bridgewater,14616,6572,44.96%
+Massachusetts,Brockton,38712,8689,22.45%
+Massachusetts,Carver,6961,3504,50.34%
+Massachusetts,Duxbury,11219,4032,35.94%
+Massachusetts,East Bridgewater,8767,4366,49.80%
+Massachusetts,Halifax,4874,2398,49.20%
+Massachusetts,Hanover,9652,4507,46.69%
+Massachusetts,Hanson,6741,3314,49.16%
+Massachusetts,Hingham,16229,4986,30.72%
+Massachusetts,Hull,7080,2433,34.36%
+Massachusetts,Kingston,8520,3775,44.31%
+Massachusetts,Lakeville,7323,3778,51.59%
+Massachusetts,Marion,3696,1244,33.66%
+Massachusetts,Marshfield,17482,7498,42.89%
+Massachusetts,Mattapoisett,4697,1888,40.20%
+Massachusetts,Middleborough,13857,7164,51.70%
+Massachusetts,Norwell,7386,2920,39.53%
+Massachusetts,Pembroke,11753,5263,44.78%
+Massachusetts,Plymouth,37336,15152,40.58%
+Massachusetts,Plympton,1918,912,47.55%
+Massachusetts,Rochester,3833,1991,51.94%
+Massachusetts,Rockland,9994,4319,43.22%
+Massachusetts,Scituate,13530,4614,34.10%
+Massachusetts,Wareham,12726,5518,43.36%
+Massachusetts,West Bridgewater,4625,2272,49.12%
+Massachusetts,Whitman,8629,3882,44.99%
+Massachusetts,Boston,293796,45425,15.46%
+Massachusetts,Chelsea,10524,2215,21.05%
+Massachusetts,Revere,20890,7203,34.48%
+Massachusetts,Winthrop,10252,3770,36.77%
+Massachusetts,Ashburnham,3827,1667,43.56%
+Massachusetts,Athol,5502,2579,46.87%
+Massachusetts,Auburn,10201,4306,42.21%
+Massachusetts,Barre,3157,1523,48.24%
+Massachusetts,Berlin,2265,816,36.03%
+Massachusetts,Blackstone,5135,2560,49.85%
+Massachusetts,Bolton,3762,1140,30.30%
+Massachusetts,Boylston,3304,1318,39.89%
+Massachusetts,Brookfield,2054,1054,51.31%
+Massachusetts,Charlton,8122,4127,50.81%
+Massachusetts,Clinton,7826,2886,36.88%
+Massachusetts,Douglas,5534,2956,53.42%
+Massachusetts,Dudley,6092,3192,52.40%
+Massachusetts,East Brookfield,1365,741,54.29%
+Massachusetts,Fitchburg,16509,6186,37.47%
+Massachusetts,Gardner,9444,3939,41.71%
+Massachusetts,Grafton,11453,4011,35.02%
+Massachusetts,Hardwick,1529,733,47.94%
+Massachusetts,Harvard,4129,954,23.10%
+Massachusetts,Holden,12654,4996,39.48%
+Massachusetts,Hopedale,3775,1385,36.69%
+Massachusetts,Hubbardston,2927,1442,49.27%
+Massachusetts,Lancaster,4354,1762,40.47%
+Massachusetts,Leicester,6415,3146,49.04%
+Massachusetts,Leominster,21525,8592,39.92%
+Massachusetts,Lunenburg,7192,2936,40.82%
+Massachusetts,Mendon,3944,1774,44.98%
+Massachusetts,Milford,14580,5544,38.02%
+Massachusetts,Millbury,8162,3739,45.81%
+Massachusetts,Millville,1848,976,52.81%
+Massachusetts,New Braintree,671,337,50.22%
+Massachusetts,Northborough,9687,2913,30.07%
+Massachusetts,Northbridge,9228,4244,45.99%
+Massachusetts,North Brookfield,2715,1459,53.74%
+Massachusetts,Oakham,1257,664,52.82%
+Massachusetts,Oxford,7574,3765,49.71%
+Massachusetts,Paxton,2962,1268,42.81%
+Massachusetts,Petersham,872,321,36.81%
+Massachusetts,Phillipston,1094,607,55.48%
+Massachusetts,Princeton,2575,977,37.94%
+Massachusetts,Royalston,787,357,45.36%
+Massachusetts,Rutland,5675,2667,47.00%
+Massachusetts,Shrewsbury,21131,7058,33.40%
+Massachusetts,Southborough,6665,1851,27.77%
+Massachusetts,Southbridge,7261,3022,41.62%
+Massachusetts,Spencer,6412,3287,51.26%
+Massachusetts,Sterling,5451,2444,44.84%
+Massachusetts,Sturbridge,6093,2515,41.28%
+Massachusetts,Sutton,6318,3081,48.77%
+Massachusetts,Templeton,4495,2289,50.92%
+Massachusetts,Upton,5300,1988,37.51%
+Massachusetts,Uxbridge,8727,4093,46.90%
+Massachusetts,Warren,2599,1375,52.90%
+Massachusetts,Webster,8298,4039,48.67%
+Massachusetts,Westborough,10636,2776,26.10%
+Massachusetts,West Boylston,4802,1872,38.98%
+Massachusetts,West Brookfield,2327,1127,48.43%
+Massachusetts,Westminster,5294,2477,46.79%
+Massachusetts,Winchendon,5152,2661,51.65%
+Massachusetts,Worcester,71370,21169,29.66%
+Michigan,Alcona County,7064,4848,68.63%
+Michigan,Alger County,5128,3014,58.78%
+Michigan,Allegan County,67094,41392,61.69%
+Michigan,Alpena County,16969,10686,62.97%
+Michigan,Antrim County,15949,9748,61.12%
+Michigan,Arenac County,8831,5928,67.13%
+Michigan,Baraga County,4038,2512,62.21%
+Michigan,Barry County,35905,23471,65.37%
+Michigan,Bay County,60255,33125,54.97%
+Michigan,Benzie County,12262,6601,53.83%
+Michigan,Berrien County,82391,43519,52.82%
+Michigan,Branch County,20536,14064,68.48%
+Michigan,Calhoun County,66281,36221,54.65%
+Michigan,Cass County,26216,16699,63.70%
+Michigan,Charlevoix County,17000,9841,57.89%
+Michigan,Cheboygan County,15868,10186,64.19%
+Michigan,Chippewa County,17642,10681,60.54%
+Michigan,Clare County,16281,10861,66.71%
+Michigan,Clinton County,47927,25098,52.37%
+Michigan,Crawford County,7861,5087,64.71%
+Michigan,Delta County,21151,13207,62.44%
+Michigan,Dickinson County,14589,9617,65.92%
+Michigan,Eaton County,64327,31798,49.43%
+Michigan,Emmet County,22177,12135,54.72%
+Michigan,Genesee County,221360,98714,44.59%
+Michigan,Gladwin County,14603,9893,67.75%
+Michigan,Gogebic County,8266,4600,55.65%
+Michigan,Grand Traverse County,60236,30502,50.64%
+Michigan,Gratiot County,19127,12102,63.27%
+Michigan,Hillsdale County,23302,17037,73.11%
+Michigan,Houghton County,18501,10378,56.09%
+Michigan,Huron County,18437,12731,69.05%
+Michigan,Ingham County,144550,47639,32.96%
+Michigan,Ionia County,32209,20657,64.13%
+Michigan,Iosco County,15363,9759,63.52%
+Michigan,Iron County,6789,4216,62.10%
+Michigan,Isabella County,29421,14815,50.36%
+Michigan,Jackson County,80861,47372,58.58%
+Michigan,Kalamazoo County,143414,56823,39.62%
+Michigan,Kalkaska County,10631,7436,69.95%
+Michigan,Kent County,361048,165741,45.91%
+Michigan,Keweenaw County,1557,862,55.36%
+Michigan,Lake County,6323,3946,62.41%
+Michigan,Lapeer County,52650,35482,67.39%
+Michigan,Leelanau County,16900,7916,46.84%
+Michigan,Lenawee County,53375,31541,59.09%
+Michigan,Livingston County,127197,76982,60.52%
+Michigan,Luce County,3001,2109,70.28%
+Michigan,Mackinac County,7015,4304,61.35%
+Michigan,Macomb County,494256,263863,53.39%
+Michigan,Manistee County,14655,8321,56.78%
+Michigan,Marquette County,37462,16286,43.47%
+Michigan,Mason County,17254,10207,59.16%
+Michigan,Mecosta County,21049,13267,63.03%
+Michigan,Menominee County,12607,8117,64.38%
+Michigan,Midland County,49088,27675,56.38%
+Michigan,Missaukee County,8755,6648,75.93%
+Michigan,Monroe County,87148,52710,60.48%
+Michigan,Montcalm County,32100,21815,67.96%
+Michigan,Montmorency County,5859,4171,71.19%
+Michigan,Muskegon County,92444,45133,48.82%
+Michigan,Newaygo County,27161,18857,69.43%
+Michigan,Oakland County,770351,325971,42.31%
+Michigan,Oceana County,14062,8892,63.23%
+Michigan,Ogemaw County,11907,8253,69.31%
+Michigan,Ontonagon County,3804,2358,61.99%
+Michigan,Osceola County,12329,8928,72.41%
+Michigan,Oscoda County,4874,3466,71.11%
+Michigan,Otsego County,14757,9779,66.27%
+Michigan,Ottawa County,168713,100913,59.81%
+Michigan,Presque Isle County,8344,5342,64.02%
+Michigan,Roscommon County,15018,9670,64.39%
+Michigan,Saginaw County,103349,50785,49.14%
+Michigan,St. Clair County,92064,59185,64.29%
+Michigan,St. Joseph County,27936,18127,64.89%
+Michigan,Sanilac County,22446,16194,72.15%
+Michigan,Schoolcraft County,4745,3090,65.12%
+Michigan,Shiawassee County,39224,23149,59.02%
+Michigan,Tuscola County,29445,20297,68.93%
+Michigan,Van Buren County,39066,21591,55.27%
+Michigan,Washtenaw County,216418,56241,25.99%
+Michigan,Wayne County,872469,264553,30.32%
+Michigan,Wexford County,18265,12102,66.26%
+Minnesota,Aitkin County,10025,6258,62.42%
+Minnesota,Anoka County,211132,104902,49.69%
+Minnesota,Becker County,19401,12438,64.11%
+Minnesota,Beltrami County,24189,12188,50.39%
+Minnesota,Benton County,22260,14382,64.61%
+Minnesota,Big Stone County,2974,1863,62.64%
+Minnesota,Blue Earth County,36051,16731,46.41%
+Minnesota,Brown County,14635,9552,65.27%
+Minnesota,Carlton County,20369,9791,48.07%
+Minnesota,Carver County,66361,34009,51.25%
+Minnesota,Cass County,18289,11620,63.54%
+Minnesota,Chippewa County,6611,4250,64.29%
+Minnesota,Chisago County,34570,21916,63.40%
+Minnesota,Clay County,32239,15043,46.66%
+Minnesota,Clearwater County,4708,3372,71.62%
+Minnesota,Cook County,3806,1203,31.61%
+Minnesota,Cottonwood County,6107,4165,68.20%
+Minnesota,Crow Wing County,40173,25676,63.91%
+Minnesota,Dakota County,262259,109638,41.81%
+Minnesota,Dodge County,12187,7783,63.86%
+Minnesota,Douglas County,24165,15799,65.38%
+Minnesota,Faribault County,7914,5191,65.59%
+Minnesota,Fillmore County,12141,7301,60.14%
+Minnesota,Freeborn County,16818,9578,56.95%
+Minnesota,Goodhue County,28636,16052,56.06%
+Minnesota,Grant County,3654,2269,62.10%
+Minnesota,Hennepin County,755969,205973,27.25%
+Minnesota,Houston County,11440,6334,55.37%
+Minnesota,Hubbard County,12965,8202,63.26%
+Minnesota,Isanti County,24235,16491,68.05%
+Minnesota,Itasca County,26561,15239,57.37%
+Minnesota,Jackson County,5819,3948,67.85%
+Minnesota,Kanabec County,9242,6278,67.93%
+Minnesota,Kandiyohi County,23367,14437,61.78%
+Minnesota,Kittson County,2639,1546,58.58%
+Minnesota,Koochiching County,6922,4131,59.68%
+Minnesota,Lac qui Parle County,4040,2528,62.57%
+Minnesota,Lake County,7202,3393,47.11%
+Minnesota,Lake of the Woods County,2408,1704,70.76%
+Minnesota,Le Sueur County,16818,10775,64.07%
+Minnesota,Lincoln County,3115,2121,68.09%
+Minnesota,Lyon County,12893,7979,61.89%
+Minnesota,McLeod County,20933,13986,66.81%
+Minnesota,Mahnomen County,2304,1142,49.57%
+Minnesota,Marshall County,5113,3721,72.78%
+Minnesota,Martin County,11009,7480,67.94%
+Minnesota,Meeker County,13529,9359,69.18%
+Minnesota,Mille Lacs County,14689,9952,67.75%
+Minnesota,Morrison County,19558,14821,75.78%
+Minnesota,Mower County,19345,10025,51.82%
+Minnesota,Murray County,4896,3363,68.69%
+Minnesota,Nicollet County,19125,9018,47.15%
+Minnesota,Nobles County,8715,5600,64.26%
+Minnesota,Norman County,3441,1953,56.76%
+Minnesota,Olmsted County,91385,39692,43.43%
+Minnesota,Otter Tail County,36399,23800,65.39%
+Minnesota,Pennington County,7277,4532,62.28%
+Minnesota,Pine County,16001,10256,64.10%
+Minnesota,Pipestone County,4940,3553,71.92%
+Minnesota,Polk County,15594,9865,63.26%
+Minnesota,Pope County,7022,4417,62.90%
+Minnesota,Ramsey County,295977,77376,26.14%
+Minnesota,Red Lake County,2196,1454,66.21%
+Minnesota,Redwood County,8284,5771,69.66%
+Minnesota,Renville County,8128,5467,67.26%
+Minnesota,Rice County,35686,17464,48.94%
+Minnesota,Rock County,5240,3583,68.38%
+Minnesota,Roseau County,8421,6065,72.02%
+Minnesota,St. Louis County,119531,49017,41.01%
+Minnesota,Scott County,87965,45872,52.15%
+Minnesota,Sherburne County,55612,36222,65.13%
+Minnesota,Sibley County,8452,5864,69.38%
+Minnesota,Stearns County,84835,50959,60.07%
+Minnesota,Steele County,21128,12656,59.90%
+Minnesota,Stevens County,5085,3044,59.86%
+Minnesota,Swift County,5193,3316,63.86%
+Minnesota,Todd County,13257,9753,73.57%
+Minnesota,Traverse County,1864,1172,62.88%
+Minnesota,Wabasha County,13123,8153,62.13%
+Minnesota,Wadena County,7677,5520,71.90%
+Minnesota,Waseca County,10389,6624,63.76%
+Minnesota,Washington County,166786,73764,44.23%
+Minnesota,Watonwan County,5201,3103,59.66%
+Minnesota,Wilkin County,3430,2328,67.87%
+Minnesota,Winona County,27173,13227,48.68%
+Minnesota,Wright County,82426,51973,63.05%
+Minnesota,Yellow Medicine County,5528,3734,67.55%
+Mississippi,Adams County,13759,5696,41.40%
+Mississippi,Alcorn County,15811,12818,81.07%
+Mississippi,Amite County,7207,4503,62.48%
+Mississippi,Attala County,8832,5178,58.63%
+Mississippi,Benton County,4292,2570,59.88%
+Mississippi,Bolivar County,13755,4671,33.96%
+Mississippi,Calhoun County,6595,4625,70.13%
+Mississippi,Carroll County,5705,3924,68.78%
+Mississippi,Chickasaw County,8148,4175,51.24%
+Mississippi,Choctaw County,4225,3001,71.03%
+Mississippi,Claiborne County,4453,603,13.54%
+Mississippi,Clarke County,8347,5417,64.90%
+Mississippi,Clay County,10206,4181,40.97%
+Mississippi,Coahoma County,8507,2375,27.92%
+Mississippi,Copiah County,12897,6250,48.46%
+Mississippi,Covington County,9371,5854,62.47%
+Mississippi,DeSoto County,76248,46462,60.94%
+Mississippi,Forrest County,31725,17290,54.50%
+Mississippi,Franklin County,4464,2923,65.48%
+Mississippi,George County,11064,9713,87.79%
+Mississippi,Greene County,5816,4794,82.43%
+Mississippi,Grenada County,10919,6081,55.69%
+Mississippi,Hancock County,20957,16132,76.98%
+Mississippi,Harrison County,75865,46822,61.72%
+Mississippi,Hinds County,100191,25141,25.09%
+Mississippi,Holmes County,8115,1369,16.87%
+Mississippi,Humphreys County,4189,1118,26.69%
+Mississippi,Issaquena County,676,308,45.56%
+Mississippi,Itawamba County,10826,9438,87.18%
+Mississippi,Jackson County,54623,36295,66.45%
+Mississippi,Jasper County,8742,4302,49.21%
+Mississippi,Jefferson County,3911,531,13.58%
+Mississippi,Jefferson Davis County,6213,2534,40.79%
+Mississippi,Jones County,30091,21226,70.54%
+Mississippi,Kemper County,4732,1787,37.76%
+Mississippi,Lafayette County,23481,12949,55.15%
+Mississippi,Lamar County,28526,20704,72.58%
+Mississippi,Lauderdale County,31266,17967,57.46%
+Mississippi,Lawrence County,6617,4285,64.76%
+Mississippi,Leake County,9204,5228,56.80%
+Mississippi,Lee County,37003,24207,65.42%
+Mississippi,Leflore County,10893,3129,28.72%
+Mississippi,Lincoln County,16818,11596,68.95%
+Mississippi,Lowndes County,27273,13800,50.60%
+Mississippi,Madison County,56335,31091,55.19%
+Mississippi,Marion County,12194,8273,67.84%
+Mississippi,Marshall County,15830,7566,47.80%
+Mississippi,Monroe County,17279,11177,64.69%
+Mississippi,Montgomery County,5078,2917,57.44%
+Mississippi,Neshoba County,11720,8320,70.99%
+Mississippi,Newton County,10189,6997,68.67%
+Mississippi,Noxubee County,5341,1240,23.22%
+Mississippi,Oktibbeha County,19812,9004,45.45%
+Mississippi,Panola County,15635,8060,51.55%
+Mississippi,Pearl River County,24056,19595,81.46%
+Mississippi,Perry County,5922,4500,75.99%
+Mississippi,Pike County,17360,8479,48.84%
+Mississippi,Pontotoc County,14377,11550,80.34%
+Mississippi,Prentiss County,10661,8370,78.51%
+Mississippi,Quitman County,3229,1026,31.77%
+Mississippi,Rankin County,70655,50895,72.03%
+Mississippi,Scott County,10744,6285,58.50%
+Mississippi,Sharkey County,2183,688,31.52%
+Mississippi,Simpson County,11820,7635,64.59%
+Mississippi,Smith County,8327,6458,77.55%
+Mississippi,Stone County,7878,5964,75.70%
+Mississippi,Sunflower County,9683,2799,28.91%
+Mississippi,Tallahatchie County,5691,2488,43.72%
+Mississippi,Tate County,13101,8707,66.46%
+Mississippi,Tippah County,10102,8054,79.73%
+Mississippi,Tishomingo County,9147,7933,86.73%
+Mississippi,Tunica County,3565,926,25.97%
+Mississippi,Union County,12683,10373,81.79%
+Mississippi,Walthall County,7122,4220,59.25%
+Mississippi,Warren County,21056,10365,49.23%
+Mississippi,Washington County,18025,5300,29.40%
+Mississippi,Wayne County,10065,6307,62.66%
+Mississippi,Webster County,5402,4291,79.43%
+Mississippi,Wilkinson County,4130,1324,32.06%
+Mississippi,Winston County,9244,5112,55.30%
+Mississippi,Yalobusha County,6538,3671,56.15%
+Mississippi,Yazoo County,10441,4832,46.28%
+Missouri,Adair County,10336,6413,62.05%
+Missouri,Andrew County,9752,7255,74.39%
+Missouri,Atchison County,2814,2199,78.14%
+Missouri,Audrain County,10656,7732,72.56%
+Missouri,Barry County,15598,12425,79.66%
+Missouri,Barton County,6077,5168,85.04%
+Missouri,Bates County,8416,6597,78.39%
+Missouri,Benton County,10476,8109,77.41%
+Missouri,Bollinger County,5983,5167,86.36%
+Missouri,Boone County,91168,38646,42.39%
+Missouri,Buchanan County,36598,22450,61.34%
+Missouri,Butler County,18141,14602,80.49%
+Missouri,Caldwell County,4682,3725,79.56%
+Missouri,Callaway County,21144,14815,70.07%
+Missouri,Camden County,24812,18850,75.97%
+Missouri,Cape Girardeau County,40328,28907,71.68%
+Missouri,Carroll County,4532,3706,81.77%
+Missouri,Carter County,2897,2451,84.60%
+Missouri,Cass County,57408,37197,64.79%
+Missouri,Cedar County,7044,5788,82.17%
+Missouri,Chariton County,4077,3111,76.31%
+Missouri,Christian County,46839,34920,74.55%
+Missouri,Clark County,3394,2672,78.73%
+Missouri,Clay County,126569,64605,51.04%
+Missouri,Clinton County,10888,7799,71.63%
+Missouri,Cole County,39529,26086,65.99%
+Missouri,Cooper County,8693,6272,72.15%
+Missouri,Crawford County,10973,8725,79.51%
+Missouri,Dade County,4119,3414,82.88%
+Missouri,Dallas County,8104,6619,81.68%
+Missouri,Daviess County,3911,3102,79.31%
+Missouri,DeKalb County,4843,3828,79.04%
+Missouri,Dent County,7142,5987,83.83%
+Missouri,Douglas County,7000,5898,84.26%
+Missouri,Dunklin County,10419,8135,78.08%
+Missouri,Franklin County,53685,38058,70.89%
+Missouri,Gasconade County,7923,6222,78.53%
+Missouri,Gentry County,3237,2581,79.73%
+Missouri,Greene County,141800,83630,58.98%
+Missouri,Grundy County,4437,3585,80.80%
+Missouri,Harrison County,3826,3198,83.59%
+Missouri,Henry County,10788,8027,74.41%
+Missouri,Hickory County,5080,3966,78.07%
+Missouri,Holt County,2343,1976,84.34%
+Missouri,Howard County,5092,3553,69.78%
+Missouri,Howell County,18650,15181,81.40%
+Missouri,Iron County,4592,3596,78.31%
+Missouri,Jackson County,333063,126535,37.99%
+Missouri,Jasper County,52352,37728,72.07%
+Missouri,Jefferson County,116688,77046,66.03%
+Missouri,Johnson County,23123,15489,66.99%
+Missouri,Knox County,1854,1486,80.15%
+Missouri,Laclede County,16793,13762,81.95%
+Missouri,Lafayette County,17055,12273,71.96%
+Missouri,Lawrence County,17905,14426,80.57%
+Missouri,Lewis County,4609,3553,77.09%
+Missouri,Lincoln County,29018,21848,75.29%
+Missouri,Linn County,5726,4363,76.20%
+Missouri,Livingston County,6758,5267,77.94%
+Missouri,McDonald County,9053,7465,82.46%
+Missouri,Macon County,7836,6076,77.54%
+Missouri,Madison County,5676,4584,80.76%
+Missouri,Maries County,4771,3892,81.58%
+Missouri,Marion County,13348,9915,74.28%
+Missouri,Mercer County,1779,1541,86.62%
+Missouri,Miller County,12382,10176,82.18%
+Missouri,Mississippi County,4756,3537,74.37%
+Missouri,Moniteau County,7157,5744,80.26%
+Missouri,Monroe County,4483,3477,77.56%
+Missouri,Montgomery County,5772,4465,77.36%
+Missouri,Morgan County,9487,7442,78.44%
+Missouri,New Madrid County,7250,5447,75.13%
+Missouri,Newton County,28405,22120,77.87%
+Missouri,Nodaway County,9893,6865,69.39%
+Missouri,Oregon County,4739,3847,81.18%
+Missouri,Osage County,7539,6425,85.22%
+Missouri,Ozark County,4864,4064,83.55%
+Missouri,Pemiscot County,5735,4120,71.84%
+Missouri,Perry County,9447,7657,81.05%
+Missouri,Pettis County,19097,13854,72.55%
+Missouri,Phelps County,19568,13480,68.89%
+Missouri,Pike County,7695,5863,76.19%
+Missouri,Platte County,57270,28917,50.49%
+Missouri,Polk County,15064,11850,78.66%
+Missouri,Pulaski County,14414,10329,71.66%
+Missouri,Putnam County,2361,1984,84.03%
+Missouri,Ralls County,5662,4396,77.64%
+Missouri,Randolph County,10744,8018,74.63%
+Missouri,Ray County,11649,8345,71.64%
+Missouri,Reynolds County,3298,2733,82.87%
+Missouri,Ripley County,5717,4839,84.64%
+Missouri,St. Charles County,222017,128389,57.83%
+Missouri,St. Clair County,4974,3932,79.05%
+Missouri,Ste. Genevieve County,9484,6630,69.91%
+Missouri,St. Francois County,28001,20511,73.25%
+Missouri,St. Louis County,536446,199493,37.19%
+Missouri,Saline County,9519,6451,67.77%
+Missouri,Schuyler County,2003,1606,80.18%
+Missouri,Scotland County,1984,1560,78.63%
+Missouri,Scott County,17719,13769,77.71%
+Missouri,Shannon County,3906,3165,81.03%
+Missouri,Shelby County,3350,2700,80.60%
+Missouri,Stoddard County,13426,11484,85.54%
+Missouri,Stone County,18483,14800,80.07%
+Missouri,Sullivan County,2471,1974,79.89%
+Missouri,Taney County,26288,20508,78.01%
+Missouri,Texas County,11315,9478,83.76%
+Missouri,Vernon County,9185,7155,77.90%
+Missouri,Warren County,18375,13222,71.96%
+Missouri,Washington County,9976,8047,80.66%
+Missouri,Wayne County,5878,4987,84.84%
+Missouri,Webster County,18779,14880,79.24%
+Missouri,Worth County,1107,877,79.22%
+Missouri,Wright County,8739,7453,85.28%
+Missouri,St. Louis city,133867,21474,16.04%
+Montana,Beaverhead County,5661,3923,69.30%
+Montana,Big Horn County,4784,2207,46.13%
+Montana,Blaine County,3117,1469,47.13%
+Montana,Broadwater County,4097,3173,77.45%
+Montana,Carbon County,7101,4468,62.92%
+Montana,Carter County,864,775,89.70%
+Montana,Cascade County,39885,23315,58.46%
+Montana,Chouteau County,2974,1891,63.58%
+Montana,Custer County,5883,4205,71.48%
+Montana,Daniels County,1014,799,78.80%
+Montana,Dawson County,4837,3758,77.69%
+Montana,Deer Lodge County,4891,2186,44.69%
+Montana,Fallon County,1575,1375,87.30%
+Montana,Fergus County,6531,4869,74.55%
+Montana,Flathead County,60258,38321,63.59%
+Montana,Gallatin County,71507,31696,44.33%
+Montana,Garfield County,813,764,93.97%
+Montana,Glacier County,5639,1884,33.41%
+Montana,Golden Valley County,503,414,82.31%
+Montana,Granite County,2102,1419,67.51%
+Montana,Hill County,7182,3957,55.10%
+Montana,Jefferson County,8191,5345,65.25%
+Montana,Judith Basin County,1344,1040,77.38%
+Montana,Lake County,16626,9322,56.07%
+Montana,Lewis and Clark County,42485,21409,50.39%
+Montana,Liberty County,1083,821,75.81%
+Montana,Lincoln County,11747,8672,73.82%
+Montana,McCone County,1128,956,84.75%
+Montana,Madison County,6113,4191,68.56%
+Montana,Meagher County,1110,833,75.05%
+Montana,Mineral County,2563,1828,71.32%
+Montana,Missoula County,71986,26347,36.60%
+Montana,Musselshell County,2881,2423,84.10%
+Montana,Park County,11618,6025,51.86%
+Montana,Petroleum County,351,298,84.90%
+Montana,Phillips County,2386,1936,81.14%
+Montana,Pondera County,2995,2031,67.81%
+Montana,Powder River County,1136,970,85.39%
+Montana,Powell County,3195,2355,73.71%
+Montana,Prairie County,744,603,81.05%
+Montana,Ravalli County,28507,19114,67.05%
+Montana,Richland County,5798,4800,82.79%
+Montana,Roosevelt County,4028,1996,49.55%
+Montana,Rosebud County,3784,2486,65.70%
+Montana,Sanders County,7652,5660,73.97%
+Montana,Sheridan County,2030,1403,69.11%
+Montana,Silver Bow County,18827,7745,41.14%
+Montana,Stillwater County,5741,4462,77.72%
+Montana,Sweet Grass County,2446,1840,75.22%
+Montana,Teton County,3695,2608,70.58%
+Montana,Toole County,2123,1596,75.18%
+Montana,Treasure County,460,373,81.09%
+Montana,Valley County,4272,3135,73.38%
+Montana,Wheatland County,1068,823,77.06%
+Montana,Wibaux County,598,516,86.29%
+Montana,Yellowstone County,83821,50772,60.57%
+Nebraska,Adams County,14653,10085,68.83%
+Nebraska,Antelope County,3583,3093,86.32%
+Nebraska,Arthur County,285,260,91.23%
+Nebraska,Banner County,411,362,88.08%
+Nebraska,Blaine County,317,280,88.33%
+Nebraska,Boone County,3226,2653,82.24%
+Nebraska,Box Butte County,5200,4002,76.96%
+Nebraska,Boyd County,1155,1010,87.45%
+Nebraska,Brown County,1684,1470,87.29%
+Nebraska,Buffalo County,23711,16640,70.18%
+Nebraska,Burt County,3739,2580,69.00%
+Nebraska,Butler County,4518,3542,78.40%
+Nebraska,Cass County,15326,10121,66.04%
+Nebraska,Cedar County,5015,4174,83.23%
+Nebraska,Chase County,2000,1740,87.00%
+Nebraska,Cherry County,3269,2844,87.00%
+Nebraska,Cheyenne County,4776,3813,79.84%
+Nebraska,Clay County,3570,2848,79.78%
+Nebraska,Colfax County,3726,2636,70.75%
+Nebraska,Cuming County,4459,3507,78.65%
+Nebraska,Custer County,6010,5090,84.69%
+Nebraska,Dakota County,6817,3926,57.59%
+Nebraska,Dawes County,4151,2931,70.61%
+Nebraska,Dawson County,9191,6524,70.98%
+Nebraska,Deuel County,1034,871,84.24%
+Nebraska,Dixon County,3094,2335,75.47%
+Nebraska,Dodge County,16938,10984,64.85%
+Nebraska,Douglas County,276540,119159,43.09%
+Nebraska,Dundy County,1003,883,88.04%
+Nebraska,Fillmore County,3148,2359,74.94%
+Nebraska,Franklin County,1728,1437,83.16%
+Nebraska,Frontier County,1446,1229,84.99%
+Nebraska,Furnas County,2602,2163,83.13%
+Nebraska,Gage County,11119,7445,66.96%
+Nebraska,Garden County,1200,1016,84.67%
+Nebraska,Garfield County,1076,933,86.71%
+Nebraska,Gosper County,1121,893,79.66%
+Nebraska,Grant County,402,375,93.28%
+Nebraska,Greeley County,1259,1016,80.70%
+Nebraska,Hall County,24450,16189,66.21%
+Nebraska,Hamilton County,5566,4309,77.42%
+Nebraska,Harlan County,1934,1615,83.51%
+Nebraska,Hayes County,536,494,92.16%
+Nebraska,Hitchcock County,1470,1264,85.99%
+Nebraska,Holt County,5550,4769,85.93%
+Nebraska,Hooker County,442,376,85.07%
+Nebraska,Howard County,3511,2786,79.35%
+Nebraska,Jefferson County,3730,2616,70.13%
+Nebraska,Johnson County,2233,1518,67.98%
+Nebraska,Kearney County,3617,2822,78.02%
+Nebraska,Keith County,4369,3544,81.12%
+Nebraska,Keya Paha County,530,476,89.81%
+Nebraska,Kimball County,1877,1563,83.27%
+Nebraska,Knox County,4708,3721,79.04%
+Nebraska,Lancaster County,157215,70092,44.58%
+Nebraska,Lincoln County,17163,13071,76.16%
+Nebraska,Logan County,450,407,90.44%
+Nebraska,Loup County,454,370,81.50%
+Nebraska,McPherson County,302,275,91.06%
+Nebraska,Madison County,15819,11940,75.48%
+Nebraska,Merrick County,4282,3419,79.85%
+Nebraska,Morrill County,2558,2113,82.60%
+Nebraska,Nance County,1832,1437,78.44%
+Nebraska,Nemaha County,3432,2428,70.75%
+Nebraska,Nuckolls County,2305,1857,80.56%
+Nebraska,Otoe County,8355,5649,67.61%
+Nebraska,Pawnee County,1429,1071,74.95%
+Nebraska,Perkins County,1545,1321,85.50%
+Nebraska,Phelps County,5021,4157,82.79%
+Nebraska,Pierce County,4012,3462,86.29%
+Nebraska,Platte County,15721,12186,77.51%
+Nebraska,Polk County,2887,2291,79.36%
+Nebraska,Red Willow County,5470,4525,82.72%
+Nebraska,Richardson County,4134,3073,74.33%
+Nebraska,Rock County,842,744,88.36%
+Nebraska,Saline County,5780,3631,62.82%
+Nebraska,Sarpy County,96193,51979,54.04%
+Nebraska,Saunders County,12786,9108,71.23%
+Nebraska,Scotts Bluff County,15524,10952,70.55%
+Nebraska,Seward County,9199,6490,70.55%
+Nebraska,Sheridan County,2684,2292,85.39%
+Nebraska,Sherman County,1700,1322,77.76%
+Nebraska,Sioux County,731,642,87.82%
+Nebraska,Stanton County,3165,2561,80.92%
+Nebraska,Thayer County,2989,2308,77.22%
+Nebraska,Thomas County,427,377,88.29%
+Nebraska,Thurston County,2379,1180,49.60%
+Nebraska,Valley County,2344,1901,81.10%
+Nebraska,Washington County,12467,8583,68.85%
+Nebraska,Wayne County,4218,3055,72.43%
+Nebraska,Webster County,1876,1511,80.54%
+Nebraska,Wheeler County,503,438,87.08%
+Nebraska,York County,7161,5337,74.53%
+Nevada,Churchill County,12890,9372,72.71%
+Nevada,Clark County,972510,430930,44.31%
+Nevada,Douglas County,34125,21630,63.38%
+Nevada,Elko County,21967,16741,76.21%
+Nevada,Esmeralda County,487,400,82.14%
+Nevada,Eureka County,1017,895,88.00%
+Nevada,Humboldt County,7771,5877,75.63%
+Nevada,Lander County,2765,2198,79.49%
+Nevada,Lincoln County,2446,2067,84.51%
+Nevada,Lyon County,30238,20914,69.16%
+Nevada,Mineral County,2335,1423,60.94%
+Nevada,Nye County,25378,17528,69.07%
+Nevada,Pershing County,2320,1731,74.61%
+Nevada,Storey County,2877,1908,66.32%
+Nevada,Washoe County,252142,116760,46.31%
+Nevada,White Pine County,4369,3403,77.89%
+Nevada,Carson City,29739,16113,54.18%
+New Hampshire,Alton,3903,2420,62.00%
+New Hampshire,Barnstead,2922,1698,58.11%
+New Hampshire,Belmont,4052,2365,58.37%
+New Hampshire,Center Harbor,792,407,51.39%
+New Hampshire,Gilford,5313,2748,51.72%
+New Hampshire,Gilmanton,2500,1423,56.92%
+New Hampshire,Laconia,8955,4642,51.84%
+New Hampshire,Meredith,4407,2208,50.10%
+New Hampshire,New Hampton,1539,810,52.63%
+New Hampshire,Sanbornton,2045,1134,55.45%
+New Hampshire,Tilton,2025,1044,51.56%
+New Hampshire,Albany,449,190,42.32%
+New Hampshire,Bartlett,2170,773,35.62%
+New Hampshire,Brookfield,545,315,57.80%
+New Hampshire,Chatham,244,130,53.28%
+New Hampshire,Conway,5966,2465,41.32%
+New Hampshire,Eaton,309,117,37.86%
+New Hampshire,Effingham,926,526,56.80%
+New Hampshire,Freedom,1090,538,49.36%
+New Hampshire,Harts Location,43,20,46.51%
+New Hampshire,Jackson,786,212,26.97%
+New Hampshire,Madison,1703,760,44.63%
+New Hampshire,Moultonborough,3664,1997,54.50%
+New Hampshire,Ossipee,2519,1487,59.03%
+New Hampshire,Sandwich,1143,413,36.13%
+New Hampshire,Tamworth,1768,838,47.40%
+New Hampshire,Tuftonboro,1900,1012,53.26%
+New Hampshire,Wakefield,3270,1986,60.73%
+New Hampshire,Wolfeboro,4777,2371,49.63%
+New Hampshire,Alstead,1189,477,40.12%
+New Hampshire,Chesterfield,2392,958,40.05%
+New Hampshire,Dublin,1109,404,36.43%
+New Hampshire,Fitzwilliam,1367,682,49.89%
+New Hampshire,Gilsum,516,263,50.97%
+New Hampshire,Harrisville,760,201,26.45%
+New Hampshire,Hinsdale,1915,829,43.29%
+New Hampshire,Jaffrey,3018,1410,46.72%
+New Hampshire,Keene,12929,3758,29.07%
+New Hampshire,Marlborough,1273,441,34.64%
+New Hampshire,Marlow,496,207,41.73%
+New Hampshire,Nelson,451,164,36.36%
+New Hampshire,Richmond,719,413,57.44%
+New Hampshire,Rindge,3658,2144,58.61%
+New Hampshire,Roxbury,144,52,36.11%
+New Hampshire,Stoddard,849,430,50.65%
+New Hampshire,Sullivan,412,186,45.15%
+New Hampshire,Surry,563,252,44.76%
+New Hampshire,Swanzey,3830,1763,46.03%
+New Hampshire,Troy,1117,583,52.19%
+New Hampshire,Walpole,2347,834,35.53%
+New Hampshire,Westmoreland,1133,453,39.98%
+New Hampshire,Winchester,2019,988,48.94%
+New Hampshire,Berlin,4065,1852,45.56%
+New Hampshire,Carroll,538,267,49.63%
+New Hampshire,Clarksville,183,108,59.02%
+New Hampshire,Colebrook,1074,630,58.66%
+New Hampshire,Columbia,351,235,66.95%
+New Hampshire,Dalton,528,295,55.87%
+New Hampshire,Dixville,5,0,0.00%
+New Hampshire,Dummer,184,113,61.41%
+New Hampshire,Errol,223,148,66.37%
+New Hampshire,Gorham,1686,748,44.37%
+New Hampshire,Jefferson,662,394,59.52%
+New Hampshire,Lancaster,1735,874,50.37%
+New Hampshire,Milan,794,437,55.04%
+New Hampshire,Millsfield,21,16,76.19%
+New Hampshire,Northumberland,1056,614,58.14%
+New Hampshire,Pittsburg,545,380,69.72%
+New Hampshire,Randolph,277,83,29.96%
+New Hampshire,Shelburne,254,122,48.03%
+New Hampshire,Stark,295,188,63.73%
+New Hampshire,Stewartstown,413,291,70.46%
+New Hampshire,Stratford,300,140,46.67%
+New Hampshire,Wentworth's Location,18,13,72.22%
+New Hampshire,Whitefield,1321,669,50.64%
+New Hampshire,Alexandria,1080,616,57.04%
+New Hampshire,Ashland,1218,562,46.14%
+New Hampshire,Bath,623,353,56.66%
+New Hampshire,Benton,235,143,60.85%
+New Hampshire,Bethlehem,1671,620,37.10%
+New Hampshire,Bridgewater,857,472,55.08%
+New Hampshire,Bristol,1871,994,53.13%
+New Hampshire,Campton,2129,964,45.28%
+New Hampshire,Canaan,2086,890,42.67%
+New Hampshire,Dorchester,233,124,53.22%
+New Hampshire,Easton,234,64,27.35%
+New Hampshire,Ellsworth,78,32,41.03%
+New Hampshire,Enfield,2765,930,33.63%
+New Hampshire,Franconia,801,248,30.96%
+New Hampshire,Grafton,784,423,53.95%
+New Hampshire,Groton,380,232,61.05%
+New Hampshire,Hanover,7117,841,11.82%
+New Hampshire,Haverhill,2144,1180,55.04%
+New Hampshire,Hebron,523,267,51.05%
+New Hampshire,Holderness,1481,569,38.42%
+New Hampshire,Landaff,285,155,54.39%
+New Hampshire,Lebanon,7949,1954,24.58%
+New Hampshire,Lincoln,923,397,43.01%
+New Hampshire,Lisbon,797,431,54.08%
+New Hampshire,Littleton,3115,1507,48.38%
+New Hampshire,Lyman,385,208,54.03%
+New Hampshire,Lyme,1305,218,16.70%
+New Hampshire,Monroe,544,309,56.80%
+New Hampshire,Orange,196,110,56.12%
+New Hampshire,Orford,823,269,32.69%
+New Hampshire,Piermont,440,194,44.09%
+New Hampshire,Plymouth,3415,1123,32.88%
+New Hampshire,Rumney,956,527,55.13%
+New Hampshire,Sugar Hill,485,153,31.55%
+New Hampshire,Thornton,1731,737,42.58%
+New Hampshire,Warren,478,275,57.53%
+New Hampshire,Waterville,374,127,33.96%
+New Hampshire,Wentworth,620,323,52.10%
+New Hampshire,Woodstock,858,364,42.42%
+New Hampshire,Amherst,8137,3208,39.42%
+New Hampshire,Antrim,1584,779,49.18%
+New Hampshire,Bedford,14739,7052,47.85%
+New Hampshire,Bennington,837,424,50.66%
+New Hampshire,Brookline,3628,1647,45.40%
+New Hampshire,Deering,1158,670,57.86%
+New Hampshire,Francestown,1152,534,46.35%
+New Hampshire,Goffstown,10196,5040,49.43%
+New Hampshire,Greenfield,1010,466,46.14%
+New Hampshire,Greenville,1054,532,50.47%
+New Hampshire,Hancock,1298,408,31.43%
+New Hampshire,Hillsborough,3276,1722,52.56%
+New Hampshire,Hollis,5825,2468,42.37%
+New Hampshire,Hudson,14641,7744,52.89%
+New Hampshire,Litchfield,5410,2824,52.20%
+New Hampshire,Lyndeborough,1138,541,47.54%
+New Hampshire,Manchester,52606,22127,42.06%
+New Hampshire,Mason,949,535,56.38%
+New Hampshire,Merrimack,16697,7669,45.93%
+New Hampshire,Milford,8961,4123,46.01%
+New Hampshire,Mont Vernon,1778,730,41.06%
+New Hampshire,Nashua,45281,17806,39.32%
+New Hampshire,New Boston,3934,2036,51.75%
+New Hampshire,New Ipswich,3123,2099,67.21%
+New Hampshire,Pelham,8854,5253,59.33%
+New Hampshire,Peterborough,4400,1246,28.32%
+New Hampshire,Sharon,273,116,42.49%
+New Hampshire,Temple,961,432,44.95%
+New Hampshire,Weare,5538,3213,58.02%
+New Hampshire,Wilton,2473,1090,44.08%
+New Hampshire,Windsor,129,91,70.54%
+New Hampshire,Allenstown,2325,1233,53.03%
+New Hampshire,Andover,1595,726,45.52%
+New Hampshire,Boscawen,2040,1064,52.16%
+New Hampshire,Bow,5512,2167,39.31%
+New Hampshire,Bradford,1073,478,44.55%
+New Hampshire,Canterbury,1754,718,40.94%
+New Hampshire,Chichester,1736,930,53.57%
+New Hampshire,Concord,23875,7983,33.44%
+New Hampshire,Danbury,725,414,57.10%
+New Hampshire,Dunbarton,2030,1121,55.22%
+New Hampshire,Epsom,2927,1702,58.15%
+New Hampshire,Franklin,4178,2281,54.60%
+New Hampshire,Henniker,2711,1075,39.65%
+New Hampshire,Hill,635,403,63.46%
+New Hampshire,Hooksett,8585,4387,51.10%
+New Hampshire,Hopkinton,4163,1400,33.63%
+New Hampshire,Loudon,3725,2152,57.77%
+New Hampshire,Newbury,1667,726,43.55%
+New Hampshire,New London,3194,1059,33.16%
+New Hampshire,Northfield,2619,1435,54.79%
+New Hampshire,Pembroke,4325,2057,47.56%
+New Hampshire,Pittsfield,2095,1230,58.71%
+New Hampshire,Salisbury,925,517,55.89%
+New Hampshire,Sutton,1348,574,42.58%
+New Hampshire,Warner,1928,844,43.78%
+New Hampshire,Webster,1241,669,53.91%
+New Hampshire,Wilmot,956,366,38.28%
+New Hampshire,Atkinson,5104,2795,54.76%
+New Hampshire,Auburn,3930,2265,57.63%
+New Hampshire,Brentwood,2914,1372,47.08%
+New Hampshire,Candia,2789,1702,61.03%
+New Hampshire,Chester,3469,1951,56.24%
+New Hampshire,Danville,2816,1686,59.87%
+New Hampshire,Deerfield,3221,1786,55.45%
+New Hampshire,Derry,17894,9412,52.60%
+New Hampshire,East Kingston,1692,889,52.54%
+New Hampshire,Epping,4437,2311,52.08%
+New Hampshire,Exeter,10336,3321,32.13%
+New Hampshire,Fremont,2839,1635,57.59%
+New Hampshire,Greenland,2919,1160,39.74%
+New Hampshire,Hampstead,5897,3303,56.01%
+New Hampshire,Hampton,11502,5212,45.31%
+New Hampshire,Hampton Falls,1720,863,50.17%
+New Hampshire,Kensington,1557,726,46.63%
+New Hampshire,Kingston,4102,2311,56.34%
+New Hampshire,Londonderry,15873,7905,49.80%
+New Hampshire,New Castle,904,281,31.08%
+New Hampshire,Newfields,1255,512,40.80%
+New Hampshire,Newington,639,325,50.86%
+New Hampshire,Newmarket,6004,1925,32.06%
+New Hampshire,Newton,2994,1680,56.11%
+New Hampshire,North Hampton,3484,1455,41.76%
+New Hampshire,Northwood,2881,1483,51.48%
+New Hampshire,Nottingham,3496,1641,46.94%
+New Hampshire,Plaistow,4617,2504,54.23%
+New Hampshire,Portsmouth,14701,3836,26.09%
+New Hampshire,Raymond,6000,3517,58.62%
+New Hampshire,Rye,4465,1620,36.28%
+New Hampshire,Salem,17841,9969,55.88%
+New Hampshire,Sandown,3975,2273,57.18%
+New Hampshire,Seabrook,4639,2595,55.94%
+New Hampshire,South Hampton,652,326,50.00%
+New Hampshire,Stratham,5485,2115,38.56%
+New Hampshire,Windham,9900,5196,52.48%
+New Hampshire,Barrington,6004,2733,45.52%
+New Hampshire,Dover,19229,6331,32.92%
+New Hampshire,Durham,7810,1712,21.92%
+New Hampshire,Farmington,3433,2000,58.26%
+New Hampshire,Lee,2976,971,32.63%
+New Hampshire,Madbury,1312,454,34.60%
+New Hampshire,Middleton,1042,643,61.71%
+New Hampshire,Milton,2539,1476,58.13%
+New Hampshire,New Durham,1868,1109,59.37%
+New Hampshire,Rochester,16907,8367,49.49%
+New Hampshire,Rollinsford,1736,735,42.34%
+New Hampshire,Somersworth,6071,2550,42.00%
+New Hampshire,Strafford,2802,1408,50.25%
+New Hampshire,Acworth,569,269,47.28%
+New Hampshire,Charlestown,2481,1239,49.94%
+New Hampshire,Claremont,5813,2788,47.96%
+New Hampshire,Cornish,1109,408,36.79%
+New Hampshire,Croydon,513,319,62.18%
+New Hampshire,Goshen,481,284,59.04%
+New Hampshire,Grantham,2447,747,30.53%
+New Hampshire,Langdon,412,199,48.30%
+New Hampshire,Lempster,726,440,60.61%
+New Hampshire,Newport,3138,1773,56.50%
+New Hampshire,Plainfield,1685,522,30.98%
+New Hampshire,Springfield,889,436,49.04%
+New Hampshire,Sunapee,2431,1086,44.67%
+New Hampshire,Unity,892,531,59.53%
+New Hampshire,Washington,797,467,58.59%
+New Jersey,Atlantic County,140441,64438,45.88%
+New Jersey,Bergen County,497460,204417,41.09%
+New Jersey,Burlington County,262650,103345,39.35%
+New Jersey,Camden County,265599,86207,32.46%
+New Jersey,Cape May County,57933,33158,57.24%
+New Jersey,Cumberland County,62575,28952,46.27%
+New Jersey,Essex County,345311,75475,21.86%
+New Jersey,Gloucester County,173453,83340,48.05%
+New Jersey,Hudson County,250458,65698,26.23%
+New Jersey,Hunterdon County,84673,43153,50.96%
+New Jersey,Mercer County,177223,51641,29.14%
+New Jersey,Middlesex County,375692,143467,38.19%
+New Jersey,Monmouth County,378390,191808,50.69%
+New Jersey,Morris County,300917,141134,46.90%
+New Jersey,Ocean County,342746,217740,63.53%
+New Jersey,Passaic County,224330,92009,41.02%
+New Jersey,Salem County,34042,18827,55.31%
+New Jersey,Somerset County,186891,71996,38.52%
+New Jersey,Sussex County,88352,51698,58.51%
+New Jersey,Union County,254041,80002,31.49%
+New Jersey,Warren County,61057,34769,56.95%
+New Mexico,Bernalillo County,317590,116135,36.57%
+New Mexico,Catron County,2326,1698,73.00%
+New Mexico,Chaves County,22443,15656,69.76%
+New Mexico,Cibola County,8903,3975,44.65%
+New Mexico,Colfax County,6016,3271,54.37%
+New Mexico,Curry County,15101,10444,69.16%
+New Mexico,De Baca County,901,656,72.81%
+New Mexico,Do�a Ana County,82641,32802,39.69%
+New Mexico,Eddy County,23222,17454,75.16%
+New Mexico,Grant County,14435,6553,45.40%
+New Mexico,Guadalupe County,2189,917,41.89%
+New Mexico,Harding County,505,319,63.17%
+New Mexico,Hidalgo County,1974,1120,56.74%
+New Mexico,Lea County,20918,16531,79.03%
+New Mexico,Lincoln County,10306,6942,67.36%
+New Mexico,Los Alamos County,12293,4278,34.80%
+New Mexico,Luna County,8103,4408,54.40%
+New Mexico,McKinley County,26486,7801,29.45%
+New Mexico,Mora County,2686,903,33.62%
+New Mexico,Otero County,23571,14521,61.61%
+New Mexico,Quay County,3873,2634,68.01%
+New Mexico,Rio Arriba County,16628,5408,32.52%
+New Mexico,Roosevelt County,6608,4634,70.13%
+New Mexico,Sandoval County,76562,34174,44.64%
+New Mexico,San Juan County,52294,32874,62.86%
+New Mexico,San Miguel County,11531,3421,29.67%
+New Mexico,Santa Fe County,82227,18329,22.29%
+New Mexico,Sierra County,5945,3542,59.58%
+New Mexico,Socorro County,7160,3255,45.46%
+New Mexico,Taos County,17181,3715,21.62%
+New Mexico,Torrance County,7281,4772,65.54%
+New Mexico,Union County,1789,1388,77.59%
+New Mexico,Valencia County,32277,17364,53.80%
+New York,Albany County,154101,51081,33.15%
+New York,Allegany County,20782,14135,68.02%
+New York,Bronx County,425715,67740,15.91%
+New York,Broome County,92794,43800,47.20%
+New York,Cattaraugus County,34845,22155,63.58%
+New York,Cayuga County,36421,19512,53.57%
+New York,Chautauqua County,59304,34853,58.77%
+New York,Chemung County,39410,21922,55.63%
+New York,Chenango County,22282,13482,60.51%
+New York,Clinton County,35437,16514,46.60%
+New York,Columbia County,35522,14464,40.72%
+New York,Cortland County,21678,10789,49.77%
+New York,Delaware County,23025,13387,58.14%
+New York,Dutchess County,151122,66872,44.25%
+New York,Erie County,473021,197527,41.76%
+New York,Essex County,19259,8976,46.61%
+New York,Franklin County,19268,9668,50.18%
+New York,Fulton County,23744,15378,64.77%
+New York,Genesee County,29217,18876,64.61%
+New York,Greene County,25194,14271,56.64%
+New York,Hamilton County,3460,2225,64.31%
+New York,Herkimer County,29319,18870,64.36%
+New York,Jefferson County,43848,25629,58.45%
+New York,Kings County,913246,202772,22.20%
+New York,Lewis County,12944,8894,68.71%
+New York,Livingston County,31401,18182,57.90%
+New York,Madison County,34038,18408,54.08%
+New York,Monroe County,380983,145661,38.23%
+New York,Montgomery County,21134,12745,60.31%
+New York,Nassau County,732756,326716,44.59%
+New York,New York County,694904,85185,12.26%
+New York,Niagara County,104080,56068,53.87%
+New York,Oneida County,100746,57180,56.76%
+New York,Onondaga County,234735,90619,38.60%
+New York,Ontario County,59674,29039,48.66%
+New York,Orange County,172099,84996,49.39%
+New York,Orleans County,18154,12126,66.80%
+New York,Oswego County,54491,32138,58.98%
+New York,Otsego County,28008,14382,51.35%
+New York,Putnam County,54989,29283,53.25%
+New York,Queens County,787860,212665,26.99%
+New York,Rensselaer County,79409,36500,45.96%
+New York,Richmond County,216153,123320,57.05%
+New York,Rockland County,150369,73186,48.67%
+New York,St. Lawrence County,44907,24608,54.80%
+New York,Saratoga County,132655,61305,46.21%
+New York,Schenectady County,74826,30741,41.08%
+New York,Schoharie County,15710,9903,63.04%
+New York,Schuyler County,9766,5621,57.56%
+New York,Seneca County,15630,8329,53.29%
+New York,Steuben County,46178,29474,63.83%
+New York,Suffolk County,771541,381253,49.41%
+New York,Sullivan County,34647,18665,53.87%
+New York,Tioga County,25044,14791,59.06%
+New York,Tompkins County,45735,11096,24.26%
+New York,Ulster County,97420,37590,38.59%
+New York,Warren County,36131,17699,48.99%
+New York,Washington County,28138,15941,56.65%
+New York,Wayne County,44714,26204,58.60%
+New York,Westchester County,462122,144713,31.31%
+New York,Wyoming County,19399,13898,71.64%
+New York,Yates County,10701,6208,58.01%
+North Carolina,Alamance County,86091,46056,53.50%
+North Carolina,Alexander County,20236,15888,78.51%
+North Carolina,Alleghany County,6076,4527,74.51%
+North Carolina,Anson County,11194,5321,47.53%
+North Carolina,Ashe County,15814,11451,72.41%
+North Carolina,Avery County,9458,7172,75.83%
+North Carolina,Beaufort County,26315,16437,62.46%
+North Carolina,Bertie County,9815,3817,38.89%
+North Carolina,Bladen County,17125,9676,56.50%
+North Carolina,Brunswick County,90175,55850,61.94%
+North Carolina,Buncombe County,161569,62412,38.63%
+North Carolina,Burke County,44602,31019,69.55%
+North Carolina,Cabarrus County,117227,63237,53.94%
+North Carolina,Caldwell County,42829,32119,74.99%
+North Carolina,Camden County,5953,4312,72.43%
+North Carolina,Carteret County,42695,30028,70.33%
+North Carolina,Caswell County,12051,7089,58.82%
+North Carolina,Catawba County,83425,56588,67.83%
+North Carolina,Chatham County,48599,21186,43.59%
+North Carolina,Cherokee County,16423,12628,76.89%
+North Carolina,Chowan County,7784,4471,57.44%
+North Carolina,Clay County,6893,5112,74.16%
+North Carolina,Cleveland County,51308,33798,65.87%
+North Carolina,Columbus County,26446,16832,63.65%
+North Carolina,Craven County,53065,31032,58.48%
+North Carolina,Cumberland County,147150,60032,40.80%
+North Carolina,Currituck County,16147,11657,72.19%
+North Carolina,Dare County,24232,13938,57.52%
+North Carolina,Davidson County,88514,64658,73.05%
+North Carolina,Davie County,25311,18228,72.02%
+North Carolina,Duplin County,22715,13793,60.72%
+North Carolina,Durham County,179914,32459,18.04%
+North Carolina,Edgecombe County,25477,9206,36.13%
+North Carolina,Forsyth County,201270,85064,42.26%
+North Carolina,Franklin County,37351,20901,55.96%
+North Carolina,Gaston County,115498,73033,63.23%
+North Carolina,Gates County,5971,3367,56.39%
+North Carolina,Graham County,4665,3710,79.53%
+North Carolina,Granville County,31598,16647,52.68%
+North Carolina,Greene County,8753,4874,55.68%
+North Carolina,Guilford County,284486,107294,37.72%
+North Carolina,Halifax County,25759,10080,39.13%
+North Carolina,Harnett County,58293,35177,60.35%
+North Carolina,Haywood County,36542,22834,62.49%
+North Carolina,Henderson County,68371,40032,58.55%
+North Carolina,Hertford County,10634,3479,32.72%
+North Carolina,Hoke County,21639,9453,43.69%
+North Carolina,Hyde County,2492,1418,56.90%
+North Carolina,Iredell County,102371,67010,65.46%
+North Carolina,Jackson County,21428,11356,53.00%
+North Carolina,Johnston County,111357,68353,61.38%
+North Carolina,Jones County,5525,3280,59.37%
+North Carolina,Lee County,29008,16469,56.77%
+North Carolina,Lenoir County,28409,14590,51.36%
+North Carolina,Lincoln County,50217,36341,72.37%
+North Carolina,McDowell County,23003,16883,73.39%
+North Carolina,Macon County,20743,14211,68.51%
+North Carolina,Madison County,13076,7979,61.02%
+North Carolina,Martin County,12540,6532,52.09%
+North Carolina,Mecklenburg County,567053,179211,31.60%
+North Carolina,Mitchell County,9041,7090,78.42%
+North Carolina,Montgomery County,12849,8411,65.46%
+North Carolina,Moore County,58339,36764,63.02%
+North Carolina,Nash County,52271,25827,49.41%
+North Carolina,New Hanover County,131830,63331,48.04%
+North Carolina,Northampton County,10109,3989,39.46%
+North Carolina,Onslow County,72235,46078,63.79%
+North Carolina,Orange County,84997,20176,23.74%
+North Carolina,Pamlico County,7631,4849,63.54%
+North Carolina,Pasquotank County,19897,9770,49.10%
+North Carolina,Pender County,34169,21956,64.26%
+North Carolina,Perquimans County,7484,4903,65.51%
+North Carolina,Person County,21894,13184,60.22%
+North Carolina,Pitt County,87573,38982,44.51%
+North Carolina,Polk County,12358,7689,62.22%
+North Carolina,Randolph County,73316,56894,77.60%
+North Carolina,Richmond County,20763,11830,56.98%
+North Carolina,Robeson County,47188,27806,58.93%
+North Carolina,Rockingham County,47809,31301,65.47%
+North Carolina,Rowan County,73408,49297,67.15%
+North Carolina,Rutherford County,34429,24891,72.30%
+North Carolina,Sampson County,28618,17411,60.84%
+North Carolina,Scotland County,14775,7473,50.58%
+North Carolina,Stanly County,33939,25458,75.01%
+North Carolina,Stokes County,25701,20142,78.37%
+North Carolina,Surry County,36638,27538,75.16%
+North Carolina,Swain County,7068,4161,58.87%
+North Carolina,Transylvania County,20404,11636,57.03%
+North Carolina,Tyrrell County,1817,1044,57.46%
+North Carolina,Union County,131011,80382,61.36%
+North Carolina,Vance County,20999,8391,39.96%
+North Carolina,Wake County,631830,226197,35.80%
+North Carolina,Warren County,10293,3752,36.45%
+North Carolina,Washington County,6205,2781,44.82%
+North Carolina,Watauga County,32220,14451,44.85%
+North Carolina,Wayne County,55537,30709,55.29%
+North Carolina,Wilkes County,35466,27592,77.80%
+North Carolina,Wilson County,40735,19581,48.07%
+North Carolina,Yadkin County,19923,15933,79.97%
+North Carolina,Yancey County,11352,7516,66.21%
+North Dakota,Adams County,1269,981,77.30%
+North Dakota,Barnes County,5565,3568,64.12%
+North Dakota,Benson County,1961,1094,55.79%
+North Dakota,Billings County,635,541,85.20%
+North Dakota,Bottineau County,3471,2575,74.19%
+North Dakota,Bowman County,1657,1395,84.19%
+North Dakota,Burke County,1155,994,86.06%
+North Dakota,Burleigh County,50753,34744,68.46%
+North Dakota,Cass County,86053,42619,49.53%
+North Dakota,Cavalier County,2020,1499,74.21%
+North Dakota,Dickey County,2424,1742,71.86%
+North Dakota,Divide County,1202,904,75.21%
+North Dakota,Dunn County,2338,1951,83.45%
+North Dakota,Eddy County,1261,854,67.72%
+North Dakota,Emmons County,2009,1738,86.51%
+North Dakota,Foster County,1778,1362,76.60%
+North Dakota,Golden Valley County,1026,871,84.89%
+North Dakota,Grand Forks County,30970,16987,54.85%
+North Dakota,Grant County,1381,1145,82.91%
+North Dakota,Griggs County,1250,907,72.56%
+North Dakota,Hettinger County,1312,1091,83.16%
+North Dakota,Kidder County,1460,1215,83.22%
+North Dakota,LaMoure County,2219,1645,74.13%
+North Dakota,Logan County,1076,930,86.43%
+North Dakota,McHenry County,3003,2364,78.72%
+North Dakota,McIntosh County,1455,1153,79.24%
+North Dakota,McKenzie County,5419,4482,82.71%
+North Dakota,McLean County,5536,4198,75.83%
+North Dakota,Mercer County,4675,3856,82.48%
+North Dakota,Morton County,16619,12243,73.67%
+North Dakota,Mountrail County,4165,2824,67.80%
+North Dakota,Nelson County,1777,1141,64.21%
+North Dakota,Oliver County,1066,918,86.12%
+North Dakota,Pembina County,3331,2460,73.85%
+North Dakota,Pierce County,2128,1585,74.48%
+North Dakota,Ramsey County,5372,3577,66.59%
+North Dakota,Ransom County,2454,1418,57.78%
+North Dakota,Renville County,1319,1065,80.74%
+North Dakota,Richland County,7812,5072,64.93%
+North Dakota,Rolette County,3804,1257,33.04%
+North Dakota,Sargent County,2070,1266,61.16%
+North Dakota,Sheridan County,812,688,84.73%
+North Dakota,Sioux County,1186,258,21.75%
+North Dakota,Slope County,427,380,88.99%
+North Dakota,Stark County,15050,12110,80.47%
+North Dakota,Steele County,1088,652,59.93%
+North Dakota,Stutsman County,9959,6994,70.23%
+North Dakota,Towner County,1174,830,70.70%
+North Dakota,Traill County,4136,2522,60.98%
+North Dakota,Walsh County,4783,3324,69.50%
+North Dakota,Ward County,28246,19974,70.71%
+North Dakota,Wells County,2374,1893,79.74%
+North Dakota,Williams County,14334,11739,81.90%
+Ohio,Adams County,12145,9870,81.27%
+Ohio,Allen County,48006,33116,68.98%
+Ohio,Ashland County,26405,19407,73.50%
+Ohio,Ashtabula County,44147,26890,60.91%
+Ohio,Athens County,26059,10862,41.68%
+Ohio,Auglaize County,25777,20798,80.68%
+Ohio,Belmont County,33088,23560,71.20%
+Ohio,Brown County,21096,16480,78.12%
+Ohio,Butler County,186737,114392,61.26%
+Ohio,Carroll County,14212,10745,75.61%
+Ohio,Champaign County,19972,14589,73.05%
+Ohio,Clark County,64212,39032,60.79%
+Ohio,Clermont County,110480,74570,67.50%
+Ohio,Clinton County,20527,15488,75.45%
+Ohio,Columbiana County,49860,35726,71.65%
+Ohio,Coshocton County,16739,12325,73.63%
+Ohio,Crawford County,20686,15436,74.62%
+Ohio,Cuyahoga County,625670,202699,32.40%
+Ohio,Darke County,27134,22004,81.09%
+Ohio,Defiance County,19381,13038,67.27%
+Ohio,Delaware County,126070,66356,52.63%
+Ohio,Erie County,40335,22160,54.94%
+Ohio,Fairfield County,83311,50797,60.97%
+Ohio,Fayette County,12612,9473,75.11%
+Ohio,Franklin County,630577,211237,33.50%
+Ohio,Fulton County,22770,15731,69.09%
+Ohio,Gallia County,13799,10645,77.14%
+Ohio,Geauga County,56021,34143,60.95%
+Ohio,Greene County,88643,52072,58.74%
+Ohio,Guernsey County,18230,13407,73.54%
+Ohio,Hamilton County,430929,177886,41.28%
+Ohio,Hancock County,38771,26310,67.86%
+Ohio,Hardin County,13247,9949,75.10%
+Ohio,Harrison County,7655,5792,75.66%
+Ohio,Henry County,14764,10479,70.98%
+Ohio,Highland County,19676,15678,79.68%
+Ohio,Hocking County,13824,9737,70.44%
+Ohio,Holmes County,12947,10796,83.39%
+Ohio,Huron County,27190,18956,69.72%
+Ohio,Jackson County,14794,11309,76.44%
+Ohio,Jefferson County,33362,22828,68.43%
+Ohio,Knox County,31398,22340,71.15%
+Ohio,Lake County,130509,73278,56.15%
+Ohio,Lawrence County,28127,20306,72.19%
+Ohio,Licking County,94210,59514,63.17%
+Ohio,Logan County,23368,17964,76.87%
+Ohio,Lorain County,157437,79520,50.51%
+Ohio,Lucas County,200623,81763,40.75%
+Ohio,Madison County,19855,13835,69.68%
+Ohio,Mahoning County,118966,59903,50.35%
+Ohio,Marion County,27818,19023,68.38%
+Ohio,Medina County,105825,64598,61.04%
+Ohio,Meigs County,10951,8316,75.94%
+Ohio,Mercer County,23761,19452,81.87%
+Ohio,Miami County,57972,41371,71.36%
+Ohio,Monroe County,7148,5463,76.43%
+Ohio,Montgomery County,268505,129034,48.06%
+Ohio,Morgan County,6847,5041,73.62%
+Ohio,Morrow County,18457,14077,76.27%
+Ohio,Muskingum County,40465,27867,68.87%
+Ohio,Noble County,6343,5135,80.96%
+Ohio,Ottawa County,24007,14628,60.93%
+Ohio,Paulding County,9467,7086,74.85%
+Ohio,Perry County,16675,12357,74.10%
+Ohio,Pickaway County,28271,20593,72.84%
+Ohio,Pike County,12412,9157,73.78%
+Ohio,Portage County,82872,45990,55.50%
+Ohio,Preble County,21809,17022,78.05%
+Ohio,Putnam County,19921,16412,82.39%
+Ohio,Richland County,59975,41472,69.15%
+Ohio,Ross County,33299,22278,66.90%
+Ohio,Sandusky County,30074,18896,62.83%
+Ohio,Scioto County,32047,22609,70.55%
+Ohio,Seneca County,25810,17086,66.20%
+Ohio,Shelby County,25258,20422,80.85%
+Ohio,Stark County,189879,111097,58.51%
+Ohio,Summit County,280473,124833,44.51%
+Ohio,Trumbull County,101001,55194,54.65%
+Ohio,Tuscarawas County,44015,30458,69.20%
+Ohio,Union County,33445,21669,64.79%
+Ohio,Van Wert County,14965,11650,77.85%
+Ohio,Vinton County,6030,4632,76.82%
+Ohio,Warren County,136100,87988,64.65%
+Ohio,Washington County,32031,22307,69.64%
+Ohio,Wayne County,54283,36759,67.72%
+Ohio,Williams County,18651,13452,72.12%
+Ohio,Wood County,67597,35757,52.90%
+Ohio,Wyandot County,11390,8462,74.29%
+Oklahoma,Adair County,7108,5585,78.57%
+Oklahoma,Alfalfa County,2262,1978,87.44%
+Oklahoma,Atoka County,5389,4557,84.56%
+Oklahoma,Beaver County,2178,1968,90.36%
+Oklahoma,Beckham County,7948,6767,85.14%
+Oklahoma,Blaine County,3901,3136,80.39%
+Oklahoma,Bryan County,15976,12344,77.27%
+Oklahoma,Caddo County,9859,7013,71.13%
+Oklahoma,Canadian County,61940,43550,70.31%
+Oklahoma,Carter County,19479,14699,75.46%
+Oklahoma,Cherokee County,17714,11223,63.36%
+Oklahoma,Choctaw County,5832,4698,80.56%
+Oklahoma,Cimarron County,1054,970,92.03%
+Oklahoma,Cleveland County,119778,66677,55.67%
+Oklahoma,Coal County,2524,2091,82.84%
+Oklahoma,Comanche County,35631,20905,58.67%
+Oklahoma,Cotton County,2572,2117,82.31%
+Oklahoma,Craig County,6032,4686,77.69%
+Oklahoma,Creek County,30505,23294,76.36%
+Oklahoma,Custer County,10691,8060,75.39%
+Oklahoma,Delaware County,17245,13557,78.61%
+Oklahoma,Dewey County,2359,2124,90.04%
+Oklahoma,Ellis County,1873,1688,90.12%
+Oklahoma,Garfield County,22430,16970,75.66%
+Oklahoma,Garvin County,10922,8878,81.29%
+Oklahoma,Grady County,23101,18538,80.25%
+Oklahoma,Grant County,2226,1916,86.07%
+Oklahoma,Greer County,1973,1605,81.35%
+Oklahoma,Harmon County,933,747,80.06%
+Oklahoma,Harper County,1487,1327,89.24%
+Oklahoma,Haskell County,5014,4165,83.07%
+Oklahoma,Hughes County,4857,3875,79.78%
+Oklahoma,Jackson County,8221,6392,77.75%
+Oklahoma,Jefferson County,2385,2026,84.95%
+Oklahoma,Johnston County,4251,3441,80.95%
+Oklahoma,Kay County,17249,12834,74.40%
+Oklahoma,Kingfisher County,6465,5521,85.40%
+Oklahoma,Kiowa County,3427,2673,78.00%
+Oklahoma,Latimer County,4249,3437,80.89%
+Oklahoma,Le Flore County,18805,15213,80.90%
+Oklahoma,Lincoln County,14888,12013,80.69%
+Oklahoma,Logan County,21574,15608,72.35%
+Oklahoma,Love County,4076,3305,81.08%
+Oklahoma,McClain County,19236,15295,79.51%
+Oklahoma,McCurtain County,11467,9485,82.72%
+Oklahoma,McIntosh County,8335,6172,74.05%
+Oklahoma,Major County,3467,3084,88.95%
+Oklahoma,Marshall County,6064,4891,80.66%
+Oklahoma,Mayes County,16626,12749,76.68%
+Oklahoma,Murray County,5894,4612,78.25%
+Oklahoma,Muskogee County,25081,16526,65.89%
+Oklahoma,Noble County,4938,3821,77.38%
+Oklahoma,Nowata County,4391,3610,82.21%
+Oklahoma,Okfuskee County,4038,3058,75.73%
+Oklahoma,Oklahoma County,294740,145050,49.21%
+Oklahoma,Okmulgee County,14313,9668,67.55%
+Oklahoma,Osage County,20538,14121,68.76%
+Oklahoma,Ottawa County,11438,8545,74.71%
+Oklahoma,Pawnee County,6786,5267,77.62%
+Oklahoma,Payne County,29643,17813,60.09%
+Oklahoma,Pittsburg County,17924,13851,77.28%
+Oklahoma,Pontotoc County,15320,10805,70.53%
+Oklahoma,Pottawatomie County,28185,20240,71.81%
+Oklahoma,Pushmataha County,4739,4016,84.74%
+Oklahoma,Roger Mills County,1834,1629,88.82%
+Oklahoma,Rogers County,44553,34031,76.38%
+Oklahoma,Seminole County,8337,6011,72.10%
+Oklahoma,Sequoyah County,15386,12113,78.73%
+Oklahoma,Stephens County,19057,15560,81.65%
+Oklahoma,Texas County,5521,4505,81.60%
+Oklahoma,Tillman County,2708,2076,76.66%
+Oklahoma,Tulsa County,266678,150574,56.46%
+Oklahoma,Wagoner County,35338,26165,74.04%
+Oklahoma,Washington County,23501,17076,72.66%
+Oklahoma,Washita County,4777,4086,85.53%
+Oklahoma,Woods County,3678,2993,81.38%
+Oklahoma,Woodward County,7785,6611,84.92%
+Oregon,Baker County,9932,7352,74.02%
+Oregon,Benton County,52799,14878,28.18%
+Oregon,Clackamas County,257679,110509,42.89%
+Oregon,Clatsop County,23910,10218,42.74%
+Oregon,Columbia County,32221,17150,53.23%
+Oregon,Coos County,37075,21829,58.88%
+Oregon,Crook County,15448,11287,73.06%
+Oregon,Curry County,14925,8484,56.84%
+Oregon,Deschutes County,125234,55646,44.43%
+Oregon,Douglas County,64349,43298,67.29%
+Oregon,Gilliam County,1178,834,70.80%
+Oregon,Grant County,4596,3545,77.13%
+Oregon,Harney County,4481,3475,77.55%
+Oregon,Hood River County,13090,3955,30.21%
+Oregon,Jackson County,127165,63869,50.23%
+Oregon,Jefferson County,11913,7189,60.35%
+Oregon,Josephine County,51641,31751,61.48%
+Oregon,Klamath County,36726,25308,68.91%
+Oregon,Lake County,4363,3470,79.53%
+Oregon,Lane County,222253,80336,36.15%
+Oregon,Lincoln County,30726,12460,40.55%
+Oregon,Linn County,72640,43486,59.87%
+Oregon,Malheur County,11804,8187,69.36%
+Oregon,Marion County,165534,79002,47.73%
+Oregon,Morrow County,5118,3586,70.07%
+Oregon,Multnomah County,463659,82995,17.90%
+Oregon,Polk County,48291,23732,49.14%
+Oregon,Sherman County,1208,921,76.24%
+Oregon,Tillamook County,16888,8354,49.47%
+Oregon,Umatilla County,33038,21270,64.38%
+Oregon,Union County,14944,10298,68.91%
+Oregon,Wallowa County,5149,3404,66.11%
+Oregon,Wasco County,14130,7035,49.79%
+Oregon,Washington County,320326,99073,30.93%
+Oregon,Wheeler County,965,711,73.68%
+Oregon,Yamhill County,58923,29551,50.15%
+Pennsylvania,Adams County,56714,37523,66.16%
+Pennsylvania,Allegheny County,724800,282913,39.03%
+Pennsylvania,Armstrong County,36370,27489,75.58%
+Pennsylvania,Beaver County,94122,54759,58.18%
+Pennsylvania,Bedford County,27574,23025,83.50%
+Pennsylvania,Berks County,205540,109736,53.39%
+Pennsylvania,Blair County,63595,45306,71.24%
+Pennsylvania,Bradford County,30159,21600,71.62%
+Pennsylvania,Bucks County,396234,187367,47.29%
+Pennsylvania,Butler County,113305,74359,65.63%
+Pennsylvania,Cambria County,70574,48085,68.13%
+Pennsylvania,Cameron County,2434,1771,72.76%
+Pennsylvania,Carbon County,33629,21984,65.37%
+Pennsylvania,Centre County,77493,36372,46.94%
+Pennsylvania,Chester County,315753,128565,40.72%
+Pennsylvania,Clarion County,19493,14578,74.79%
+Pennsylvania,Clearfield County,39496,29203,73.94%
+Pennsylvania,Clinton County,17625,11902,67.53%
+Pennsylvania,Columbia County,31171,20098,64.48%
+Pennsylvania,Crawford County,42004,28559,67.99%
+Pennsylvania,Cumberland County,141595,77212,54.53%
+Pennsylvania,Dauphin County,147368,66408,45.06%
+Pennsylvania,Delaware County,329006,118532,36.03%
+Pennsylvania,Elk County,16906,12140,71.81%
+Pennsylvania,Erie County,137083,66869,48.78%
+Pennsylvania,Fayette County,62139,41227,66.35%
+Pennsylvania,Forest County,2646,1882,71.13%
+Pennsylvania,Franklin County,80783,57245,70.86%
+Pennsylvania,Fulton County,7977,6824,85.55%
+Pennsylvania,Greene County,17669,12579,71.19%
+Pennsylvania,Huntingdon County,22792,17061,74.86%
+Pennsylvania,Indiana County,41198,28089,68.18%
+Pennsylvania,Jefferson County,22824,17960,78.69%
+Pennsylvania,Juniata County,12043,9649,80.12%
+Pennsylvania,Lackawanna County,115410,52334,45.35%
+Pennsylvania,Lancaster County,281375,160209,56.94%
+Pennsylvania,Lawrence County,46076,29597,64.24%
+Pennsylvania,Lebanon County,71858,46731,65.03%
+Pennsylvania,Lehigh County,184713,84259,45.62%
+Pennsylvania,Luzerne County,153321,86929,56.70%
+Pennsylvania,Lycoming County,59254,41462,69.97%
+Pennsylvania,McKean County,19466,14083,72.35%
+Pennsylvania,Mercer County,57954,36143,62.36%
+Pennsylvania,Mifflin County,21502,16670,77.53%
+Pennsylvania,Monroe County,83829,38726,46.20%
+Pennsylvania,Montgomery County,510157,185460,36.35%
+Pennsylvania,Montour County,9817,5844,59.53%
+Pennsylvania,Northampton County,171399,83854,48.92%
+Pennsylvania,Northumberland County,42283,28952,68.47%
+Pennsylvania,Perry County,24652,18293,74.20%
+Pennsylvania,Philadelphia County,741377,132740,17.90%
+Pennsylvania,Pike County,32554,19213,59.02%
+Pennsylvania,Potter County,9064,7239,79.87%
+Pennsylvania,Schuylkill County,70603,48871,69.22%
+Pennsylvania,Snyder County,19140,13983,73.06%
+Pennsylvania,Somerset County,40543,31466,77.61%
+Pennsylvania,Sullivan County,3595,2619,72.85%
+Pennsylvania,Susquehanna County,21752,15207,69.91%
+Pennsylvania,Tioga County,21075,15742,74.70%
+Pennsylvania,Union County,20115,12356,61.43%
+Pennsylvania,Venango County,26528,18569,70.00%
+Pennsylvania,Warren County,20650,14237,68.94%
+Pennsylvania,Washington County,118478,72080,60.84%
+Pennsylvania,Wayne County,28089,18637,66.35%
+Pennsylvania,Westmoreland County,205183,130218,63.46%
+Pennsylvania,Wyoming County,14858,9936,66.87%
+Pennsylvania,York County,238471,146733,61.53%
+Rhode Island,East Providence,23153,7930,34.25%
+Rhode Island,Exeter,4082,2009,49.22%
+Rhode Island,Foster,2865,1582,55.22%
+Rhode Island,Glocester,6113,3351,54.82%
+Rhode Island,Hopkinton,4846,2423,50.00%
+Rhode Island,Jamestown,4084,1212,29.68%
+Rhode Island,Johnston,15263,8222,53.87%
+Rhode Island,Lincoln,12671,5779,45.61%
+Rhode Island,Little Compton,2535,951,37.51%
+Rhode Island,Middletown,8608,2885,33.52%
+Rhode Island,Barrington,10832,2889,26.67%
+Rhode Island,Narragansett,9030,3551,39.32%
+Rhode Island,Newport,10712,2662,24.85%
+Rhode Island,New Shoreham,955,195,20.42%
+Rhode Island,North Kingstown,17577,6633,37.74%
+Rhode Island,North Providence,16851,7129,42.31%
+Rhode Island,North Smithfield,7206,3550,49.26%
+Rhode Island,Pawtucket,25788,7257,28.14%
+Rhode Island,Portsmouth,10917,3995,36.59%
+Rhode Island,Providence,57167,10186,17.82%
+Rhode Island,Richmond,4808,2343,48.73%
+Rhode Island,Bristol,11657,4595,39.42%
+Rhode Island,Scituate,6683,3806,56.95%
+Rhode Island,Smithfield,11528,5744,49.83%
+Rhode Island,South Kingstown,16688,5003,29.98%
+Rhode Island,Tiverton,9292,4017,43.23%
+Rhode Island,Warren,5926,2261,38.15%
+Rhode Island,Warwick,46441,19578,42.16%
+Rhode Island,Westerly,12854,5463,42.50%
+Rhode Island,West Greenwich,4000,2242,56.05%
+Rhode Island,West Warwick,14001,6493,46.38%
+Rhode Island,Woonsocket,13838,6265,45.27%
+Rhode Island,Burrillville,8538,4906,57.46%
+Rhode Island,Central Falls,4272,1113,26.05%
+Rhode Island,Charlestown,5220,2198,42.11%
+Rhode Island,Coventry,20004,10461,52.29%
+Rhode Island,Cranston,41053,17313,42.17%
+Rhode Island,Cumberland,19678,8418,42.78%
+Rhode Island,East Greenwich,8647,3227,37.32%
+South Carolina,Abbeville County,12433,8215,66.07%
+South Carolina,Aiken County,85185,51589,60.56%
+South Carolina,Allendale County,3593,835,23.24%
+South Carolina,Anderson County,96093,67565,70.31%
+South Carolina,Bamberg County,6482,2417,37.29%
+South Carolina,Barnwell County,10321,5492,53.21%
+South Carolina,Beaufort County,97835,53194,54.37%
+South Carolina,Berkeley County,104458,57397,54.95%
+South Carolina,Calhoun County,8291,4305,51.92%
+South Carolina,Charleston County,218857,93297,42.63%
+South Carolina,Cherokee County,25270,18043,71.40%
+South Carolina,Chester County,15757,8660,54.96%
+South Carolina,Chesterfield County,18876,11297,59.85%
+South Carolina,Clarendon County,16733,8361,49.97%
+South Carolina,Colleton County,19283,10440,54.14%
+South Carolina,Darlington County,32417,16832,51.92%
+South Carolina,Dillon County,13101,6582,50.24%
+South Carolina,Dorchester County,77278,41913,54.24%
+South Carolina,Edgefield County,13304,8184,61.52%
+South Carolina,Fairfield County,12136,4625,38.11%
+South Carolina,Florence County,64510,32615,50.56%
+South Carolina,Georgetown County,36668,20487,55.87%
+South Carolina,Greenville County,258155,150021,58.11%
+South Carolina,Greenwood County,32006,19431,60.71%
+South Carolina,Hampton County,9305,3906,41.98%
+South Carolina,Horry County,179744,118821,66.11%
+South Carolina,Jasper County,14394,7078,49.17%
+South Carolina,Kershaw County,33629,20471,60.87%
+South Carolina,Lancaster County,49868,30312,60.78%
+South Carolina,Laurens County,30488,20004,65.61%
+South Carolina,Lee County,8431,3008,35.68%
+South Carolina,Lexington County,144568,92817,64.20%
+South Carolina,McCormick County,5697,2958,51.92%
+South Carolina,Marion County,14704,5711,38.84%
+South Carolina,Marlboro County,11446,5044,44.07%
+South Carolina,Newberry County,18631,11443,61.42%
+South Carolina,Oconee County,40668,29698,73.03%
+South Carolina,Orangeburg County,41205,13603,33.01%
+South Carolina,Pickens County,57546,42907,74.56%
+South Carolina,Richland County,193822,58313,30.09%
+South Carolina,Saluda County,9274,6210,66.96%
+South Carolina,Spartanburg County,148655,93560,62.94%
+South Carolina,Sumter County,48920,21000,42.93%
+South Carolina,Union County,13257,8183,61.73%
+South Carolina,Williamsburg County,15985,5532,34.61%
+South Carolina,York County,144050,82727,57.43%
+South Dakota,Aurora County,1405,1052,74.88%
+South Dakota,Beadle County,7081,4808,67.90%
+South Dakota,Bennett County,1183,694,58.66%
+South Dakota,Bon Homme County,3001,2235,74.48%
+South Dakota,Brookings County,14567,8000,54.92%
+South Dakota,Brown County,17547,10580,60.30%
+South Dakota,Brule County,2490,1750,70.28%
+South Dakota,Buffalo County,549,183,33.33%
+South Dakota,Butte County,4802,3731,77.70%
+South Dakota,Campbell County,873,747,85.57%
+South Dakota,Charles Mix County,3783,2552,67.46%
+South Dakota,Clark County,1850,1373,74.22%
+South Dakota,Clay County,5698,2456,43.10%
+South Dakota,Codington County,13161,8958,68.06%
+South Dakota,Corson County,1283,647,50.43%
+South Dakota,Custer County,5494,3852,70.11%
+South Dakota,Davison County,8454,5613,66.39%
+South Dakota,Day County,2964,1869,63.06%
+South Dakota,Deuel County,2350,1699,72.30%
+South Dakota,Dewey County,1966,790,40.18%
+South Dakota,Douglas County,1707,1468,86.00%
+South Dakota,Edmunds County,1985,1538,77.48%
+South Dakota,Fall River County,4042,2878,71.20%
+South Dakota,Faulk County,1182,964,81.56%
+South Dakota,Grant County,3745,2618,69.91%
+South Dakota,Gregory County,2258,1771,78.43%
+South Dakota,Haakon County,1137,1026,90.24%
+South Dakota,Hamlin County,3083,2372,76.94%
+South Dakota,Hand County,1836,1433,78.05%
+South Dakota,Hanson County,2388,1793,75.08%
+South Dakota,Harding County,813,748,92.00%
+South Dakota,Hughes County,8723,5522,63.30%
+South Dakota,Hutchinson County,3767,2944,78.15%
+South Dakota,Hyde County,710,564,79.44%
+South Dakota,Jackson County,1115,738,66.19%
+South Dakota,Jerauld County,1006,721,71.67%
+South Dakota,Jones County,599,498,83.14%
+South Dakota,Kingsbury County,2779,1904,68.51%
+South Dakota,Lake County,5873,3681,62.68%
+South Dakota,Lawrence County,13828,8753,63.30%
+South Dakota,Lincoln County,32396,19617,60.55%
+South Dakota,Lyman County,1597,1042,65.25%
+South Dakota,McCook County,2900,2068,71.31%
+South Dakota,McPherson County,1324,1075,81.19%
+South Dakota,Marshall County,2178,1287,59.09%
+South Dakota,Meade County,13670,9875,72.24%
+South Dakota,Mellette County,769,449,58.39%
+South Dakota,Miner County,1138,787,69.16%
+South Dakota,Minnehaha County,92326,49249,53.34%
+South Dakota,Moody County,3206,1951,60.85%
+South Dakota,Oglala Lakota County,3200,297,9.28%
+South Dakota,Pennington County,57518,35063,60.96%
+South Dakota,Perkins County,1669,1401,83.94%
+South Dakota,Potter County,1380,1139,82.54%
+South Dakota,Roberts County,4307,2404,55.82%
+South Dakota,Sanborn County,1185,905,76.37%
+South Dakota,Spink County,3163,2104,66.52%
+South Dakota,Stanley County,1652,1203,72.82%
+South Dakota,Sully County,930,726,78.06%
+South Dakota,Todd County,2539,532,20.95%
+South Dakota,Tripp County,2696,2161,80.16%
+South Dakota,Turner County,4548,3290,72.34%
+South Dakota,Union County,8855,5944,67.13%
+South Dakota,Walworth County,2580,1966,76.20%
+South Dakota,Yankton County,10900,6581,60.38%
+South Dakota,Ziebach County,906,404,44.59%
+Tennessee,Anderson County,35570,23184,65.18%
+Tennessee,Bedford County,19088,14354,75.20%
+Tennessee,Benton County,7260,5668,78.07%
+Tennessee,Bledsoe County,5758,4725,82.06%
+Tennessee,Blount County,66609,47369,71.12%
+Tennessee,Bradley County,45865,35204,76.76%
+Tennessee,Campbell County,14933,12331,82.58%
+Tennessee,Cannon County,6557,5190,79.15%
+Tennessee,Carroll County,11905,9205,77.32%
+Tennessee,Carter County,24492,19584,79.96%
+Tennessee,Cheatham County,20260,14438,71.26%
+Tennessee,Chester County,7584,5952,78.48%
+Tennessee,Claiborne County,12945,10604,81.92%
+Tennessee,Clay County,3506,2733,77.95%
+Tennessee,Cocke County,14859,12162,81.85%
+Tennessee,Coffee County,24282,17883,73.65%
+Tennessee,Crockett County,6114,4673,76.43%
+Tennessee,Cumberland County,32279,25168,77.97%
+Tennessee,Davidson County,309658,100218,32.36%
+Tennessee,Decatur County,5241,4229,80.69%
+Tennessee,DeKalb County,8513,6672,78.37%
+Tennessee,Dickson County,24323,17643,72.54%
+Tennessee,Dyer County,15079,11768,78.04%
+Tennessee,Fayette County,22984,15690,68.26%
+Tennessee,Fentress County,8729,7441,85.24%
+Tennessee,Franklin County,19132,13987,73.11%
+Tennessee,Gibson County,22335,16259,72.80%
+Tennessee,Giles County,13203,9784,74.10%
+Tennessee,Grainger County,10134,8565,84.52%
+Tennessee,Greene County,28087,22259,79.25%
+Tennessee,Grundy County,5855,4802,82.02%
+Tennessee,Hamblen County,24631,18811,76.37%
+Tennessee,Hamilton County,171113,92108,53.83%
+Tennessee,Hancock County,2744,2372,86.44%
+Tennessee,Hardeman County,10063,5760,57.24%
+Tennessee,Hardin County,11538,9559,82.85%
+Tennessee,Hawkins County,24824,20405,82.20%
+Tennessee,Haywood County,7439,3343,44.94%
+Tennessee,Henderson County,12020,9797,81.51%
+Tennessee,Henry County,15047,11239,74.69%
+Tennessee,Hickman County,9832,7577,77.06%
+Tennessee,Houston County,3686,2718,73.74%
+Tennessee,Humphreys County,8236,6120,74.31%
+Tennessee,Jackson County,5323,4118,77.36%
+Tennessee,Jefferson County,23616,18651,78.98%
+Tennessee,Johnson County,7801,6468,82.91%
+Tennessee,Knox County,220556,124540,56.47%
+Tennessee,Lake County,2034,1492,73.35%
+Tennessee,Lauderdale County,8965,5674,63.29%
+Tennessee,Lawrence County,18718,15334,81.92%
+Tennessee,Lewis County,5609,4474,79.76%
+Tennessee,Lincoln County,15608,12281,78.68%
+Tennessee,Loudon County,29347,21713,73.99%
+Tennessee,McMinn County,22844,18198,79.66%
+Tennessee,McNairy County,11275,9093,80.65%
+Tennessee,Macon County,9487,8096,85.34%
+Tennessee,Madison County,42950,23943,55.75%
+Tennessee,Marion County,13256,9911,74.77%
+Tennessee,Marshall County,14878,11043,74.22%
+Tennessee,Maury County,46657,31464,67.44%
+Tennessee,Meigs County,5532,4467,80.75%
+Tennessee,Monroe County,20797,16783,80.70%
+Tennessee,Montgomery County,76758,42187,54.96%
+Tennessee,Moore County,3539,2888,81.60%
+Tennessee,Morgan County,8228,6930,84.22%
+Tennessee,Obion County,13521,10790,79.80%
+Tennessee,Overton County,10037,7918,78.89%
+Tennessee,Perry County,3428,2775,80.95%
+Tennessee,Pickett County,2931,2381,81.24%
+Tennessee,Polk County,8360,6792,81.24%
+Tennessee,Putnam County,33593,23759,70.73%
+Tennessee,Rhea County,13637,11050,81.03%
+Tennessee,Roane County,25917,19230,74.20%
+Tennessee,Robertson County,33717,24536,72.77%
+Tennessee,Rutherford County,143878,81480,56.63%
+Tennessee,Scott County,9052,8004,88.42%
+Tennessee,Sequatchie County,7252,5855,80.74%
+Tennessee,Sevier County,43535,33783,77.60%
+Tennessee,Shelby County,382055,129815,33.98%
+Tennessee,Smith County,9051,7136,78.84%
+Tennessee,Stewart County,6296,4950,78.62%
+Tennessee,Sullivan County,74357,55860,75.12%
+Tennessee,Sumner County,92630,63454,68.50%
+Tennessee,Tipton County,27308,20070,73.49%
+Tennessee,Trousdale County,3998,2936,73.44%
+Tennessee,Unicoi County,8307,6599,79.44%
+Tennessee,Union County,8123,6803,83.75%
+Tennessee,Van Buren County,2921,2342,80.18%
+Tennessee,Warren County,16009,11850,74.02%
+Tennessee,Washington County,60203,40444,67.18%
+Tennessee,Wayne County,6669,5795,86.89%
+Tennessee,Weakley County,13735,10396,75.69%
+Tennessee,White County,11895,9606,80.76%
+Tennessee,Williamson County,139016,86469,62.20%
+Tennessee,Wilson County,74330,50296,67.67%
+Texas,Anderson County,19227,15110,78.59%
+Texas,Andrews County,5863,4943,84.31%
+Texas,Angelina County,34574,25076,72.53%
+Texas,Aransas County,12290,9239,75.17%
+Texas,Archer County,4796,4300,89.66%
+Texas,Armstrong County,1112,1035,93.08%
+Texas,Atascosa County,18118,12039,66.45%
+Texas,Austin County,14554,11447,78.65%
+Texas,Bailey County,1860,1434,77.10%
+Texas,Bandera County,12715,10057,79.10%
+Texas,Bastrop County,36665,20516,55.96%
+Texas,Baylor County,1702,1494,87.78%
+Texas,Bee County,9420,6006,63.76%
+Texas,Bell County,127375,67893,53.30%
+Texas,Bexar County,768952,308618,40.13%
+Texas,Blanco County,7441,5443,73.15%
+Texas,Borden County,416,397,95.43%
+Texas,Bosque County,9126,7469,81.84%
+Texas,Bowie County,38261,27116,70.87%
+Texas,Brazoria County,154984,90433,58.35%
+Texas,Brazos County,85061,47530,55.88%
+Texas,Brewster County,4822,2461,51.04%
+Texas,Briscoe County,725,639,88.14%
+Texas,Brooks County,2484,998,40.18%
+Texas,Brown County,15969,13698,85.78%
+Texas,Burleson County,8609,6743,78.33%
+Texas,Burnet County,24717,18767,75.93%
+Texas,Caldwell County,14973,8031,53.64%
+Texas,Calhoun County,7856,5641,71.80%
+Texas,Callahan County,6832,6012,88.00%
+Texas,Cameron County,114174,49032,42.94%
+Texas,Camp County,5060,3626,71.66%
+Texas,Carson County,3122,2779,89.01%
+Texas,Cass County,13927,11033,79.22%
+Texas,Castro County,2083,1602,76.91%
+Texas,Chambers County,21652,17353,80.15%
+Texas,Cherokee County,19508,15101,77.41%
+Texas,Childress County,2279,1943,85.26%
+Texas,Clay County,5741,5069,88.29%
+Texas,Cochran County,1000,809,80.90%
+Texas,Coke County,1779,1586,89.15%
+Texas,Coleman County,4124,3641,88.29%
+Texas,Collin County,492216,252318,51.26%
+Texas,Collingsworth County,1218,1048,86.04%
+Texas,Colorado County,9975,7472,74.91%
+Texas,Comal County,88863,62740,70.60%
+Texas,Comanche County,6086,5177,85.06%
+Texas,Concho County,1268,1058,83.44%
+Texas,Cooke County,18988,15596,82.14%
+Texas,Coryell County,23490,15438,65.72%
+Texas,Cottle County,662,540,81.57%
+Texas,Crane County,1503,1247,82.97%
+Texas,Crockett County,1574,1220,77.51%
+Texas,Crosby County,1953,1396,71.48%
+Texas,Culberson County,864,415,48.03%
+Texas,Dallam County,1609,1389,86.33%
+Texas,Dallas County,921638,307076,33.32%
+Texas,Dawson County,3789,2951,77.88%
+Texas,Deaf Smith County,4610,3294,71.45%
+Texas,Delta County,2592,2162,83.41%
+Texas,Denton County,417964,222480,53.23%
+Texas,DeWitt County,8118,6567,80.89%
+Texas,Dickens County,988,853,86.34%
+Texas,Dimmit County,3666,1384,37.75%
+Texas,Donley County,1648,1438,87.26%
+Texas,Duval County,5053,2443,48.35%
+Texas,Eastland County,8292,7237,87.28%
+Texas,Ector County,44581,32697,73.34%
+Texas,Edwards County,1066,893,83.77%
+Texas,Ellis County,85493,56717,66.34%
+Texas,El Paso County,267215,84331,31.56%
+Texas,Erath County,16853,13684,81.20%
+Texas,Falls County,6133,4177,68.11%
+Texas,Fannin County,15004,12171,81.12%
+Texas,Fayette County,12941,10171,78.60%
+Texas,Fisher County,1826,1448,79.30%
+Texas,Floyd County,2039,1584,77.69%
+Texas,Foard County,551,445,80.76%
+Texas,Fort Bend County,357514,157718,44.12%
+Texas,Franklin County,5009,4161,83.07%
+Texas,Freestone County,8711,6991,80.25%
+Texas,Frio County,5279,2823,53.48%
+Texas,Gaines County,5995,5355,89.32%
+Texas,Galveston County,155060,93911,60.56%
+Texas,Garza County,1653,1413,85.48%
+Texas,Gillespie County,15846,12514,78.97%
+Texas,Glasscock County,653,611,93.57%
+Texas,Goliad County,3988,3085,77.36%
+Texas,Gonzales County,7647,5627,73.58%
+Texas,Gray County,7782,6840,87.90%
+Texas,Grayson County,59439,44163,74.30%
+Texas,Gregg County,47982,32493,67.72%
+Texas,Grimes County,12413,9432,75.98%
+Texas,Guadalupe County,77592,47553,61.29%
+Texas,Hale County,9584,7177,74.89%
+Texas,Hall County,1168,995,85.19%
+Texas,Hamilton County,4349,3616,83.15%
+Texas,Hansford County,2047,1849,90.33%
+Texas,Hardeman County,1580,1330,84.18%
+Texas,Hardin County,27635,23858,86.33%
+Texas,Harris County,1640818,700630,42.70%
+Texas,Harrison County,29710,21466,72.25%
+Texas,Hartley County,2078,1868,89.89%
+Texas,Haskell County,2214,1840,83.11%
+Texas,Hays County,109357,47680,43.60%
+Texas,Hemphill County,1720,1486,86.40%
+Texas,Henderson County,36310,28911,79.62%
+Texas,Hidalgo County,220884,90527,40.98%
+Texas,Hill County,14931,11926,79.87%
+Texas,Hockley County,8095,6536,80.74%
+Texas,Hood County,32541,26496,81.42%
+Texas,Hopkins County,15939,12719,79.80%
+Texas,Houston County,9437,7060,74.81%
+Texas,Howard County,10240,8054,78.65%
+Texas,Hudspeth County,1165,779,66.87%
+Texas,Hunt County,38574,29163,75.60%
+Texas,Hutchinson County,8771,7681,87.57%
+Texas,Irion County,889,759,85.38%
+Texas,Jack County,3782,3418,90.38%
+Texas,Jackson County,6340,5231,82.51%
+Texas,Jasper County,15608,12542,80.36%
+Texas,Jeff Davis County,1305,784,60.08%
+Texas,Jefferson County,94739,47570,50.21%
+Texas,Jim Hogg County,2036,833,40.91%
+Texas,Jim Wells County,13669,7453,54.52%
+Texas,Johnson County,72005,54628,75.87%
+Texas,Jones County,6741,5660,83.96%
+Texas,Karnes County,5249,3968,75.60%
+Texas,Kaufman County,56703,37624,66.35%
+Texas,Kendall County,26438,20083,75.96%
+Texas,Kenedy County,194,127,65.46%
+Texas,Kent County,462,411,88.96%
+Texas,Kerr County,27745,20879,75.25%
+Texas,Kimble County,2292,1987,86.69%
+Texas,King County,159,151,94.97%
+Texas,Kinney County,1603,1144,71.37%
+Texas,Kleberg County,10944,5504,50.29%
+Texas,Knox County,1456,1180,81.04%
+Texas,Lamar County,21418,16760,78.25%
+Texas,Lamb County,4408,3521,79.88%
+Texas,Lampasas County,10399,8086,77.76%
+Texas,La Salle County,2406,1335,55.49%
+Texas,Lavaca County,10197,8804,86.34%
+Texas,Lee County,8086,6255,77.36%
+Texas,Leon County,8674,7523,86.73%
+Texas,Liberty County,29334,23302,79.44%
+Texas,Limestone County,9095,6789,74.65%
+Texas,Lipscomb County,1353,1205,89.06%
+Texas,Live Oak County,5054,4199,83.08%
+Texas,Llano County,12660,10079,79.61%
+Texas,Loving County,66,60,90.91%
+Texas,Lubbock County,120771,78861,65.30%
+Texas,Lynn County,2293,1853,80.81%
+Texas,McCulloch County,3436,2904,84.52%
+Texas,McLennan County,97771,59543,60.90%
+Texas,McMullen County,516,460,89.15%
+Texas,Madison County,5297,4169,78.70%
+Texas,Marion County,4864,3470,71.34%
+Texas,Martin County,2160,1857,85.97%
+Texas,Mason County,2474,1991,80.48%
+Texas,Matagorda County,13726,9845,71.73%
+Texas,Maverick County,15346,6881,44.84%
+Texas,Medina County,22644,15642,69.08%
+Texas,Menard County,1028,823,80.06%
+Texas,Midland County,58856,45624,77.52%
+Texas,Milam County,10576,7984,75.49%
+Texas,Mills County,2505,2217,88.50%
+Texas,Mitchell County,2579,2170,84.14%
+Texas,Montague County,9814,8615,87.78%
+Texas,Montgomery County,271451,193382,71.24%
+Texas,Moore County,5508,4359,79.14%
+Texas,Morris County,5587,3872,69.30%
+Texas,Motley County,652,604,92.64%
+Texas,Nacogdoches County,26763,17378,64.93%
+Texas,Navarro County,19121,13800,72.17%
+Texas,Newton County,6094,4882,80.11%
+Texas,Nolan County,5356,4131,77.13%
+Texas,Nueces County,127314,64617,50.75%
+Texas,Ochiltree County,3156,2812,89.10%
+Texas,Oldham County,1009,917,90.88%
+Texas,Orange County,35994,29186,81.09%
+Texas,Palo Pinto County,12485,10179,81.53%
+Texas,Panola County,11451,9326,81.44%
+Texas,Parker County,76128,62045,81.50%
+Texas,Parmer County,2650,2135,80.57%
+Texas,Pecos County,4668,3215,68.87%
+Texas,Polk County,24181,18573,76.81%
+Texas,Potter County,33321,22820,68.49%
+Texas,Presidio County,2217,721,32.52%
+Texas,Rains County,6053,5155,85.16%
+Texas,Randall County,64674,50796,78.54%
+Texas,Reagan County,1124,942,83.81%
+Texas,Real County,1982,1643,82.90%
+Texas,Red River County,5806,4517,77.80%
+Texas,Reeves County,3687,2254,61.13%
+Texas,Refugio County,3366,2210,65.66%
+Texas,Roberts County,550,529,96.18%
+Texas,Robertson County,8099,5646,69.71%
+Texas,Rockwall County,53891,36726,68.15%
+Texas,Runnels County,4409,3807,86.35%
+Texas,Rusk County,21368,16534,77.38%
+Texas,Sabine County,5487,4784,87.19%
+Texas,San Augustine County,4002,3007,75.14%
+Texas,San Jacinto County,12638,10161,80.40%
+Texas,San Patricio County,25888,16516,63.80%
+Texas,San Saba County,2602,2308,88.70%
+Texas,Schleicher County,1159,940,81.10%
+Texas,Scurry County,5869,4983,84.90%
+Texas,Shackelford County,1628,1484,91.15%
+Texas,Shelby County,10084,7975,79.09%
+Texas,Sherman County,991,886,89.40%
+Texas,Smith County,100075,69080,69.03%
+Texas,Somervell County,4947,4105,82.98%
+Texas,Starr County,17525,8247,47.06%
+Texas,Stephens County,3800,3385,89.08%
+Texas,Sterling County,639,584,91.39%
+Texas,Stonewall County,736,615,83.56%
+Texas,Sutton County,1557,1222,78.48%
+Texas,Swisher County,2355,1845,78.34%
+Texas,Tarrant County,834697,409741,49.09%
+Texas,Taylor County,55112,39547,71.76%
+Texas,Terrell County,458,334,72.93%
+Texas,Terry County,3612,2812,77.85%
+Texas,Throckmorton County,899,806,89.66%
+Texas,Titus County,10539,7570,71.83%
+Texas,Tom Green County,45210,32313,71.47%
+Texas,Travis County,610349,161337,26.43%
+Texas,Trinity County,6938,5579,80.41%
+Texas,Tyler County,9660,8194,84.82%
+Texas,Upshur County,18887,15809,83.70%
+Texas,Upton County,1368,1178,86.11%
+Texas,Uvalde County,10342,6174,59.70%
+Texas,Val Verde County,15272,8284,54.24%
+Texas,Van Zandt County,25994,22270,85.67%
+Texas,Victoria County,34188,23358,68.32%
+Texas,Walker County,23612,15375,65.12%
+Texas,Waller County,22734,14260,62.73%
+Texas,Ward County,4060,3241,79.83%
+Texas,Washington County,17418,12959,74.40%
+Texas,Webb County,68397,25898,37.86%
+Texas,Wharton County,16761,11926,71.15%
+Texas,Wheeler County,2337,2159,92.38%
+Texas,Wichita County,46030,32069,69.67%
+Texas,Wilbarger County,4524,3524,77.90%
+Texas,Willacy County,5549,2441,43.99%
+Texas,Williamson County,289312,139729,48.30%
+Texas,Wilson County,25013,18463,73.81%
+Texas,Winkler County,2126,1753,82.46%
+Texas,Wise County,32362,27032,83.53%
+Texas,Wood County,22779,19049,83.63%
+Texas,Yoakum County,2631,2174,82.63%
+Texas,Young County,8239,7110,86.30%
+Texas,Zapata County,3874,2033,52.48%
+Texas,Zavala County,4379,1490,34.03%
+Utah,Beaver County,3100,2695,86.94%
+Utah,Box Elder County,27027,21548,79.73%
+Utah,Cache County,57571,38032,66.06%
+Utah,Carbon County,9369,6693,71.44%
+Utah,Daggett County,619,496,80.13%
+Utah,Davis County,169895,104135,61.29%
+Utah,Duchesne County,8524,7513,88.14%
+Utah,Emery County,4865,4207,86.47%
+Utah,Garfield County,2732,2158,78.99%
+Utah,Grand County,5185,2248,43.36%
+Utah,Iron County,24890,18989,76.29%
+Utah,Juab County,5866,5087,86.72%
+Utah,Kane County,4180,2998,71.72%
+Utah,Millard County,6160,5404,87.73%
+Utah,Morgan County,6512,5181,79.56%
+Utah,Piute County,871,773,88.75%
+Utah,Rich County,1363,1157,84.89%
+Utah,Salt Lake County,541175,230174,42.53%
+Utah,San Juan County,6878,3535,51.40%
+Utah,Sanpete County,12631,10459,82.80%
+Utah,Sevier County,10363,9052,87.35%
+Utah,Summit County,26088,10252,39.30%
+Utah,Tooele County,31518,21014,66.67%
+Utah,Uintah County,15307,13261,86.63%
+Utah,Utah County,284480,192812,67.78%
+Utah,Wasatch County,17581,10795,61.40%
+Utah,Washington County,90476,67294,74.38%
+Utah,Wayne County,1621,1229,75.82%
+Utah,Weber County,111442,65949,59.18%
+Vermont,Jamaica,581,149,25.65%
+Vermont,Jay,294,139,47.28%
+Vermont,Jericho,3662,905,24.71%
+Vermont,Johnson,1589,528,33.23%
+Vermont,Kirby,329,129,39.21%
+Vermont,Landgrove,134,18,13.43%
+Vermont,Leicester,542,230,42.44%
+Vermont,Lemington,49,23,46.94%
+Vermont,Lincoln,959,211,22.00%
+Vermont,Londonderry,1118,347,31.04%
+Vermont,Barnet,1095,437,39.91%
+Vermont,Lowell,487,273,56.06%
+Vermont,Ludlow,1237,473,38.24%
+Vermont,Lunenburg,633,366,57.82%
+Vermont,Lyndon,2440,1136,46.56%
+Vermont,Maidstone,145,74,51.03%
+Vermont,Manchester,2785,732,26.28%
+Vermont,Marlboro,646,94,14.55%
+Vermont,Marshfield,964,336,34.85%
+Vermont,Mendon,780,314,40.26%
+Vermont,Middlebury,4331,732,16.90%
+Vermont,Barre,3807,1298,34.10%
+Vermont,Middlesex,1243,231,18.58%
+Vermont,Middletown Springs,549,225,40.98%
+Vermont,Milton,6168,2612,42.35%
+Vermont,Monkton,1403,395,28.15%
+Vermont,Montgomery,756,278,36.77%
+Vermont,Montpelier,5185,468,9.03%
+Vermont,Moretown,1185,223,18.82%
+Vermont,Morgan,401,218,54.36%
+Vermont,Morristown,3197,833,26.06%
+Vermont,Mount Holly,848,375,44.22%
+Vermont,Barre Town,4766,2093,43.92%
+Vermont,Mount Tabor,117,56,47.86%
+Vermont,Newark,346,159,45.95%
+Vermont,Newbury,1214,490,40.36%
+Vermont,Newfane,1141,261,22.87%
+Vermont,New Haven,1172,396,33.79%
+Vermont,Newport,1842,757,41.10%
+Vermont,Newport Town,776,415,53.48%
+Vermont,Northfield,2465,837,33.96%
+Vermont,North Hero,705,250,35.46%
+Vermont,Norton,108,62,57.41%
+Vermont,Barton,1296,570,43.98%
+Vermont,Norwich,2570,211,8.21%
+Vermont,Orange,610,324,53.11%
+Vermont,Orwell,752,351,46.68%
+Vermont,Panton,420,137,32.62%
+Vermont,Pawlet,887,369,41.60%
+Vermont,Peacham,519,141,27.17%
+Vermont,Peru,300,71,23.67%
+Vermont,Pittsfield,332,120,36.14%
+Vermont,Pittsford,1737,784,45.14%
+Vermont,Plainfield,814,166,20.39%
+Vermont,Belvidere,176,93,52.84%
+Vermont,Plymouth,371,104,28.03%
+Vermont,Pomfret,679,146,21.50%
+Vermont,Poultney,1664,755,45.37%
+Vermont,Pownal,1778,831,46.74%
+Vermont,Proctor,955,392,41.05%
+Vermont,Putney,1515,235,15.51%
+Vermont,Randolph,2586,801,30.97%
+Vermont,Reading,445,120,26.97%
+Vermont,Readsboro,431,212,49.19%
+Vermont,Richford,942,478,50.74%
+Vermont,Bennington,7096,2473,34.85%
+Vermont,Richmond,2941,572,19.45%
+Vermont,Ripton,369,76,20.60%
+Vermont,Rochester,732,183,25.00%
+Vermont,Rockingham,2519,718,28.50%
+Vermont,Roxbury,433,134,30.95%
+Vermont,Royalton,1486,492,33.11%
+Vermont,Rupert,437,154,35.24%
+Vermont,Rutland,8000,3026,37.83%
+Vermont,Rutland Town,2486,1039,41.79%
+Vermont,Ryegate,648,298,45.99%
+Vermont,Benson,583,305,52.32%
+Vermont,St. Albans,3057,946,30.95%
+Vermont,St. Albans Town,3794,1557,41.04%
+Vermont,St. George,453,131,28.92%
+Vermont,St. Johnsbury,3377,1218,36.07%
+Vermont,Salisbury,676,258,38.17%
+Vermont,Sandgate,253,96,37.94%
+Vermont,Searsburg,64,36,56.25%
+Vermont,Shaftsbury,2225,818,36.76%
+Vermont,Sharon,894,278,31.10%
+Vermont,Sheffield,374,163,43.58%
+Vermont,Berkshire,711,402,56.54%
+Vermont,Shelburne,5419,953,17.59%
+Vermont,Sheldon,1015,532,52.41%
+Vermont,Killington,836,255,30.50%
+Vermont,Shoreham,742,263,35.44%
+Vermont,Shrewsbury,690,268,38.84%
+Vermont,South Burlington,12670,2271,17.92%
+Vermont,South Hero,1309,376,28.72%
+Vermont,Springfield,4516,1768,39.15%
+Vermont,Stamford,539,267,49.54%
+Vermont,Stannard,114,28,24.56%
+Vermont,Berlin,1534,520,33.90%
+Vermont,Starksboro,1023,333,32.55%
+Vermont,Stockbridge,477,123,25.79%
+Vermont,Stowe,3406,599,17.59%
+Vermont,Strafford,800,118,14.75%
+Vermont,Stratton,190,67,35.26%
+Vermont,Sudbury,388,128,32.99%
+Vermont,Sunderland,652,240,36.81%
+Vermont,Sutton,539,275,51.02%
+Vermont,Swanton,3228,1546,47.89%
+Vermont,Thetford,1910,409,21.41%
+Vermont,Bethel,1147,381,33.22%
+Vermont,Addison,870,379,43.56%
+Vermont,Tinmouth,341,163,47.80%
+Vermont,Topsham,646,356,55.11%
+Vermont,Townshend,769,191,24.84%
+Vermont,Troy,795,394,49.56%
+Vermont,Tunbridge,863,314,36.38%
+Vermont,Underhill,2224,526,23.65%
+Vermont,Vergennes,1478,428,28.96%
+Vermont,Vernon,1300,549,42.23%
+Vermont,Vershire,428,134,31.31%
+Vermont,Victory,55,36,65.45%
+Vermont,Bloomfield,130,73,56.15%
+Vermont,Waitsfield,1248,200,16.03%
+Vermont,Walden,586,207,35.32%
+Vermont,Wallingford,1298,563,43.37%
+Vermont,Waltham,326,102,31.29%
+Vermont,Wardsboro,492,159,32.32%
+Vermont,Warren,1264,179,14.16%
+Vermont,Washington,609,283,46.47%
+Vermont,Waterbury,3498,621,17.75%
+Vermont,Waterford,831,387,46.57%
+Vermont,Waterville,454,209,46.04%
+Vermont,Bolton,778,218,28.02%
+Vermont,Weathersfield,1792,725,40.46%
+Vermont,Wells,742,416,56.06%
+Vermont,West Fairlee,357,125,35.01%
+Vermont,Westfield,349,146,41.83%
+Vermont,Westford,1425,413,28.98%
+Vermont,West Haven,151,70,46.36%
+Vermont,Westminster,1789,429,23.98%
+Vermont,Westmore,240,102,42.50%
+Vermont,Weston,456,114,25.00%
+Vermont,West Rutland,1167,613,52.53%
+Vermont,Bradford,1494,549,36.75%
+Vermont,West Windsor,841,200,23.78%
+Vermont,Weybridge,612,78,12.75%
+Vermont,Wheelock,452,200,44.25%
+Vermont,Whiting,218,84,38.53%
+Vermont,Whitingham,775,340,43.87%
+Vermont,Williamstown,1862,923,49.57%
+Vermont,Williston,6873,1699,24.72%
+Vermont,Wilmington,1156,341,29.50%
+Vermont,Windham,282,83,29.43%
+Vermont,Windsor,1890,537,28.41%
+Vermont,Braintree,717,260,36.26%
+Vermont,Winhall,674,182,27.00%
+Vermont,Winooski,3701,585,15.81%
+Vermont,Wolcott,923,306,33.15%
+Vermont,Woodbury,588,196,33.33%
+Vermont,Woodford,196,96,48.98%
+Vermont,Woodstock,2109,402,19.06%
+Vermont,Worcester,624,125,20.03%
+Vermont,Brandon,2184,896,41.03%
+Vermont,Brattleboro,6663,1053,15.80%
+Vermont,Bridgewater,601,212,35.27%
+Vermont,Bridport,738,321,43.50%
+Vermont,Brighton,619,342,55.25%
+Vermont,Bristol,2245,691,30.78%
+Vermont,Albany,540,235,43.52%
+Vermont,Brookfield,852,307,36.03%
+Vermont,Brookline,329,96,29.18%
+Vermont,Brownington,490,265,54.08%
+Vermont,Brunswick,64,35,54.69%
+Vermont,Burke,924,366,39.61%
+Vermont,Burlington,22218,2293,10.32%
+Vermont,Cabot,892,296,33.18%
+Vermont,Calais,1148,221,19.25%
+Vermont,Cambridge,2199,587,26.69%
+Vermont,Canaan,498,241,48.39%
+Vermont,Alburgh,1079,499,46.25%
+Vermont,Castleton,2161,1042,48.22%
+Vermont,Cavendish,792,297,37.50%
+Vermont,Charleston,541,274,50.65%
+Vermont,Charlotte,2886,511,17.71%
+Vermont,Chelsea,723,284,39.28%
+Vermont,Chester,1772,619,34.93%
+Vermont,Chittenden,853,343,40.21%
+Vermont,Clarendon,1469,782,53.23%
+Vermont,Colchester,9594,2852,29.73%
+Vermont,Concord,630,343,54.44%
+Vermont,Andover,365,132,36.16%
+Vermont,Corinth,830,350,42.17%
+Vermont,Cornwall,850,145,17.06%
+Vermont,Coventry,568,294,51.76%
+Vermont,Craftsbury,774,190,24.55%
+Vermont,Danby,755,405,53.64%
+Vermont,Danville,1469,559,38.05%
+Vermont,Derby,2515,1280,50.89%
+Vermont,Dorset,1413,377,26.68%
+Vermont,Dover,948,296,31.22%
+Vermont,Dummerston,1357,281,20.71%
+Vermont,Arlington,1485,511,34.41%
+Vermont,Duxbury,914,243,26.59%
+Vermont,East Haven,140,65,46.43%
+Vermont,East Montpelier,1764,391,22.17%
+Vermont,Eden,634,313,49.37%
+Vermont,Elmore,606,149,24.59%
+Vermont,Enosburgh,1274,590,46.31%
+Vermont,Essex,13414,3415,25.46%
+Vermont,Fairfax,2996,1229,41.02%
+Vermont,Fairfield,1140,474,41.58%
+Vermont,Fair Haven,1308,647,49.46%
+Vermont,Athens,214,84,39.25%
+Vermont,Fairlee,621,160,25.76%
+Vermont,Fayston,971,150,15.45%
+Vermont,Ferrisburg,1830,561,30.66%
+Vermont,Fletcher,824,291,35.32%
+Vermont,Franklin,754,407,53.98%
+Vermont,Georgia,2917,1295,44.39%
+Vermont,Glover,666,239,35.89%
+Vermont,Goshen,126,34,26.98%
+Vermont,Grafton,405,129,31.85%
+Vermont,Granby,43,23,53.49%
+Vermont,Bakersfield,696,272,39.08%
+Vermont,Grand Isle,1409,538,38.18%
+Vermont,Granville,169,30,17.75%
+Vermont,Greensboro,491,106,21.59%
+Vermont,Groton,549,272,49.54%
+Vermont,Guildhall,174,90,51.72%
+Vermont,Guilford,1354,345,25.48%
+Vermont,Halifax,492,193,39.23%
+Vermont,Hancock,171,57,33.33%
+Vermont,Hardwick,1577,576,36.53%
+Vermont,Hartford,6264,1574,25.13%
+Vermont,Baltimore,143,72,50.35%
+Vermont,Hartland,2198,631,28.71%
+Vermont,Highgate,1726,977,56.60%
+Vermont,Hinesburg,3084,749,24.29%
+Vermont,Holland,358,210,58.66%
+Vermont,Hubbardton,427,191,44.73%
+Vermont,Huntington,1405,312,22.21%
+Vermont,Hyde Park,1731,546,31.54%
+Vermont,Ira,262,130,49.62%
+Vermont,Irasburg,673,405,60.18%
+Vermont,Isle La Motte,349,147,42.12%
+Vermont,Barnard,669,177,26.46%
+Virginia,Accomack County,16962,9172,54.07%
+Virginia,Albemarle County,64657,20804,32.18%
+Virginia,Alleghany County,8203,5859,71.43%
+Virginia,Amelia County,7893,5390,68.29%
+Virginia,Amherst County,17005,11041,64.93%
+Virginia,Appomattox County,9268,6702,72.31%
+Virginia,Arlington County,130699,22318,17.08%
+Virginia,Augusta County,42278,30714,72.65%
+Virginia,Bath County,2501,1834,73.33%
+Virginia,Bedford County,48669,35600,73.15%
+Virginia,Bland County,3479,2903,83.44%
+Virginia,Botetourt County,21120,15099,71.49%
+Virginia,Brunswick County,7948,3357,42.24%
+Virginia,Buchanan County,9953,8311,83.50%
+Virginia,Buckingham County,8126,4544,55.92%
+Virginia,Campbell County,29892,21245,71.07%
+Virginia,Caroline County,16288,8336,51.18%
+Virginia,Carroll County,15651,12659,80.88%
+Virginia,Charles City County,4441,1761,39.65%
+Virginia,Charlotte County,6191,3815,61.62%
+Virginia,Chesterfield County,203884,93326,45.77%
+Virginia,Clarke County,9337,5192,55.61%
+Virginia,Craig County,3169,2536,80.03%
+Virginia,Culpeper County,27116,16012,59.05%
+Virginia,Cumberland County,5310,3019,56.85%
+Virginia,Dickenson County,7303,5748,78.71%
+Virginia,Dinwiddie County,15092,8695,57.61%
+Virginia,Essex County,6178,3075,49.77%
+Virginia,Fairfax County,600823,168401,28.03%
+Virginia,Fauquier County,43661,25106,57.50%
+Virginia,Floyd County,9408,6225,66.17%
+Virginia,Fluvanna County,15840,8155,51.48%
+Virginia,Franklin County,29702,20895,70.35%
+Virginia,Frederick County,48703,30558,62.74%
+Virginia,Giles County,9176,6876,74.93%
+Virginia,Gloucester County,22282,14875,66.76%
+Virginia,Goochland County,16950,9966,58.80%
+Virginia,Grayson County,8131,6529,80.30%
+Virginia,Greene County,11311,6866,60.70%
+Virginia,Greensville County,4574,1914,41.85%
+Virginia,Halifax County,18248,10418,57.09%
+Virginia,Hanover County,70967,44318,62.45%
+Virginia,Henrico County,183152,63440,34.64%
+Virginia,Henry County,26105,16725,64.07%
+Virginia,Highland County,1533,1092,71.23%
+Virginia,Isle of Wight County,23456,13707,58.44%
+Virginia,James City County,49622,23153,46.66%
+Virginia,King and Queen County,4115,2450,59.54%
+Virginia,King George County,14224,8446,59.38%
+Virginia,King William County,10736,7320,68.18%
+Virginia,Lancaster County,7152,3697,51.69%
+Virginia,Lee County,9946,8365,84.10%
+Virginia,Loudoun County,224862,82088,36.51%
+Virginia,Louisa County,21915,13294,60.66%
+Virginia,Lunenburg County,6000,3537,58.95%
+Virginia,Madison County,8129,5300,65.20%
+Virginia,Mathews County,5826,3901,66.96%
+Virginia,Mecklenburg County,16204,9266,57.18%
+Virginia,Middlesex County,6785,4196,61.84%
+Virginia,Montgomery County,45037,20629,45.80%
+Virginia,Nelson County,9316,4812,51.65%
+Virginia,New Kent County,14463,9631,66.59%
+Virginia,Northampton County,6732,2955,43.89%
+Virginia,Northumberland County,7815,4485,57.39%
+Virginia,Nottoway County,7078,4027,56.89%
+Virginia,Orange County,20742,12426,59.91%
+Virginia,Page County,12514,9345,74.68%
+Virginia,Patrick County,9534,7485,78.51%
+Virginia,Pittsylvania County,34227,23751,69.39%
+Virginia,Powhatan County,19730,14055,71.24%
+Virginia,Prince Edward County,9574,4434,46.31%
+Virginia,Prince George County,17432,10103,57.96%
+Virginia,Prince William County,228056,81222,35.61%
+Virginia,Pulaski County,17376,12127,69.79%
+Virginia,Rappahannock County,4978,2812,56.49%
+Virginia,Richmond County,4102,2547,62.09%
+Virginia,Roanoke County,57184,34268,59.93%
+Virginia,Rockbridge County,12373,8088,65.37%
+Virginia,Rockingham County,43811,30349,69.27%
+Virginia,Russell County,13386,10879,81.27%
+Virginia,Scott County,10869,9063,83.38%
+Virginia,Shenandoah County,23684,16463,69.51%
+Virginia,Smyth County,14136,10963,77.55%
+Virginia,Southampton County,9786,5730,58.55%
+Virginia,Spotsylvania County,75317,39411,52.33%
+Virginia,Stafford County,79625,37636,47.27%
+Virginia,Surry County,4471,2025,45.29%
+Virginia,Sussex County,5088,2219,43.61%
+Virginia,Tazewell County,20134,16731,83.10%
+Virginia,Warren County,21147,14069,66.53%
+Virginia,Washington County,28685,21679,75.58%
+Virginia,Westmoreland County,9933,5318,53.54%
+Virginia,Wise County,16615,13366,80.45%
+Virginia,Wythe County,15072,11733,77.85%
+Virginia,York County,38787,20241,52.19%
+Virginia,Alexandria city,82508,14544,17.63%
+Virginia,Bristol city,7806,5347,68.50%
+Virginia,Buena Vista city,2776,1863,67.11%
+Virginia,Charlottesville city,24205,3094,12.78%
+Virginia,Chesapeake city,127108,58180,45.77%
+Virginia,Colonial Heights city,9146,6007,65.68%
+Virginia,Covington city,2603,1580,60.70%
+Virginia,Danville city,19389,7428,38.31%
+Virginia,Emporia city,2381,754,31.67%
+Virginia,Fairfax city,13483,4007,29.72%
+Virginia,Falls Church city,8819,1490,16.90%
+Virginia,Franklin city,4058,1487,36.64%
+Virginia,Fredericksburg city,12862,4037,31.39%
+Virginia,Galax city,2638,1838,69.67%
+Virginia,Hampton city,65901,18430,27.97%
+Virginia,Harrisonburg city,17086,5591,32.72%
+Virginia,Hopewell city,9608,4020,41.84%
+Virginia,Lexington city,2762,906,32.80%
+Virginia,Lynchburg city,36363,17097,47.02%
+Virginia,Manassas city,16968,6256,36.87%
+Virginia,Manassas Park city,6087,1979,32.51%
+Virginia,Martinsville city,6013,2165,36.01%
+Virginia,Newport News city,81203,26377,32.48%
+Virginia,Norfolk city,89881,23443,26.08%
+Virginia,Norton city,1601,1109,69.27%
+Virginia,Petersburg city,14118,1584,11.22%
+Virginia,Poquoson city,7857,5605,71.34%
+Virginia,Portsmouth city,44582,12755,28.61%
+Virginia,Radford city,6320,2786,44.08%
+Virginia,Richmond city,111159,16603,14.94%
+Virginia,Roanoke city,43323,15607,36.02%
+Virginia,Salem city,13051,7683,58.87%
+Virginia,Staunton city,12990,5695,43.84%
+Virginia,Suffolk city,49642,20082,40.45%
+Virginia,Virginia Beach city,227561,105087,46.18%
+Virginia,Waynesboro city,10717,5507,51.39%
+Virginia,Williamsburg city,6883,1963,28.52%
+Virginia,Winchester city,12106,5221,43.13%
+Washington,Adams County,5862,3907,66.65%
+Washington,Asotin County,11951,7319,61.24%
+Washington,Benton County,103033,60365,58.59%
+Washington,Chelan County,43306,22746,52.52%
+Washington,Clallam County,49264,23062,46.81%
+Washington,Clark County,275403,126303,45.86%
+Washington,Columbia County,2495,1754,70.30%
+Washington,Cowlitz County,60280,34424,57.11%
+Washington,Douglas County,21308,12955,60.80%
+Washington,Ferry County,4367,2771,63.45%
+Washington,Franklin County,32404,18039,55.67%
+Washington,Garfield County,1489,1069,71.79%
+Washington,Grant County,37680,24764,65.72%
+Washington,Grays Harbor County,38441,19877,51.71%
+Washington,Island County,53925,22746,42.18%
+Washington,Jefferson County,24792,6931,27.96%
+Washington,King County,1210507,269167,22.24%
+Washington,Kitsap County,158672,61563,38.80%
+Washington,Kittitas County,26364,14105,53.50%
+Washington,Klickitat County,13560,7237,53.37%
+Washington,Lewis County,45309,29391,64.87%
+Washington,Lincoln County,7033,5150,73.23%
+Washington,Mason County,37303,18710,50.16%
+Washington,Okanogan County,21282,11840,55.63%
+Washington,Pacific County,14064,6953,49.44%
+Washington,Pend Oreille County,8553,5728,66.97%
+Washington,Pierce County,464081,197730,42.61%
+Washington,San Juan County,13197,3057,23.16%
+Washington,Skagit County,73423,32762,44.62%
+Washington,Skamania County,7312,3885,53.13%
+Washington,Snohomish County,438796,166428,37.93%
+Washington,Spokane County,295430,148576,50.29%
+Washington,Stevens County,28430,19808,69.67%
+Washington,Thurston County,168134,65277,38.82%
+Washington,Wahkiakum County,2981,1741,58.40%
+Washington,Walla Walla County,31261,16400,52.46%
+Washington,Whatcom County,138620,50489,36.42%
+Washington,Whitman County,21126,9067,42.92%
+Washington,Yakima County,96193,50555,52.56%
+West Virginia,Barbour County,6677,5116,76.62%
+West Virginia,Berkeley County,51535,33279,64.58%
+West Virginia,Boone County,9012,6816,75.63%
+West Virginia,Braxton County,5664,4120,72.74%
+West Virginia,Brooke County,10656,7545,70.81%
+West Virginia,Cabell County,37360,21721,58.14%
+West Virginia,Calhoun County,2971,2364,79.57%
+West Virginia,Clay County,3365,2679,79.61%
+West Virginia,Doddridge County,3101,2619,84.46%
+West Virginia,Fayette County,16862,11580,68.68%
+West Virginia,Gilmer County,2662,2012,75.58%
+West Virginia,Grant County,5509,4871,88.42%
+West Virginia,Greenbrier County,15850,10925,68.93%
+West Virginia,Hampshire County,10086,8033,79.65%
+West Virginia,Hancock County,13800,9806,71.06%
+West Virginia,Hardy County,6331,4859,76.75%
+West Virginia,Harrison County,30465,20683,67.89%
+West Virginia,Jackson County,13508,10093,74.72%
+West Virginia,Jefferson County,27703,15033,54.26%
+West Virginia,Kanawha County,82244,46398,56.42%
+West Virginia,Lewis County,7457,5782,77.54%
+West Virginia,Lincoln County,7830,6012,76.78%
+West Virginia,Logan County,13026,10534,80.87%
+West Virginia,McDowell County,6527,5148,78.87%
+West Virginia,Marion County,25794,16300,63.19%
+West Virginia,Marshall County,14080,10435,74.11%
+West Virginia,Mason County,11203,8491,75.79%
+West Virginia,Mercer County,25134,19237,76.54%
+West Virginia,Mineral County,12872,10040,78.00%
+West Virginia,Mingo County,10022,8544,85.25%
+West Virginia,Monongalia County,42072,20803,49.45%
+West Virginia,Monroe County,6490,5068,78.09%
+West Virginia,Morgan County,8695,6537,75.18%
+West Virginia,Nicholas County,10630,8279,77.88%
+West Virginia,Ohio County,19898,12354,62.09%
+West Virginia,Pendleton County,3659,2782,76.03%
+West Virginia,Pleasants County,3491,2742,78.54%
+West Virginia,Pocahontas County,4008,2895,72.23%
+West Virginia,Preston County,14572,11190,76.79%
+West Virginia,Putnam County,28501,20034,70.29%
+West Virginia,Raleigh County,33106,24673,74.53%
+West Virginia,Randolph County,12200,8673,71.09%
+West Virginia,Ritchie County,4283,3649,85.20%
+West Virginia,Roane County,5763,4213,73.10%
+West Virginia,Summers County,5585,4074,72.95%
+West Virginia,Taylor County,7383,5477,74.18%
+West Virginia,Tucker County,3844,2841,73.91%
+West Virginia,Tyler County,3922,3226,82.25%
+West Virginia,Upshur County,10221,7771,76.03%
+West Virginia,Wayne County,16947,12585,74.26%
+West Virginia,Webster County,3402,2759,81.10%
+West Virginia,Wetzel County,6667,4993,74.89%
+West Virginia,Wirt County,2653,2134,80.44%
+West Virginia,Wood County,38762,27202,70.18%
+West Virginia,Wyoming County,8592,7353,85.58%
+Wisconsin,Adams County,11818,7362,62.29%
+Wisconsin,Ashland County,8757,3841,43.86%
+Wisconsin,Barron County,25346,15803,62.35%
+Wisconsin,Bayfield County,10880,4617,42.44%
+Wisconsin,Brown County,144017,75871,52.68%
+Wisconsin,Buffalo County,7816,4834,61.85%
+Wisconsin,Burnett County,10141,6462,63.72%
+Wisconsin,Calumet County,30774,18156,59.00%
+Wisconsin,Chippewa County,35938,21317,59.32%
+Wisconsin,Clark County,14898,10002,67.14%
+Wisconsin,Columbia County,33869,16927,49.98%
+Wisconsin,Crawford County,8695,4620,53.13%
+Wisconsin,Dane County,344791,78800,22.85%
+Wisconsin,Dodge County,48436,31355,64.73%
+Wisconsin,Door County,20117,9752,48.48%
+Wisconsin,Douglas County,24677,10923,44.26%
+Wisconsin,Dunn County,23524,13173,56.00%
+Wisconsin,Eau Claire County,58275,25341,43.49%
+Wisconsin,Florence County,2940,2133,72.55%
+Wisconsin,Fond du Lac County,57251,35754,62.45%
+Wisconsin,Forest County,5053,3285,65.01%
+Wisconsin,Grant County,25608,14142,55.22%
+Wisconsin,Green County,21406,10169,47.51%
+Wisconsin,Green Lake County,10671,7168,67.17%
+Wisconsin,Iowa County,13992,5909,42.23%
+Wisconsin,Iron County,4010,2438,60.80%
+Wisconsin,Jackson County,10184,5791,56.86%
+Wisconsin,Jefferson County,47979,27208,56.71%
+Wisconsin,Juneau County,13709,8749,63.82%
+Wisconsin,Kenosha County,88738,44972,50.68%
+Wisconsin,Kewaunee County,12095,7927,65.54%
+Wisconsin,La Crosse County,67884,28684,42.25%
+Wisconsin,Lafayette County,8555,4821,56.35%
+Wisconsin,Langlade County,11165,7330,65.65%
+Wisconsin,Lincoln County,16497,10017,60.72%
+Wisconsin,Manitowoc County,44829,27218,60.72%
+Wisconsin,Marathon County,76751,44624,58.14%
+Wisconsin,Marinette County,22979,15304,66.60%
+Wisconsin,Marquette County,9065,5719,63.09%
+Wisconsin,Menominee County,1590,278,17.48%
+Wisconsin,Milwaukee County,458971,134357,29.27%
+Wisconsin,Monroe County,22611,13775,60.92%
+Wisconsin,Oconto County,23215,16226,69.89%
+Wisconsin,Oneida County,24159,13671,56.59%
+Wisconsin,Outagamie County,108022,58385,54.05%
+Wisconsin,Ozaukee County,61486,33912,55.15%
+Wisconsin,Pepin County,4144,2584,62.36%
+Wisconsin,Pierce County,23317,12815,54.96%
+Wisconsin,Polk County,26371,16611,62.99%
+Wisconsin,Portage County,40603,19299,47.53%
+Wisconsin,Price County,8546,5394,63.12%
+Wisconsin,Racine County,106451,54479,51.18%
+Wisconsin,Richland County,9014,4871,54.04%
+Wisconsin,Rock County,85360,37138,43.51%
+Wisconsin,Rusk County,7886,5257,66.66%
+Wisconsin,St. Croix County,56707,32199,56.78%
+Wisconsin,Sauk County,36203,17493,48.32%
+Wisconsin,Sawyer County,10510,5909,56.22%
+Wisconsin,Shawano County,22615,15173,67.09%
+Wisconsin,Sheboygan County,66011,37609,56.97%
+Wisconsin,Taylor County,10686,7657,71.65%
+Wisconsin,Trempealeau County,15380,8833,57.43%
+Wisconsin,Vernon County,15923,8218,51.61%
+Wisconsin,Vilas County,15369,9261,60.26%
+Wisconsin,Walworth County,57600,33851,58.77%
+Wisconsin,Washburn County,10378,6334,61.03%
+Wisconsin,Washington County,88070,60237,68.40%
+Wisconsin,Waukesha County,267996,159649,59.57%
+Wisconsin,Waupaca County,29130,18952,65.06%
+Wisconsin,Waushara County,13568,9016,66.45%
+Wisconsin,Winnebago County,94032,47796,50.83%
+Wisconsin,Wood County,41298,24308,58.86%
+Wyoming,Albany County,18617,8579,46.08%
+Wyoming,Big Horn County,5752,4806,83.55%
+Wyoming,Campbell County,19566,16975,86.76%
+Wyoming,Carbon County,6664,5014,75.24%
+Wyoming,Converse County,6970,5917,84.89%
+Wyoming,Crook County,4119,3651,88.64%
+Wyoming,Fremont County,18111,12007,66.30%
+Wyoming,Goshen County,6241,4878,78.16%
+Wyoming,Hot Springs County,2577,1999,77.57%
+Wyoming,Johnson County,4914,3881,78.98%
+Wyoming,Laramie County,44982,27891,62.00%
+Wyoming,Lincoln County,10468,8643,82.57%
+Wyoming,Natrona County,35202,25271,71.79%
+Wyoming,Niobrara County,1308,1118,85.47%
+Wyoming,Park County,16717,12813,76.65%
+Wyoming,Platte County,4923,3898,79.18%
+Wyoming,Sheridan County,16428,11843,72.09%
+Wyoming,Sublette County,4970,3957,79.62%
+Wyoming,Sweetwater County,16603,12229,73.66%
+Wyoming,Teton County,14677,4341,29.58%
+Wyoming,Uinta County,9402,7496,79.73%
+Wyoming,Washakie County,4012,3245,80.88%
+Wyoming,Weston County,3542,3107,87.72%

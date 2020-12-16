@@ -1,0 +1,3247 @@
+date,county,state,fips,cases,deaths
+11/15/2020,Autauga,Alabama,1001,2456,36
+11/15/2020,Baldwin,Alabama,1003,7646,84
+11/15/2020,Barbour,Alabama,1005,1128,9
+11/15/2020,Bibb,Alabama,1007,986,17
+11/15/2020,Blount,Alabama,1009,2549,34
+11/15/2020,Bullock,Alabama,1011,677,19
+11/15/2020,Butler,Alabama,1013,1087,41
+11/15/2020,Calhoun,Alabama,1015,5608,77
+11/15/2020,Chambers,Alabama,1017,1570,48
+11/15/2020,Cherokee,Alabama,1019,908,15
+11/15/2020,Chilton,Alabama,1021,2078,36
+11/15/2020,Choctaw,Alabama,1023,411,12
+11/15/2020,Clarke,Alabama,1025,1503,18
+11/15/2020,Clay,Alabama,1027,850,13
+11/15/2020,Cleburne,Alabama,1029,669,11
+11/15/2020,Coffee,Alabama,1031,2170,14
+11/15/2020,Colbert,Alabama,1033,2736,38
+11/15/2020,Conecuh,Alabama,1035,645,14
+11/15/2020,Coosa,Alabama,1037,269,3
+11/15/2020,Covington,Alabama,1039,2039,32
+11/15/2020,Crenshaw,Alabama,1041,675,30
+11/15/2020,Cullman,Alabama,1043,3701,30
+11/15/2020,Dale,Alabama,1045,2175,54
+11/15/2020,Dallas,Alabama,1047,2062,28
+11/15/2020,DeKalb,Alabama,1049,4209,34
+11/15/2020,Elmore,Alabama,1051,3648,61
+11/15/2020,Escambia,Alabama,1053,1881,31
+11/15/2020,Etowah,Alabama,1055,5348,61
+11/15/2020,Fayette,Alabama,1057,735,15
+11/15/2020,Franklin,Alabama,1059,2336,33
+11/15/2020,Geneva,Alabama,1061,1101,8
+11/15/2020,Greene,Alabama,1063,375,17
+11/15/2020,Hale,Alabama,1065,873,30
+11/15/2020,Henry,Alabama,1067,815,6
+11/15/2020,Houston,Alabama,1069,4761,37
+11/15/2020,Jackson,Alabama,1071,2719,23
+11/15/2020,Jefferson,Alabama,1073,27884,461
+11/15/2020,Lamar,Alabama,1075,584,7
+11/15/2020,Lauderdale,Alabama,1077,3298,51
+11/15/2020,Lawrence,Alabama,1079,1076,35
+11/15/2020,Lee,Alabama,1081,7212,65
+11/15/2020,Limestone,Alabama,1083,3653,41
+11/15/2020,Lowndes,Alabama,1085,760,29
+11/15/2020,Macon,Alabama,1087,654,20
+11/15/2020,Madison,Alabama,1089,11305,118
+11/15/2020,Marengo,Alabama,1091,1132,24
+11/15/2020,Marion,Alabama,1093,1276,32
+11/15/2020,Marshall,Alabama,1095,5330,53
+11/15/2020,Mobile,Alabama,1097,18524,339
+11/15/2020,Monroe,Alabama,1099,732,10
+11/15/2020,Montgomery,Alabama,1101,11596,224
+11/15/2020,Morgan,Alabama,1103,5400,41
+11/15/2020,Perry,Alabama,1105,639,6
+11/15/2020,Pickens,Alabama,1107,1073,18
+11/15/2020,Pike,Alabama,1109,1494,14
+11/15/2020,Randolph,Alabama,1111,950,20
+11/15/2020,Russell,Alabama,1113,2073,3
+11/15/2020,Shelby,Alabama,1117,9011,73
+11/15/2020,St. Clair,Alabama,1115,3736,55
+11/15/2020,Sumter,Alabama,1119,533,21
+11/15/2020,Talladega,Alabama,1121,3171,41
+11/15/2020,Tallapoosa,Alabama,1123,1604,88
+11/15/2020,Tuscaloosa,Alabama,1125,11810,148
+11/15/2020,Walker,Alabama,1127,3294,96
+11/15/2020,Washington,Alabama,1129,875,12
+11/15/2020,Wilcox,Alabama,1131,606,12
+11/15/2020,Winston,Alabama,1133,1138,22
+11/15/2020,Aleutians East Borough,Alaska,2013,21,0
+11/15/2020,Aleutians West Census Area,Alaska,2016,105,0
+11/15/2020,Anchorage,Alaska,2020,12305,59
+11/15/2020,Bethel Census Area,Alaska,2050,906,1
+11/15/2020,Bristol Bay Borough,Alaska,2060,76,0
+11/15/2020,Denali Borough,Alaska,2068,38,0
+11/15/2020,Dillingham Census Area,Alaska,2070,80,0
+11/15/2020,Fairbanks North Star Borough,Alaska,2090,2877,17
+11/15/2020,Haines Borough,Alaska,2100,16,0
+11/15/2020,Juneau City and Borough,Alaska,2110,734,2
+11/15/2020,Kenai Peninsula Borough,Alaska,2122,1741,3
+11/15/2020,Ketchikan Gateway Borough,Alaska,2130,171,0
+11/15/2020,Kodiak Island Borough,Alaska,2150,170,0
+11/15/2020,Kusilvak Census Area,Alaska,2158,353,0
+11/15/2020,Lake and Peninsula Borough,Alaska,2164,5,0
+11/15/2020,Matanuska-Susitna Borough,Alaska,2170,2316,5
+11/15/2020,Nome Census Area,Alaska,2180,165,0
+11/15/2020,North Slope Borough,Alaska,2185,375,0
+11/15/2020,Northwest Arctic Borough,Alaska,2188,307,0
+11/15/2020,Petersburg Borough,Alaska,2195,20,0
+11/15/2020,Prince of Wales-Hyder Census Area,Alaska,2198,44,1
+11/15/2020,Sitka City and Borough,Alaska,2220,131,0
+11/15/2020,Skagway Municipality,Alaska,2230,7,0
+11/15/2020,Southeast Fairbanks Census Area,Alaska,2240,155,1
+11/15/2020,Unknown,Alaska,,197,0
+11/15/2020,Valdez-Cordova Census Area,Alaska,2261,216,1
+11/15/2020,Wrangell City and Borough,Alaska,2275,20,0
+11/15/2020,Yukon-Koyukuk Census Area,Alaska,2290,137,2
+11/15/2020,Apache,Arizona,4001,4391,189
+11/15/2020,Cochise,Arizona,4003,2705,77
+11/15/2020,Coconino,Arizona,4005,6318,159
+11/15/2020,Gila,Arizona,4007,2362,78
+11/15/2020,Graham,Arizona,4009,1675,32
+11/15/2020,Greenlee,Arizona,4011,129,2
+11/15/2020,La Paz,Arizona,4012,681,18
+11/15/2020,Maricopa,Arizona,4013,176283,3798
+11/15/2020,Mohave,Arizona,4015,5105,244
+11/15/2020,Navajo,Arizona,4017,7142,261
+11/15/2020,Pima,Arizona,4019,32802,670
+11/15/2020,Pinal,Arizona,4021,13632,239
+11/15/2020,Santa Cruz,Arizona,4023,3299,66
+11/15/2020,Yavapai,Arizona,4025,3637,104
+11/15/2020,Yuma,Arizona,4027,15362,365
+11/15/2020,Arkansas,Arkansas,5001,838,20
+11/15/2020,Ashley,Arkansas,5003,679,13
+11/15/2020,Baxter,Arkansas,5005,1089,19
+11/15/2020,Benton,Arkansas,5007,10354,135
+11/15/2020,Boone,Arkansas,5009,1363,40
+11/15/2020,Bradley,Arkansas,5011,392,8
+11/15/2020,Calhoun,Arkansas,5013,104,0
+11/15/2020,Carroll,Arkansas,5015,1171,21
+11/15/2020,Chicot,Arkansas,5017,1090,24
+11/15/2020,Clark,Arkansas,5019,683,6
+11/15/2020,Clay,Arkansas,5021,680,18
+11/15/2020,Cleburne,Arkansas,5023,598,18
+11/15/2020,Cleveland,Arkansas,5025,301,13
+11/15/2020,Columbia,Arkansas,5027,870,22
+11/15/2020,Conway,Arkansas,5029,500,6
+11/15/2020,Craighead,Arkansas,5031,5993,62
+11/15/2020,Crawford,Arkansas,5033,2646,33
+11/15/2020,Crittenden,Arkansas,5035,2879,54
+11/15/2020,Cross,Arkansas,5037,675,24
+11/15/2020,Dallas,Arkansas,5039,232,6
+11/15/2020,Desha,Arkansas,5041,479,8
+11/15/2020,Drew,Arkansas,5043,515,7
+11/15/2020,Faulkner,Arkansas,5045,4100,43
+11/15/2020,Franklin,Arkansas,5047,660,5
+11/15/2020,Fulton,Arkansas,5049,434,12
+11/15/2020,Garland,Arkansas,5051,3210,86
+11/15/2020,Grant,Arkansas,5053,464,5
+11/15/2020,Greene,Arkansas,5055,2192,25
+11/15/2020,Hempstead,Arkansas,5057,722,6
+11/15/2020,Hot Spring,Arkansas,5059,2591,40
+11/15/2020,Howard,Arkansas,5061,721,15
+11/15/2020,Independence,Arkansas,5063,1852,68
+11/15/2020,Izard,Arkansas,5065,886,4
+11/15/2020,Jackson,Arkansas,5067,1268,6
+11/15/2020,Jefferson,Arkansas,5069,4758,104
+11/15/2020,Johnson,Arkansas,5071,1142,11
+11/15/2020,Lafayette,Arkansas,5073,230,3
+11/15/2020,Lawrence,Arkansas,5075,1018,26
+11/15/2020,Lee,Arkansas,5077,1136,18
+11/15/2020,Lincoln,Arkansas,5079,2364,18
+11/15/2020,Little River,Arkansas,5081,558,39
+11/15/2020,Logan,Arkansas,5083,741,5
+11/15/2020,Lonoke,Arkansas,5085,2266,36
+11/15/2020,Madison,Arkansas,5087,526,6
+11/15/2020,Marion,Arkansas,5089,293,2
+11/15/2020,Miller,Arkansas,5091,1894,22
+11/15/2020,Mississippi,Arkansas,5093,2818,75
+11/15/2020,Monroe,Arkansas,5095,267,4
+11/15/2020,Montgomery,Arkansas,5097,217,10
+11/15/2020,Nevada,Arkansas,5099,389,14
+11/15/2020,Newton,Arkansas,5101,374,22
+11/15/2020,Ouachita,Arkansas,5103,494,11
+11/15/2020,Perry,Arkansas,5105,197,3
+11/15/2020,Phillips,Arkansas,5107,835,16
+11/15/2020,Pike,Arkansas,5109,317,1
+11/15/2020,Poinsett,Arkansas,5111,1466,33
+11/15/2020,Polk,Arkansas,5113,567,6
+11/15/2020,Pope,Arkansas,5115,3213,39
+11/15/2020,Prairie,Arkansas,5117,317,5
+11/15/2020,Pulaski,Arkansas,5119,14391,236
+11/15/2020,Randolph,Arkansas,5121,828,28
+11/15/2020,Saline,Arkansas,5125,3845,46
+11/15/2020,Scott,Arkansas,5127,298,2
+11/15/2020,Searcy,Arkansas,5129,258,1
+11/15/2020,Sebastian,Arkansas,5131,6117,111
+11/15/2020,Sevier,Arkansas,5133,1577,16
+11/15/2020,Sharp,Arkansas,5135,526,13
+11/15/2020,St. Francis,Arkansas,5123,1910,11
+11/15/2020,Stone,Arkansas,5137,430,22
+11/15/2020,Union,Arkansas,5139,1336,54
+11/15/2020,Unknown,Arkansas,,2166,0
+11/15/2020,Van Buren,Arkansas,5141,270,3
+11/15/2020,Washington,Arkansas,5143,13474,164
+11/15/2020,White,Arkansas,5145,2314,42
+11/15/2020,Woodruff,Arkansas,5147,168,0
+11/15/2020,Yell,Arkansas,5149,1504,33
+11/15/2020,Alameda,California,6001,25893,490
+11/15/2020,Alpine,California,6003,12,0
+11/15/2020,Amador,California,6005,403,16
+11/15/2020,Butte,California,6007,3434,56
+11/15/2020,Calaveras,California,6009,390,21
+11/15/2020,Colusa,California,6011,601,6
+11/15/2020,Contra Costa,California,6013,20975,253
+11/15/2020,Del Norte,California,6015,220,1
+11/15/2020,El Dorado,California,6017,1648,4
+11/15/2020,Fresno,California,6019,33969,460
+11/15/2020,Glenn,California,6021,772,6
+11/15/2020,Humboldt,California,6023,658,10
+11/15/2020,Imperial,California,6025,13932,347
+11/15/2020,Inyo,California,6027,263,16
+11/15/2020,Kern,California,6029,36618,432
+11/15/2020,Kings,California,6031,9515,87
+11/15/2020,Lake,California,6033,773,17
+11/15/2020,Lassen,California,6035,1135,1
+11/15/2020,Los Angeles,California,6037,339640,7269
+11/15/2020,Madera,California,6039,5426,76
+11/15/2020,Marin,California,6041,7378,127
+11/15/2020,Mariposa,California,6043,91,2
+11/15/2020,Mendocino,California,6045,1307,22
+11/15/2020,Merced,California,6047,10374,169
+11/15/2020,Modoc,California,6049,64,0
+11/15/2020,Mono,California,6051,472,2
+11/15/2020,Monterey,California,6053,13034,110
+11/15/2020,Napa,California,6055,2474,17
+11/15/2020,Nevada,California,6057,835,9
+11/15/2020,Orange,California,6059,67439,1526
+11/15/2020,Placer,California,6061,5215,63
+11/15/2020,Plumas,California,6063,128,0
+11/15/2020,Riverside,California,6065,74910,1367
+11/15/2020,Sacramento,California,6067,30297,520
+11/15/2020,San Benito,California,6069,1614,15
+11/15/2020,San Bernardino,California,6071,74166,1097
+11/15/2020,San Diego,California,6073,64831,926
+11/15/2020,San Francisco,California,6075,13668,156
+11/15/2020,San Joaquin,California,6077,23517,501
+11/15/2020,San Luis Obispo,California,6079,5073,33
+11/15/2020,San Mateo,California,6081,12465,168
+11/15/2020,Santa Barbara,California,6083,10482,131
+11/15/2020,Santa Clara,California,6085,28307,445
+11/15/2020,Santa Cruz,California,6087,3402,26
+11/15/2020,Shasta,California,6089,3195,36
+11/15/2020,Sierra,California,6091,11,0
+11/15/2020,Siskiyou,California,6093,372,1
+11/15/2020,Solano,California,6095,8734,79
+11/15/2020,Sonoma,California,6097,10970,149
+11/15/2020,Stanislaus,California,6099,20302,411
+11/15/2020,Sutter,California,6101,2185,12
+11/15/2020,Tehama,California,6103,1206,19
+11/15/2020,Trinity,California,6105,68,0
+11/15/2020,Tulare,California,6107,18896,300
+11/15/2020,Tuolumne,California,6109,562,8
+11/15/2020,Ventura,California,6111,16297,172
+11/15/2020,Yolo,California,6113,3814,68
+11/15/2020,Yuba,California,6115,1549,10
+11/15/2020,Adams,Colorado,8001,22213,284
+11/15/2020,Alamosa,Colorado,8003,460,10
+11/15/2020,Arapahoe,Colorado,8005,20076,415
+11/15/2020,Archuleta,Colorado,8007,99,0
+11/15/2020,Baca,Colorado,8009,42,0
+11/15/2020,Bent,Colorado,8011,33,0
+11/15/2020,Boulder,Colorado,8013,8553,106
+11/15/2020,Broomfield,Colorado,8014,1510,45
+11/15/2020,Chaffee,Colorado,8015,501,20
+11/15/2020,Cheyenne,Colorado,8017,27,0
+11/15/2020,Clear Creek,Colorado,8019,141,1
+11/15/2020,Conejos,Colorado,8021,128,1
+11/15/2020,Costilla,Colorado,8023,59,1
+11/15/2020,Crowley,Colorado,8025,669,1
+11/15/2020,Custer,Colorado,8027,50,0
+11/15/2020,Delta,Colorado,8029,354,3
+11/15/2020,Denver,Colorado,8031,27986,482
+11/15/2020,Dolores,Colorado,8033,3,0
+11/15/2020,Douglas,Colorado,8035,7256,79
+11/15/2020,Eagle,Colorado,8037,1882,11
+11/15/2020,El Paso,Colorado,8041,18399,225
+11/15/2020,Elbert,Colorado,8039,392,4
+11/15/2020,Fremont,Colorado,8043,1535,2
+11/15/2020,Garfield,Colorado,8045,1582,7
+11/15/2020,Gilpin,Colorado,8047,63,0
+11/15/2020,Grand,Colorado,8049,214,1
+11/15/2020,Gunnison,Colorado,8051,405,7
+11/15/2020,Hinsdale,Colorado,8053,4,0
+11/15/2020,Huerfano,Colorado,8055,86,4
+11/15/2020,Jackson,Colorado,8057,12,0
+11/15/2020,Jefferson,Colorado,8059,14580,383
+11/15/2020,Kiowa,Colorado,8061,15,0
+11/15/2020,Kit Carson,Colorado,8063,237,3
+11/15/2020,La Plata,Colorado,8067,634,3
+11/15/2020,Lake,Colorado,8065,196,0
+11/15/2020,Larimer,Colorado,8069,6925,63
+11/15/2020,Las Animas,Colorado,8071,116,0
+11/15/2020,Lincoln,Colorado,8073,85,0
+11/15/2020,Logan,Colorado,8075,1725,18
+11/15/2020,Mesa,Colorado,8077,3611,35
+11/15/2020,Mineral,Colorado,8079,21,0
+11/15/2020,Moffat,Colorado,8081,128,1
+11/15/2020,Montezuma,Colorado,8083,397,5
+11/15/2020,Montrose,Colorado,8085,630,14
+11/15/2020,Morgan,Colorado,8087,1243,51
+11/15/2020,Otero,Colorado,8089,301,6
+11/15/2020,Ouray,Colorado,8091,100,2
+11/15/2020,Park,Colorado,8093,164,3
+11/15/2020,Phillips,Colorado,8095,127,1
+11/15/2020,Pitkin,Colorado,8097,374,2
+11/15/2020,Prowers,Colorado,8099,345,11
+11/15/2020,Pueblo,Colorado,8101,4860,65
+11/15/2020,Rio Blanco,Colorado,8103,61,0
+11/15/2020,Rio Grande,Colorado,8105,174,4
+11/15/2020,Routt,Colorado,8107,390,9
+11/15/2020,Saguache,Colorado,8109,193,2
+11/15/2020,San Juan,Colorado,8111,15,0
+11/15/2020,San Miguel,Colorado,8113,163,0
+11/15/2020,Sedgwick,Colorado,8115,74,1
+11/15/2020,Summit,Colorado,8117,1129,4
+11/15/2020,Teller,Colorado,8119,401,4
+11/15/2020,Washington,Colorado,8121,153,2
+11/15/2020,Weld,Colorado,8123,9844,172
+11/15/2020,Yuma,Colorado,8125,263,1
+11/15/2020,Fairfield,Connecticut,9001,29842,1454
+11/15/2020,Hartford,Connecticut,9003,22083,1532
+11/15/2020,Litchfield,Connecticut,9005,3010,149
+11/15/2020,Middlesex,Connecticut,9007,2602,197
+11/15/2020,New Haven,Connecticut,9009,22015,1157
+11/15/2020,New London,Connecticut,9011,4668,155
+11/15/2020,Tolland,Connecticut,9013,2209,69
+11/15/2020,Unknown,Connecticut,,379,0
+11/15/2020,Windham,Connecticut,9015,1837,24
+11/15/2020,Kent,Delaware,10001,4044,122
+11/15/2020,New Castle,Delaware,10003,15629,366
+11/15/2020,Sussex,Delaware,10005,9035,248
+11/15/2020,Unknown,Delaware,,95,0
+11/15/2020,District of Columbia,District of Columbia,11001,18977,660
+11/15/2020,Alachua,Florida,12001,11740,87
+11/15/2020,Baker,Florida,12003,1901,28
+11/15/2020,Bay,Florida,12005,7635,147
+11/15/2020,Bradford,Florida,12007,1304,15
+11/15/2020,Brevard,Florida,12009,13602,409
+11/15/2020,Broward,Florida,12011,95311,1591
+11/15/2020,Calhoun,Florida,12013,797,20
+11/15/2020,Charlotte,Florida,12015,4292,174
+11/15/2020,Citrus,Florida,12017,3927,147
+11/15/2020,Clay,Florida,12019,6922,136
+11/15/2020,Collier,Florida,12021,15938,267
+11/15/2020,Columbia,Florida,12023,4513,85
+11/15/2020,DeSoto,Florida,12027,1798,33
+11/15/2020,Dixie,Florida,12029,934,11
+11/15/2020,Duval,Florida,12031,38569,553
+11/15/2020,Escambia,Florida,12033,15118,288
+11/15/2020,Flagler,Florida,12035,2399,40
+11/15/2020,Franklin,Florida,12037,809,4
+11/15/2020,Gadsden,Florida,12039,3136,56
+11/15/2020,Gilchrist,Florida,12041,671,19
+11/15/2020,Glades,Florida,12043,637,7
+11/15/2020,Gulf,Florida,12045,1021,18
+11/15/2020,Hamilton,Florida,12047,936,11
+11/15/2020,Hardee,Florida,12049,1698,18
+11/15/2020,Hendry,Florida,12051,2354,45
+11/15/2020,Hernando,Florida,12053,4255,187
+11/15/2020,Highlands,Florida,12055,3231,129
+11/15/2020,Hillsborough,Florida,12057,52907,857
+11/15/2020,Holmes,Florida,12059,1032,13
+11/15/2020,Indian River,Florida,12061,4448,126
+11/15/2020,Jackson,Florida,12063,3527,88
+11/15/2020,Jefferson,Florida,12065,718,11
+11/15/2020,Lafayette,Florida,12067,1289,19
+11/15/2020,Lake,Florida,12069,9623,243
+11/15/2020,Lee,Florida,12071,26225,542
+11/15/2020,Leon,Florida,12073,13562,126
+11/15/2020,Levy,Florida,12075,1253,12
+11/15/2020,Liberty,Florida,12077,555,13
+11/15/2020,Madison,Florida,12079,1179,25
+11/15/2020,Manatee,Florida,12081,14772,346
+11/15/2020,Marion,Florida,12083,11739,364
+11/15/2020,Martin,Florida,12085,5714,170
+11/15/2020,Miami-Dade,Florida,12086,202643,3709
+11/15/2020,Monroe,Florida,12087,2810,25
+11/15/2020,Nassau,Florida,12089,2762,52
+11/15/2020,Okaloosa,Florida,12091,7614,139
+11/15/2020,Okeechobee,Florida,12093,1870,43
+11/15/2020,Orange,Florida,12095,51574,603
+11/15/2020,Osceola,Florida,12097,15988,228
+11/15/2020,Palm Beach,Florida,12099,58394,1622
+11/15/2020,Pasco,Florida,12101,12547,259
+11/15/2020,Pinellas,Florida,12103,29106,854
+11/15/2020,Polk,Florida,12105,25252,648
+11/15/2020,Putnam,Florida,12107,2535,55
+11/15/2020,Santa Rosa,Florida,12113,6573,93
+11/15/2020,Sarasota,Florida,12115,11198,357
+11/15/2020,Seminole,Florida,12117,11490,255
+11/15/2020,St. Johns,Florida,12109,7524,89
+11/15/2020,St. Lucie,Florida,12111,9838,350
+11/15/2020,Sumter,Florida,12119,3160,89
+11/15/2020,Suwannee,Florida,12121,3125,82
+11/15/2020,Taylor,Florida,12123,1569,20
+11/15/2020,Union,Florida,12125,1193,53
+11/15/2020,Unknown,Florida,,2096,0
+11/15/2020,Volusia,Florida,12127,14238,342
+11/15/2020,Wakulla,Florida,12129,1472,12
+11/15/2020,Walton,Florida,12131,3248,34
+11/15/2020,Washington,Florida,12133,1383,24
+11/15/2020,Appling,Georgia,13001,1303,39
+11/15/2020,Atkinson,Georgia,13003,566,8
+11/15/2020,Bacon,Georgia,13005,738,21
+11/15/2020,Baker,Georgia,13007,119,6
+11/15/2020,Baldwin,Georgia,13009,2525,69
+11/15/2020,Banks,Georgia,13011,663,10
+11/15/2020,Barrow,Georgia,13013,3069,56
+11/15/2020,Bartow,Georgia,13015,4524,102
+11/15/2020,Ben Hill,Georgia,13017,980,38
+11/15/2020,Berrien,Georgia,13019,631,27
+11/15/2020,Bibb,Georgia,13021,7216,225
+11/15/2020,Bleckley,Georgia,13023,685,29
+11/15/2020,Brantley,Georgia,13025,723,15
+11/15/2020,Brooks,Georgia,13027,614,29
+11/15/2020,Bryan,Georgia,13029,1404,18
+11/15/2020,Bulloch,Georgia,13031,3629,51
+11/15/2020,Burke,Georgia,13033,1167,14
+11/15/2020,Butts,Georgia,13035,971,46
+11/15/2020,Calhoun,Georgia,13037,306,10
+11/15/2020,Camden,Georgia,13039,1647,20
+11/15/2020,Candler,Georgia,13043,604,29
+11/15/2020,Carroll,Georgia,13045,4880,90
+11/15/2020,Catoosa,Georgia,13047,1761,26
+11/15/2020,Charlton,Georgia,13049,758,16
+11/15/2020,Chatham,Georgia,13051,10219,201
+11/15/2020,Chattahoochee,Georgia,13053,1939,2
+11/15/2020,Chattooga,Georgia,13055,1155,32
+11/15/2020,Cherokee,Georgia,13057,9162,112
+11/15/2020,Clarke,Georgia,13059,7426,51
+11/15/2020,Clay,Georgia,13061,144,3
+11/15/2020,Clayton,Georgia,13063,9669,192
+11/15/2020,Clinch,Georgia,13065,527,13
+11/15/2020,Cobb,Georgia,13067,26857,495
+11/15/2020,Coffee,Georgia,13069,2708,71
+11/15/2020,Colquitt,Georgia,13071,2583,46
+11/15/2020,Columbia,Georgia,13073,5757,73
+11/15/2020,Cook,Georgia,13075,777,17
+11/15/2020,Coweta,Georgia,13077,4454,68
+11/15/2020,Crawford,Georgia,13079,231,6
+11/15/2020,Crisp,Georgia,13081,889,31
+11/15/2020,Dade,Georgia,13083,455,6
+11/15/2020,Dawson,Georgia,13085,1012,11
+11/15/2020,DeKalb,Georgia,13089,25020,441
+11/15/2020,Decatur,Georgia,13087,1527,44
+11/15/2020,Dodge,Georgia,13091,1042,43
+11/15/2020,Dooly,Georgia,13093,454,19
+11/15/2020,Dougherty,Georgia,13095,3603,201
+11/15/2020,Douglas,Georgia,13097,5051,84
+11/15/2020,Early,Georgia,13099,637,36
+11/15/2020,Echols,Georgia,13101,263,2
+11/15/2020,Effingham,Georgia,13103,2055,30
+11/15/2020,Elbert,Georgia,13105,1041,18
+11/15/2020,Emanuel,Georgia,13107,1395,45
+11/15/2020,Evans,Georgia,13109,534,12
+11/15/2020,Fannin,Georgia,13111,940,36
+11/15/2020,Fayette,Georgia,13113,2762,62
+11/15/2020,Floyd,Georgia,13115,4943,69
+11/15/2020,Forsyth,Georgia,13117,5884,57
+11/15/2020,Franklin,Georgia,13119,1096,20
+11/15/2020,Fulton,Georgia,13121,36708,677
+11/15/2020,Gilmer,Georgia,13123,1211,29
+11/15/2020,Glascock,Georgia,13125,75,2
+11/15/2020,Glynn,Georgia,13127,4101,116
+11/15/2020,Gordon,Georgia,13129,3047,58
+11/15/2020,Grady,Georgia,13131,969,29
+11/15/2020,Greene,Georgia,13133,678,28
+11/15/2020,Gwinnett,Georgia,13135,36018,494
+11/15/2020,Habersham,Georgia,13137,2047,78
+11/15/2020,Hall,Georgia,13139,11733,194
+11/15/2020,Hancock,Georgia,13141,441,45
+11/15/2020,Haralson,Georgia,13143,1134,20
+11/15/2020,Harris,Georgia,13145,971,26
+11/15/2020,Hart,Georgia,13147,717,24
+11/15/2020,Heard,Georgia,13149,334,7
+11/15/2020,Henry,Georgia,13151,7791,131
+11/15/2020,Houston,Georgia,13153,4368,101
+11/15/2020,Irwin,Georgia,13155,408,11
+11/15/2020,Jackson,Georgia,13157,2980,50
+11/15/2020,Jasper,Georgia,13159,402,6
+11/15/2020,Jeff Davis,Georgia,13161,939,31
+11/15/2020,Jefferson,Georgia,13163,952,39
+11/15/2020,Jenkins,Georgia,13165,493,33
+11/15/2020,Johnson,Georgia,13167,505,29
+11/15/2020,Jones,Georgia,13169,732,17
+11/15/2020,Lamar,Georgia,13171,600,25
+11/15/2020,Lanier,Georgia,13173,381,10
+11/15/2020,Laurens,Georgia,13175,2500,109
+11/15/2020,Lee,Georgia,13177,873,33
+11/15/2020,Liberty,Georgia,13179,1441,28
+11/15/2020,Lincoln,Georgia,13181,289,10
+11/15/2020,Long,Georgia,13183,310,5
+11/15/2020,Lowndes,Georgia,13185,5773,121
+11/15/2020,Lumpkin,Georgia,13187,1175,20
+11/15/2020,Macon,Georgia,13193,311,14
+11/15/2020,Madison,Georgia,13195,1010,17
+11/15/2020,Marion,Georgia,13197,239,10
+11/15/2020,McDuffie,Georgia,13189,869,19
+11/15/2020,McIntosh,Georgia,13191,360,8
+11/15/2020,Meriwether,Georgia,13199,744,19
+11/15/2020,Miller,Georgia,13201,397,3
+11/15/2020,Mitchell,Georgia,13205,942,48
+11/15/2020,Monroe,Georgia,13207,947,60
+11/15/2020,Montgomery,Georgia,13209,415,10
+11/15/2020,Morgan,Georgia,13211,755,7
+11/15/2020,Murray,Georgia,13213,1399,14
+11/15/2020,Muscogee,Georgia,13215,6967,187
+11/15/2020,Newton,Georgia,13217,3490,103
+11/15/2020,Oconee,Georgia,13219,1260,34
+11/15/2020,Oglethorpe,Georgia,13221,506,14
+11/15/2020,Paulding,Georgia,13223,4309,72
+11/15/2020,Peach,Georgia,13225,971,27
+11/15/2020,Pickens,Georgia,13227,993,15
+11/15/2020,Pierce,Georgia,13229,1170,28
+11/15/2020,Pike,Georgia,13231,708,16
+11/15/2020,Polk,Georgia,13233,2139,31
+11/15/2020,Pulaski,Georgia,13235,424,24
+11/15/2020,Putnam,Georgia,13237,942,28
+11/15/2020,Quitman,Georgia,13239,74,1
+11/15/2020,Rabun,Georgia,13241,504,11
+11/15/2020,Randolph,Georgia,13243,364,30
+11/15/2020,Richmond,Georgia,13245,9373,212
+11/15/2020,Rockdale,Georgia,13247,2489,47
+11/15/2020,Schley,Georgia,13249,154,2
+11/15/2020,Screven,Georgia,13251,491,12
+11/15/2020,Seminole,Georgia,13253,491,12
+11/15/2020,Spalding,Georgia,13255,2136,74
+11/15/2020,Stephens,Georgia,13257,1386,47
+11/15/2020,Stewart,Georgia,13259,622,17
+11/15/2020,Sumter,Georgia,13261,1179,71
+11/15/2020,Talbot,Georgia,13263,222,8
+11/15/2020,Taliaferro,Georgia,13265,35,0
+11/15/2020,Tattnall,Georgia,13267,1047,23
+11/15/2020,Taylor,Georgia,13269,318,13
+11/15/2020,Telfair,Georgia,13271,638,28
+11/15/2020,Terrell,Georgia,13273,389,33
+11/15/2020,Thomas,Georgia,13275,1844,78
+11/15/2020,Tift,Georgia,13277,2260,74
+11/15/2020,Toombs,Georgia,13279,1626,62
+11/15/2020,Towns,Georgia,13281,528,22
+11/15/2020,Treutlen,Georgia,13283,375,14
+11/15/2020,Troup,Georgia,13285,3727,116
+11/15/2020,Turner,Georgia,13287,410,26
+11/15/2020,Twiggs,Georgia,13289,242,12
+11/15/2020,Union,Georgia,13291,994,32
+11/15/2020,Unknown,Georgia,,2492,6
+11/15/2020,Upson,Georgia,13293,1398,77
+11/15/2020,Walker,Georgia,13295,2290,50
+11/15/2020,Walton,Georgia,13297,2934,78
+11/15/2020,Ware,Georgia,13299,2496,76
+11/15/2020,Warren,Georgia,13301,201,8
+11/15/2020,Washington,Georgia,13303,1024,22
+11/15/2020,Wayne,Georgia,13305,1517,43
+11/15/2020,Webster,Georgia,13307,59,2
+11/15/2020,Wheeler,Georgia,13309,420,18
+11/15/2020,White,Georgia,13311,1116,26
+11/15/2020,Whitfield,Georgia,13313,6745,71
+11/15/2020,Wilcox,Georgia,13315,337,28
+11/15/2020,Wilkes,Georgia,13317,395,7
+11/15/2020,Wilkinson,Georgia,13319,413,18
+11/15/2020,Worth,Georgia,13321,692,36
+11/15/2020,Unknown,Guam,,6893,93
+11/15/2020,Hawaii,Hawaii,15001,1481,31
+11/15/2020,Honolulu,Hawaii,15003,14353,173
+11/15/2020,Kauai,Hawaii,15007,81,0
+11/15/2020,Maui,Hawaii,15009,704,17
+11/15/2020,Ada,Idaho,16001,21561,208
+11/15/2020,Adams,Idaho,16003,89,2
+11/15/2020,Bannock,Idaho,16005,3465,22
+11/15/2020,Bear Lake,Idaho,16007,132,1
+11/15/2020,Benewah,Idaho,16009,221,3
+11/15/2020,Bingham,Idaho,16011,2163,26
+11/15/2020,Blaine,Idaho,16013,1090,7
+11/15/2020,Boise,Idaho,16015,115,2
+11/15/2020,Bonner,Idaho,16017,738,3
+11/15/2020,Bonneville,Idaho,16019,6153,46
+11/15/2020,Boundary,Idaho,16021,291,1
+11/15/2020,Butte,Idaho,16023,113,0
+11/15/2020,Camas,Idaho,16025,52,0
+11/15/2020,Canyon,Idaho,16027,12602,130
+11/15/2020,Caribou,Idaho,16029,382,5
+11/15/2020,Cassia,Idaho,16031,1838,14
+11/15/2020,Clark,Idaho,16033,47,0
+11/15/2020,Clearwater,Idaho,16035,246,0
+11/15/2020,Custer,Idaho,16037,121,1
+11/15/2020,Elmore,Idaho,16039,740,4
+11/15/2020,Franklin,Idaho,16041,504,4
+11/15/2020,Fremont,Idaho,16043,626,7
+11/15/2020,Gem,Idaho,16045,616,6
+11/15/2020,Gooding,Idaho,16047,831,8
+11/15/2020,Idaho,Idaho,16049,523,4
+11/15/2020,Jefferson,Idaho,16051,1279,5
+11/15/2020,Jerome,Idaho,16053,1616,10
+11/15/2020,Kootenai,Idaho,16055,5836,61
+11/15/2020,Latah,Idaho,16057,1346,1
+11/15/2020,Lemhi,Idaho,16059,387,5
+11/15/2020,Lewis,Idaho,16061,145,3
+11/15/2020,Lincoln,Idaho,16063,302,7
+11/15/2020,Madison,Idaho,16065,3412,7
+11/15/2020,Minidoka,Idaho,16067,1530,12
+11/15/2020,Nez Perce,Idaho,16069,1620,27
+11/15/2020,Oneida,Idaho,16071,95,0
+11/15/2020,Owyhee,Idaho,16073,495,5
+11/15/2020,Payette,Idaho,16075,1361,13
+11/15/2020,Power,Idaho,16077,422,2
+11/15/2020,Shoshone,Idaho,16079,381,21
+11/15/2020,Teton,Idaho,16081,445,2
+11/15/2020,Twin Falls,Idaho,16083,5817,68
+11/15/2020,Valley,Idaho,16085,194,1
+11/15/2020,Washington,Idaho,16087,603,9
+11/15/2020,Adams,Illinois,17001,3629,39
+11/15/2020,Alexander,Illinois,17003,213,2
+11/15/2020,Bond,Illinois,17005,807,10
+11/15/2020,Boone,Illinois,17007,3045,29
+11/15/2020,Brown,Illinois,17009,218,3
+11/15/2020,Bureau,Illinois,17011,1602,25
+11/15/2020,Calhoun,Illinois,17013,157,0
+11/15/2020,Carroll,Illinois,17015,881,23
+11/15/2020,Cass,Illinois,17017,710,13
+11/15/2020,Champaign,Illinois,17019,8959,40
+11/15/2020,Christian,Illinois,17021,1495,34
+11/15/2020,Clark,Illinois,17023,602,19
+11/15/2020,Clay,Illinois,17025,576,16
+11/15/2020,Clinton,Illinois,17027,2542,51
+11/15/2020,Coles,Illinois,17029,2819,54
+11/15/2020,Cook,Illinois,17031,251101,5996
+11/15/2020,Crawford,Illinois,17033,841,8
+11/15/2020,Cumberland,Illinois,17035,482,7
+11/15/2020,De Witt,Illinois,17039,493,10
+11/15/2020,DeKalb,Illinois,17037,4002,44
+11/15/2020,Douglas,Illinois,17041,1105,11
+11/15/2020,DuPage,Illinois,17043,35284,703
+11/15/2020,Edgar,Illinois,17045,573,15
+11/15/2020,Edwards,Illinois,17047,159,2
+11/15/2020,Effingham,Illinois,17049,2032,9
+11/15/2020,Fayette,Illinois,17051,1170,26
+11/15/2020,Ford,Illinois,17053,504,21
+11/15/2020,Franklin,Illinois,17055,1601,16
+11/15/2020,Fulton,Illinois,17057,1034,7
+11/15/2020,Gallatin,Illinois,17059,161,3
+11/15/2020,Greene,Illinois,17061,609,20
+11/15/2020,Grundy,Illinois,17063,2011,10
+11/15/2020,Hamilton,Illinois,17065,290,3
+11/15/2020,Hancock,Illinois,17067,747,6
+11/15/2020,Hardin,Illinois,17069,92,0
+11/15/2020,Henderson,Illinois,17071,226,0
+11/15/2020,Henry,Illinois,17073,1782,12
+11/15/2020,Iroquois,Illinois,17075,1190,22
+11/15/2020,Jackson,Illinois,17077,2148,30
+11/15/2020,Jasper,Illinois,17079,492,10
+11/15/2020,Jefferson,Illinois,17081,1433,56
+11/15/2020,Jersey,Illinois,17083,902,23
+11/15/2020,Jo Daviess,Illinois,17085,870,12
+11/15/2020,Johnson,Illinois,17087,563,2
+11/15/2020,Kane,Illinois,17089,25712,407
+11/15/2020,Kankakee,Illinois,17091,6455,88
+11/15/2020,Kendall,Illinois,17093,4818,34
+11/15/2020,Knox,Illinois,17095,2112,45
+11/15/2020,LaSalle,Illinois,17099,4658,95
+11/15/2020,Lake,Illinois,17097,30532,571
+11/15/2020,Lawrence,Illinois,17101,586,8
+11/15/2020,Lee,Illinois,17103,1425,14
+11/15/2020,Livingston,Illinois,17105,1617,15
+11/15/2020,Logan,Illinois,17107,1150,6
+11/15/2020,Macon,Illinois,17115,5177,94
+11/15/2020,Macoupin,Illinois,17117,1489,16
+11/15/2020,Madison,Illinois,17119,10983,183
+11/15/2020,Marion,Illinois,17121,1811,35
+11/15/2020,Marshall,Illinois,17123,255,5
+11/15/2020,Mason,Illinois,17125,485,14
+11/15/2020,Massac,Illinois,17127,306,2
+11/15/2020,McDonough,Illinois,17109,1301,28
+11/15/2020,McHenry,Illinois,17111,11237,130
+11/15/2020,McLean,Illinois,17113,6536,46
+11/15/2020,Menard,Illinois,17129,313,1
+11/15/2020,Mercer,Illinois,17131,567,7
+11/15/2020,Monroe,Illinois,17133,1559,43
+11/15/2020,Montgomery,Illinois,17135,906,18
+11/15/2020,Morgan,Illinois,17137,1644,32
+11/15/2020,Moultrie,Illinois,17139,698,9
+11/15/2020,Ogle,Illinois,17141,2196,14
+11/15/2020,Peoria,Illinois,17143,6928,108
+11/15/2020,Perry,Illinois,17145,754,16
+11/15/2020,Piatt,Illinois,17147,584,5
+11/15/2020,Pike,Illinois,17149,810,15
+11/15/2020,Pope,Illinois,17151,62,1
+11/15/2020,Pulaski,Illinois,17153,315,2
+11/15/2020,Putnam,Illinois,17155,164,0
+11/15/2020,Randolph,Illinois,17157,1762,21
+11/15/2020,Richland,Illinois,17159,508,19
+11/15/2020,Rock Island,Illinois,17161,6759,115
+11/15/2020,Saline,Illinois,17165,881,18
+11/15/2020,Sangamon,Illinois,17167,7586,77
+11/15/2020,Schuyler,Illinois,17169,169,1
+11/15/2020,Scott,Illinois,17171,179,0
+11/15/2020,Shelby,Illinois,17173,1051,23
+11/15/2020,St. Clair,Illinois,17163,11572,245
+11/15/2020,Stark,Illinois,17175,159,3
+11/15/2020,Stephenson,Illinois,17177,1997,18
+11/15/2020,Tazewell,Illinois,17179,4702,71
+11/15/2020,Union,Illinois,17181,964,26
+11/15/2020,Vermilion,Illinois,17183,2870,29
+11/15/2020,Wabash,Illinois,17185,380,6
+11/15/2020,Warren,Illinois,17187,835,12
+11/15/2020,Washington,Illinois,17189,500,2
+11/15/2020,Wayne,Illinois,17191,723,27
+11/15/2020,White,Illinois,17193,420,8
+11/15/2020,Whiteside,Illinois,17195,3074,72
+11/15/2020,Will,Illinois,17197,29725,507
+11/15/2020,Williamson,Illinois,17199,2829,71
+11/15/2020,Winnebago,Illinois,17201,15571,227
+11/15/2020,Woodford,Illinois,17203,1209,23
+11/15/2020,Adams,Indiana,18001,1301,16
+11/15/2020,Allen,Indiana,18003,14265,277
+11/15/2020,Bartholomew,Indiana,18005,2394,65
+11/15/2020,Benton,Indiana,18007,241,1
+11/15/2020,Blackford,Indiana,18009,407,10
+11/15/2020,Boone,Indiana,18011,1980,56
+11/15/2020,Brown,Indiana,18013,252,3
+11/15/2020,Carroll,Indiana,18015,552,13
+11/15/2020,Cass,Indiana,18017,2753,28
+11/15/2020,Clark,Indiana,18019,4283,80
+11/15/2020,Clay,Indiana,18021,844,21
+11/15/2020,Clinton,Indiana,18023,1453,23
+11/15/2020,Crawford,Indiana,18025,231,2
+11/15/2020,Daviess,Indiana,18027,1242,44
+11/15/2020,DeKalb,Indiana,18033,1404,18
+11/15/2020,Dearborn,Indiana,18029,1684,30
+11/15/2020,Decatur,Indiana,18031,1068,44
+11/15/2020,Delaware,Indiana,18035,4158,100
+11/15/2020,Dubois,Indiana,18037,2066,30
+11/15/2020,Elkhart,Indiana,18039,14443,194
+11/15/2020,Fayette,Indiana,18041,1363,27
+11/15/2020,Floyd,Indiana,18043,2644,78
+11/15/2020,Fountain,Indiana,18045,593,8
+11/15/2020,Franklin,Indiana,18047,544,26
+11/15/2020,Fulton,Indiana,18049,680,14
+11/15/2020,Gibson,Indiana,18051,1441,18
+11/15/2020,Grant,Indiana,18053,2470,49
+11/15/2020,Greene,Indiana,18055,847,53
+11/15/2020,Hamilton,Indiana,18057,10224,163
+11/15/2020,Hancock,Indiana,18059,2030,50
+11/15/2020,Harrison,Indiana,18061,1169,26
+11/15/2020,Hendricks,Indiana,18063,4796,165
+11/15/2020,Henry,Indiana,18065,2009,33
+11/15/2020,Howard,Indiana,18067,2441,74
+11/15/2020,Huntington,Indiana,18069,903,7
+11/15/2020,Jackson,Indiana,18071,1704,30
+11/15/2020,Jasper,Indiana,18073,1136,8
+11/15/2020,Jay,Indiana,18075,727,10
+11/15/2020,Jefferson,Indiana,18077,808,11
+11/15/2020,Jennings,Indiana,18079,652,15
+11/15/2020,Johnson,Indiana,18081,5038,169
+11/15/2020,Knox,Indiana,18083,1421,13
+11/15/2020,Kosciusko,Indiana,18085,3493,39
+11/15/2020,LaGrange,Indiana,18087,1220,24
+11/15/2020,LaPorte,Indiana,18091,3764,82
+11/15/2020,Lake,Indiana,18089,22636,431
+11/15/2020,Lawrence,Indiana,18093,1502,45
+11/15/2020,Madison,Indiana,18095,3931,125
+11/15/2020,Marion,Indiana,18097,35590,874
+11/15/2020,Marshall,Indiana,18099,2452,34
+11/15/2020,Martin,Indiana,18101,288,2
+11/15/2020,Miami,Indiana,18103,1177,9
+11/15/2020,Monroe,Indiana,18105,4444,46
+11/15/2020,Montgomery,Indiana,18107,1076,25
+11/15/2020,Morgan,Indiana,18109,1657,45
+11/15/2020,Newton,Indiana,18111,454,13
+11/15/2020,Noble,Indiana,18113,2061,42
+11/15/2020,Ohio,Indiana,18115,191,7
+11/15/2020,Orange,Indiana,18117,582,30
+11/15/2020,Owen,Indiana,18119,466,3
+11/15/2020,Parke,Indiana,18121,430,6
+11/15/2020,Perry,Indiana,18123,738,21
+11/15/2020,Pike,Indiana,18125,452,18
+11/15/2020,Porter,Indiana,18127,6457,69
+11/15/2020,Posey,Indiana,18129,1043,13
+11/15/2020,Pulaski,Indiana,18131,326,10
+11/15/2020,Putnam,Indiana,18133,1025,24
+11/15/2020,Randolph,Indiana,18135,972,13
+11/15/2020,Ripley,Indiana,18137,961,12
+11/15/2020,Rush,Indiana,18139,485,6
+11/15/2020,Scott,Indiana,18143,781,19
+11/15/2020,Shelby,Indiana,18145,2020,57
+11/15/2020,Spencer,Indiana,18147,673,7
+11/15/2020,St. Joseph,Indiana,18141,14229,205
+11/15/2020,Starke,Indiana,18149,757,17
+11/15/2020,Steuben,Indiana,18151,1130,12
+11/15/2020,Sullivan,Indiana,18153,680,15
+11/15/2020,Switzerland,Indiana,18155,207,1
+11/15/2020,Tippecanoe,Indiana,18157,6570,24
+11/15/2020,Tipton,Indiana,18159,447,27
+11/15/2020,Union,Indiana,18161,251,1
+11/15/2020,Vanderburgh,Indiana,18163,8231,100
+11/15/2020,Vermillion,Indiana,18165,462,2
+11/15/2020,Vigo,Indiana,18167,4815,66
+11/15/2020,Wabash,Indiana,18169,1113,16
+11/15/2020,Warren,Indiana,18171,176,1
+11/15/2020,Warrick,Indiana,18173,2771,71
+11/15/2020,Washington,Indiana,18175,571,5
+11/15/2020,Wayne,Indiana,18177,2811,46
+11/15/2020,Wells,Indiana,18179,946,22
+11/15/2020,White,Indiana,18181,983,19
+11/15/2020,Whitley,Indiana,18183,1014,7
+11/15/2020,Adair,Iowa,19001,345,5
+11/15/2020,Adams,Iowa,19003,136,1
+11/15/2020,Allamakee,Iowa,19005,609,9
+11/15/2020,Appanoose,Iowa,19007,619,3
+11/15/2020,Audubon,Iowa,19009,253,1
+11/15/2020,Benton,Iowa,19011,1352,10
+11/15/2020,Black Hawk,Iowa,19013,9125,116
+11/15/2020,Boone,Iowa,19015,1083,10
+11/15/2020,Bremer,Iowa,19017,1505,12
+11/15/2020,Buchanan,Iowa,19019,897,6
+11/15/2020,Buena Vista,Iowa,19021,2725,13
+11/15/2020,Butler,Iowa,19023,775,3
+11/15/2020,Calhoun,Iowa,19025,872,6
+11/15/2020,Carroll,Iowa,19027,1712,14
+11/15/2020,Cass,Iowa,19029,649,14
+11/15/2020,Cedar,Iowa,19031,851,13
+11/15/2020,Cerro Gordo,Iowa,19033,2665,32
+11/15/2020,Cherokee,Iowa,19035,638,4
+11/15/2020,Chickasaw,Iowa,19037,633,1
+11/15/2020,Clarke,Iowa,19039,426,4
+11/15/2020,Clay,Iowa,19041,897,4
+11/15/2020,Clayton,Iowa,19043,838,4
+11/15/2020,Clinton,Iowa,19045,2640,35
+11/15/2020,Crawford,Iowa,19047,1601,15
+11/15/2020,Dallas,Iowa,19049,5286,53
+11/15/2020,Davis,Iowa,19051,345,4
+11/15/2020,Decatur,Iowa,19053,263,0
+11/15/2020,Delaware,Iowa,19055,1198,18
+11/15/2020,Des Moines,Iowa,19057,2369,14
+11/15/2020,Dickinson,Iowa,19059,1115,9
+11/15/2020,Dubuque,Iowa,19061,7835,79
+11/15/2020,Emmet,Iowa,19063,623,22
+11/15/2020,Fayette,Iowa,19065,797,8
+11/15/2020,Floyd,Iowa,19067,759,12
+11/15/2020,Franklin,Iowa,19069,583,19
+11/15/2020,Fremont,Iowa,19071,294,2
+11/15/2020,Greene,Iowa,19073,398,0
+11/15/2020,Grundy,Iowa,19075,653,7
+11/15/2020,Guthrie,Iowa,19077,616,15
+11/15/2020,Hamilton,Iowa,19079,759,6
+11/15/2020,Hancock,Iowa,19081,671,6
+11/15/2020,Hardin,Iowa,19083,895,9
+11/15/2020,Harrison,Iowa,19085,900,24
+11/15/2020,Henry,Iowa,19087,1538,7
+11/15/2020,Howard,Iowa,19089,410,9
+11/15/2020,Humboldt,Iowa,19091,573,3
+11/15/2020,Ida,Iowa,19093,391,6
+11/15/2020,Iowa,Iowa,19095,751,11
+11/15/2020,Jackson,Iowa,19097,1212,5
+11/15/2020,Jasper,Iowa,19099,1829,36
+11/15/2020,Jefferson,Iowa,19101,488,1
+11/15/2020,Johnson,Iowa,19103,8198,35
+11/15/2020,Jones,Iowa,19105,1832,8
+11/15/2020,Keokuk,Iowa,19107,430,2
+11/15/2020,Kossuth,Iowa,19109,778,2
+11/15/2020,Lee,Iowa,19111,1666,14
+11/15/2020,Linn,Iowa,19113,11586,149
+11/15/2020,Louisa,Iowa,19115,713,16
+11/15/2020,Lucas,Iowa,19117,282,6
+11/15/2020,Lyon,Iowa,19119,794,8
+11/15/2020,Madison,Iowa,19121,556,4
+11/15/2020,Mahaska,Iowa,19123,1063,26
+11/15/2020,Marion,Iowa,19125,1646,16
+11/15/2020,Marshall,Iowa,19127,2972,38
+11/15/2020,Mills,Iowa,19129,783,4
+11/15/2020,Mitchell,Iowa,19131,592,3
+11/15/2020,Monona,Iowa,19133,330,2
+11/15/2020,Monroe,Iowa,19135,374,12
+11/15/2020,Montgomery,Iowa,19137,346,9
+11/15/2020,Muscatine,Iowa,19139,2291,61
+11/15/2020,O'Brien,Iowa,19141,1098,24
+11/15/2020,Osceola,Iowa,19143,440,0
+11/15/2020,Page,Iowa,19145,964,2
+11/15/2020,Palo Alto,Iowa,19147,508,3
+11/15/2020,Plymouth,Iowa,19149,2387,34
+11/15/2020,Pocahontas,Iowa,19151,444,2
+11/15/2020,Polk,Iowa,19153,27784,304
+11/15/2020,Pottawattamie,Iowa,19155,4759,55
+11/15/2020,Poweshiek,Iowa,19157,816,11
+11/15/2020,Ringgold,Iowa,19159,138,2
+11/15/2020,Sac,Iowa,19161,666,6
+11/15/2020,Scott,Iowa,19163,8642,58
+11/15/2020,Shelby,Iowa,19165,635,3
+11/15/2020,Sioux,Iowa,19167,3226,22
+11/15/2020,Story,Iowa,19169,5517,18
+11/15/2020,Tama,Iowa,19171,1338,39
+11/15/2020,Taylor,Iowa,19173,380,2
+11/15/2020,Union,Iowa,19175,555,6
+11/15/2020,Unknown,Iowa,,539,0
+11/15/2020,Van Buren,Iowa,19177,288,3
+11/15/2020,Wapello,Iowa,19179,2147,69
+11/15/2020,Warren,Iowa,19181,2161,9
+11/15/2020,Washington,Iowa,19183,1085,12
+11/15/2020,Wayne,Iowa,19185,259,6
+11/15/2020,Webster,Iowa,19187,2900,25
+11/15/2020,Winnebago,Iowa,19189,763,21
+11/15/2020,Winneshiek,Iowa,19191,748,9
+11/15/2020,Woodbury,Iowa,19193,9208,106
+11/15/2020,Worth,Iowa,19195,267,0
+11/15/2020,Wright,Iowa,19197,1023,3
+11/15/2020,Allen,Kansas,20001,240,1
+11/15/2020,Anderson,Kansas,20003,308,0
+11/15/2020,Atchison,Kansas,20005,708,9
+11/15/2020,Barber,Kansas,20007,147,0
+11/15/2020,Barton,Kansas,20009,1205,12
+11/15/2020,Bourbon,Kansas,20011,382,3
+11/15/2020,Brown,Kansas,20013,450,6
+11/15/2020,Butler,Kansas,20015,2325,4
+11/15/2020,Chase,Kansas,20017,139,3
+11/15/2020,Chautauqua,Kansas,20019,40,0
+11/15/2020,Cherokee,Kansas,20021,928,9
+11/15/2020,Cheyenne,Kansas,20023,176,7
+11/15/2020,Clark,Kansas,20025,88,4
+11/15/2020,Clay,Kansas,20027,282,8
+11/15/2020,Cloud,Kansas,20029,392,1
+11/15/2020,Coffey,Kansas,20031,243,9
+11/15/2020,Comanche,Kansas,20033,29,0
+11/15/2020,Cowley,Kansas,20035,989,9
+11/15/2020,Crawford,Kansas,20037,1882,14
+11/15/2020,Decatur,Kansas,20039,180,1
+11/15/2020,Dickinson,Kansas,20041,570,5
+11/15/2020,Doniphan,Kansas,20043,322,2
+11/15/2020,Douglas,Kansas,20045,3724,19
+11/15/2020,Edwards,Kansas,20047,115,0
+11/15/2020,Elk,Kansas,20049,29,0
+11/15/2020,Ellis,Kansas,20051,1820,18
+11/15/2020,Ellsworth,Kansas,20053,478,3
+11/15/2020,Finney,Kansas,20055,3874,23
+11/15/2020,Ford,Kansas,20057,4128,10
+11/15/2020,Franklin,Kansas,20059,824,8
+11/15/2020,Geary,Kansas,20061,703,4
+11/15/2020,Gove,Kansas,20063,247,19
+11/15/2020,Graham,Kansas,20065,118,2
+11/15/2020,Grant,Kansas,20067,611,10
+11/15/2020,Gray,Kansas,20069,301,4
+11/15/2020,Greeley,Kansas,20071,67,0
+11/15/2020,Greenwood,Kansas,20073,161,0
+11/15/2020,Hamilton,Kansas,20075,85,0
+11/15/2020,Harper,Kansas,20077,225,4
+11/15/2020,Harvey,Kansas,20079,1274,9
+11/15/2020,Haskell,Kansas,20081,210,1
+11/15/2020,Hodgeman,Kansas,20083,105,0
+11/15/2020,Jackson,Kansas,20085,487,4
+11/15/2020,Jefferson,Kansas,20087,476,6
+11/15/2020,Jewell,Kansas,20089,40,1
+11/15/2020,Johnson,Kansas,20091,20946,244
+11/15/2020,Kearny,Kansas,20093,220,8
+11/15/2020,Kingman,Kansas,20095,230,3
+11/15/2020,Kiowa,Kansas,20097,86,0
+11/15/2020,Labette,Kansas,20099,615,6
+11/15/2020,Lane,Kansas,20101,60,1
+11/15/2020,Leavenworth,Kansas,20103,3095,25
+11/15/2020,Lincoln,Kansas,20105,31,1
+11/15/2020,Linn,Kansas,20107,200,1
+11/15/2020,Logan,Kansas,20109,181,0
+11/15/2020,Lyon,Kansas,20111,1823,41
+11/15/2020,Marion,Kansas,20115,350,1
+11/15/2020,Marshall,Kansas,20117,258,0
+11/15/2020,McPherson,Kansas,20113,874,8
+11/15/2020,Meade,Kansas,20119,223,2
+11/15/2020,Miami,Kansas,20121,747,2
+11/15/2020,Mitchell,Kansas,20123,91,0
+11/15/2020,Montgomery,Kansas,20125,862,6
+11/15/2020,Morris,Kansas,20127,140,1
+11/15/2020,Morton,Kansas,20129,105,3
+11/15/2020,Nemaha,Kansas,20131,704,5
+11/15/2020,Neosho,Kansas,20133,484,0
+11/15/2020,Ness,Kansas,20135,204,10
+11/15/2020,Norton,Kansas,20137,995,21
+11/15/2020,Osage,Kansas,20139,306,5
+11/15/2020,Osborne,Kansas,20141,47,0
+11/15/2020,Ottawa,Kansas,20143,158,0
+11/15/2020,Pawnee,Kansas,20145,495,1
+11/15/2020,Phillips,Kansas,20147,320,9
+11/15/2020,Pottawatomie,Kansas,20149,534,0
+11/15/2020,Pratt,Kansas,20151,366,0
+11/15/2020,Rawlins,Kansas,20153,199,2
+11/15/2020,Reno,Kansas,20155,3441,30
+11/15/2020,Republic,Kansas,20157,191,1
+11/15/2020,Rice,Kansas,20159,246,1
+11/15/2020,Riley,Kansas,20161,2807,14
+11/15/2020,Rooks,Kansas,20163,221,7
+11/15/2020,Rush,Kansas,20165,140,0
+11/15/2020,Russell,Kansas,20167,337,7
+11/15/2020,Saline,Kansas,20169,1603,17
+11/15/2020,Scott,Kansas,20171,323,1
+11/15/2020,Sedgwick,Kansas,20173,19504,140
+11/15/2020,Seward,Kansas,20175,2467,13
+11/15/2020,Shawnee,Kansas,20177,5335,97
+11/15/2020,Sheridan,Kansas,20179,268,0
+11/15/2020,Sherman,Kansas,20181,345,7
+11/15/2020,Smith,Kansas,20183,80,0
+11/15/2020,Stafford,Kansas,20185,149,1
+11/15/2020,Stanton,Kansas,20187,119,2
+11/15/2020,Stevens,Kansas,20189,338,1
+11/15/2020,Sumner,Kansas,20191,536,6
+11/15/2020,Thomas,Kansas,20193,536,2
+11/15/2020,Trego,Kansas,20195,152,3
+11/15/2020,Unknown,Kansas,,0,76
+11/15/2020,Wabaunsee,Kansas,20197,205,1
+11/15/2020,Wallace,Kansas,20199,118,0
+11/15/2020,Washington,Kansas,20201,194,0
+11/15/2020,Wichita,Kansas,20203,90,0
+11/15/2020,Wilson,Kansas,20205,209,4
+11/15/2020,Woodson,Kansas,20207,47,0
+11/15/2020,Wyandotte,Kansas,20209,9774,167
+11/15/2020,Adair,Kentucky,21001,777,29
+11/15/2020,Allen,Kentucky,21003,623,14
+11/15/2020,Anderson,Kentucky,21005,375,1
+11/15/2020,Ballard,Kentucky,21007,112,1
+11/15/2020,Barren,Kentucky,21009,1651,22
+11/15/2020,Bath,Kentucky,21011,199,1
+11/15/2020,Bell,Kentucky,21013,1056,18
+11/15/2020,Boone,Kentucky,21015,3263,26
+11/15/2020,Bourbon,Kentucky,21017,435,1
+11/15/2020,Boyd,Kentucky,21019,1020,23
+11/15/2020,Boyle,Kentucky,21021,671,0
+11/15/2020,Bracken,Kentucky,21023,104,3
+11/15/2020,Breathitt,Kentucky,21025,229,2
+11/15/2020,Breckinridge,Kentucky,21027,341,3
+11/15/2020,Bullitt,Kentucky,21029,2182,21
+11/15/2020,Butler,Kentucky,21031,491,16
+11/15/2020,Caldwell,Kentucky,21033,431,0
+11/15/2020,Calloway,Kentucky,21035,1351,10
+11/15/2020,Campbell,Kentucky,21037,2050,20
+11/15/2020,Carlisle,Kentucky,21039,147,1
+11/15/2020,Carroll,Kentucky,21041,267,6
+11/15/2020,Carter,Kentucky,21043,534,4
+11/15/2020,Casey,Kentucky,21045,477,17
+11/15/2020,Christian,Kentucky,21047,2439,35
+11/15/2020,Clark,Kentucky,21049,694,12
+11/15/2020,Clay,Kentucky,21051,796,7
+11/15/2020,Clinton,Kentucky,21053,387,7
+11/15/2020,Crittenden,Kentucky,21055,203,1
+11/15/2020,Cumberland,Kentucky,21057,238,0
+11/15/2020,Daviess,Kentucky,21059,2679,35
+11/15/2020,Edmonson,Kentucky,21061,262,12
+11/15/2020,Elliott,Kentucky,21063,498,0
+11/15/2020,Estill,Kentucky,21065,367,0
+11/15/2020,Fayette,Kentucky,21067,13888,104
+11/15/2020,Fleming,Kentucky,21069,244,0
+11/15/2020,Floyd,Kentucky,21071,862,4
+11/15/2020,Franklin,Kentucky,21073,1106,14
+11/15/2020,Fulton,Kentucky,21075,261,3
+11/15/2020,Gallatin,Kentucky,21077,161,8
+11/15/2020,Garrard,Kentucky,21079,426,4
+11/15/2020,Grant,Kentucky,21081,446,6
+11/15/2020,Graves,Kentucky,21083,1287,32
+11/15/2020,Grayson,Kentucky,21085,743,18
+11/15/2020,Green,Kentucky,21087,473,10
+11/15/2020,Greenup,Kentucky,21089,930,12
+11/15/2020,Hancock,Kentucky,21091,231,6
+11/15/2020,Hardin,Kentucky,21093,3204,29
+11/15/2020,Harlan,Kentucky,21095,742,15
+11/15/2020,Harrison,Kentucky,21097,341,1
+11/15/2020,Hart,Kentucky,21099,626,3
+11/15/2020,Henderson,Kentucky,21101,1709,36
+11/15/2020,Henry,Kentucky,21103,401,3
+11/15/2020,Hickman,Kentucky,21105,128,1
+11/15/2020,Hopkins,Kentucky,21107,1441,45
+11/15/2020,Jackson,Kentucky,21109,570,17
+11/15/2020,Jefferson,Kentucky,21111,30953,441
+11/15/2020,Jessamine,Kentucky,21113,1352,25
+11/15/2020,Johnson,Kentucky,21115,584,2
+11/15/2020,Kenton,Kentucky,21117,4007,52
+11/15/2020,Knott,Kentucky,21119,454,9
+11/15/2020,Knox,Kentucky,21121,1031,10
+11/15/2020,Larue,Kentucky,21123,467,2
+11/15/2020,Laurel,Kentucky,21125,2021,11
+11/15/2020,Lawrence,Kentucky,21127,268,1
+11/15/2020,Lee,Kentucky,21129,520,11
+11/15/2020,Leslie,Kentucky,21131,168,1
+11/15/2020,Letcher,Kentucky,21133,403,2
+11/15/2020,Lewis,Kentucky,21135,413,18
+11/15/2020,Lincoln,Kentucky,21137,458,20
+11/15/2020,Livingston,Kentucky,21139,208,2
+11/15/2020,Logan,Kentucky,21141,984,33
+11/15/2020,Lyon,Kentucky,21143,157,5
+11/15/2020,Madison,Kentucky,21151,2885,14
+11/15/2020,Magoffin,Kentucky,21153,310,1
+11/15/2020,Marion,Kentucky,21155,728,12
+11/15/2020,Marshall,Kentucky,21157,722,9
+11/15/2020,Martin,Kentucky,21159,321,5
+11/15/2020,Mason,Kentucky,21161,270,2
+11/15/2020,McCracken,Kentucky,21145,1877,12
+11/15/2020,McCreary,Kentucky,21147,348,1
+11/15/2020,McLean,Kentucky,21149,305,9
+11/15/2020,Meade,Kentucky,21163,615,4
+11/15/2020,Menifee,Kentucky,21165,107,1
+11/15/2020,Mercer,Kentucky,21167,495,6
+11/15/2020,Metcalfe,Kentucky,21169,310,2
+11/15/2020,Monroe,Kentucky,21171,588,5
+11/15/2020,Montgomery,Kentucky,21173,722,8
+11/15/2020,Morgan,Kentucky,21175,215,0
+11/15/2020,Muhlenberg,Kentucky,21177,1157,20
+11/15/2020,Nelson,Kentucky,21179,1650,4
+11/15/2020,Nicholas,Kentucky,21181,140,3
+11/15/2020,Ohio,Kentucky,21183,771,12
+11/15/2020,Oldham,Kentucky,21185,1768,29
+11/15/2020,Owen,Kentucky,21187,153,3
+11/15/2020,Owsley,Kentucky,21189,130,1
+11/15/2020,Pendleton,Kentucky,21191,220,1
+11/15/2020,Perry,Kentucky,21193,758,10
+11/15/2020,Pike,Kentucky,21195,1404,11
+11/15/2020,Powell,Kentucky,21197,268,0
+11/15/2020,Pulaski,Kentucky,21199,1500,13
+11/15/2020,Robertson,Kentucky,21201,59,2
+11/15/2020,Rockcastle,Kentucky,21203,441,4
+11/15/2020,Rowan,Kentucky,21205,569,2
+11/15/2020,Russell,Kentucky,21207,552,10
+11/15/2020,Scott,Kentucky,21209,1404,20
+11/15/2020,Shelby,Kentucky,21211,1866,25
+11/15/2020,Simpson,Kentucky,21213,480,9
+11/15/2020,Spencer,Kentucky,21215,488,1
+11/15/2020,Taylor,Kentucky,21217,825,8
+11/15/2020,Todd,Kentucky,21219,350,13
+11/15/2020,Trigg,Kentucky,21221,320,0
+11/15/2020,Trimble,Kentucky,21223,129,0
+11/15/2020,Union,Kentucky,21225,613,6
+11/15/2020,Warren,Kentucky,21227,6214,61
+11/15/2020,Washington,Kentucky,21229,382,3
+11/15/2020,Wayne,Kentucky,21231,487,2
+11/15/2020,Webster,Kentucky,21233,458,5
+11/15/2020,Whitley,Kentucky,21235,1202,8
+11/15/2020,Wolfe,Kentucky,21237,135,1
+11/15/2020,Woodford,Kentucky,21239,539,0
+11/15/2020,Acadia,Louisiana,22001,3526,111
+11/15/2020,Allen,Louisiana,22003,1964,67
+11/15/2020,Ascension,Louisiana,22005,4991,103
+11/15/2020,Assumption,Louisiana,22007,913,25
+11/15/2020,Avoyelles,Louisiana,22009,1914,67
+11/15/2020,Beauregard,Louisiana,22011,1212,46
+11/15/2020,Bienville,Louisiana,22013,686,37
+11/15/2020,Bossier,Louisiana,22015,5186,139
+11/15/2020,Caddo,Louisiana,22017,11535,427
+11/15/2020,Calcasieu,Louisiana,22019,9520,238
+11/15/2020,Caldwell,Louisiana,22021,503,5
+11/15/2020,Cameron,Louisiana,22023,261,3
+11/15/2020,Catahoula,Louisiana,22025,535,17
+11/15/2020,Claiborne,Louisiana,22027,687,29
+11/15/2020,Concordia,Louisiana,22029,763,24
+11/15/2020,De Soto,Louisiana,22031,1131,37
+11/15/2020,East Baton Rouge,Louisiana,22033,17913,486
+11/15/2020,East Carroll,Louisiana,22035,641,6
+11/15/2020,East Feliciana,Louisiana,22037,1990,83
+11/15/2020,Evangeline,Louisiana,22039,1622,41
+11/15/2020,Franklin,Louisiana,22041,1506,54
+11/15/2020,Grant,Louisiana,22043,638,32
+11/15/2020,Iberia,Louisiana,22045,3313,102
+11/15/2020,Iberville,Louisiana,22047,1660,62
+11/15/2020,Jackson,Louisiana,22049,1024,25
+11/15/2020,Jefferson,Louisiana,22051,20149,620
+11/15/2020,Jefferson Davis,Louisiana,22053,1502,47
+11/15/2020,LaSalle,Louisiana,22059,765,16
+11/15/2020,Lafayette,Louisiana,22055,10404,142
+11/15/2020,Lafourche,Louisiana,22057,4276,135
+11/15/2020,Lincoln,Louisiana,22061,2136,54
+11/15/2020,Livingston,Louisiana,22063,5059,87
+11/15/2020,Madison,Louisiana,22065,956,12
+11/15/2020,Morehouse,Louisiana,22067,1043,29
+11/15/2020,Natchitoches,Louisiana,22069,1770,39
+11/15/2020,Orleans,Louisiana,22071,14553,644
+11/15/2020,Ouachita,Louisiana,22073,8343,191
+11/15/2020,Plaquemines,Louisiana,22075,1017,19
+11/15/2020,Pointe Coupee,Louisiana,22077,1245,48
+11/15/2020,Rapides,Louisiana,22079,5558,176
+11/15/2020,Red River,Louisiana,22081,536,26
+11/15/2020,Richland,Louisiana,22083,1191,24
+11/15/2020,Sabine,Louisiana,22085,1227,18
+11/15/2020,St. Bernard,Louisiana,22087,1676,34
+11/15/2020,St. Charles,Louisiana,22089,2261,69
+11/15/2020,St. Helena,Louisiana,22091,488,4
+11/15/2020,St. James,Louisiana,22093,900,40
+11/15/2020,St. John the Baptist,Louisiana,22095,1797,114
+11/15/2020,St. Landry,Louisiana,22097,4261,142
+11/15/2020,St. Martin,Louisiana,22099,2443,70
+11/15/2020,St. Mary,Louisiana,22101,2202,94
+11/15/2020,St. Tammany,Louisiana,22103,8908,283
+11/15/2020,Tangipahoa,Louisiana,22105,5760,137
+11/15/2020,Tensas,Louisiana,22107,196,3
+11/15/2020,Terrebonne,Louisiana,22109,4160,132
+11/15/2020,Union,Louisiana,22111,1272,56
+11/15/2020,Unknown,Louisiana,,325,0
+11/15/2020,Vermilion,Louisiana,22113,2294,71
+11/15/2020,Vernon,Louisiana,22115,1237,61
+11/15/2020,Washington,Louisiana,22117,2053,74
+11/15/2020,Webster,Louisiana,22119,1689,47
+11/15/2020,West Baton Rouge,Louisiana,22121,1156,43
+11/15/2020,West Carroll,Louisiana,22123,457,18
+11/15/2020,West Feliciana,Louisiana,22125,768,25
+11/15/2020,Winn,Louisiana,22127,846,22
+11/15/2020,Androscoggin,Maine,23001,1183,14
+11/15/2020,Aroostook,Maine,23003,86,1
+11/15/2020,Cumberland,Maine,23005,3219,70
+11/15/2020,Franklin,Maine,23007,151,2
+11/15/2020,Hancock,Maine,23009,167,1
+11/15/2020,Kennebec,Maine,23011,566,13
+11/15/2020,Knox,Maine,23013,162,2
+11/15/2020,Lincoln,Maine,23015,106,1
+11/15/2020,Oxford,Maine,23017,230,2
+11/15/2020,Penobscot,Maine,23019,483,7
+11/15/2020,Piscataquis,Maine,23021,24,0
+11/15/2020,Sagadahoc,Maine,23023,115,0
+11/15/2020,Somerset,Maine,23025,332,12
+11/15/2020,Unknown,Maine,,3,0
+11/15/2020,Waldo,Maine,23027,194,16
+11/15/2020,Washington,Maine,23029,146,0
+11/15/2020,York,Maine,23031,1777,24
+11/15/2020,Allegany,Maryland,24001,1606,32
+11/15/2020,Anne Arundel,Maryland,24003,14141,288
+11/15/2020,Baltimore,Maryland,24005,24309,692
+11/15/2020,Baltimore city,Maryland,24510,20756,527
+11/15/2020,Calvert,Maryland,24009,1366,30
+11/15/2020,Caroline,Maryland,24011,810,9
+11/15/2020,Carroll,Maryland,24013,2706,131
+11/15/2020,Cecil,Maryland,24015,1597,37
+11/15/2020,Charles,Maryland,24017,3719,104
+11/15/2020,Dorchester,Maryland,24019,910,14
+11/15/2020,Frederick,Maryland,24021,5573,141
+11/15/2020,Garrett,Maryland,24023,305,1
+11/15/2020,Harford,Maryland,24025,4620,86
+11/15/2020,Howard,Maryland,24027,6797,132
+11/15/2020,Kent,Maryland,24029,374,26
+11/15/2020,Montgomery,Maryland,24031,29030,909
+11/15/2020,Prince George's,Maryland,24033,36531,889
+11/15/2020,Queen Anne's,Maryland,24035,909,27
+11/15/2020,Somerset,Maryland,24039,540,8
+11/15/2020,St. Mary's,Maryland,24037,1731,60
+11/15/2020,Talbot,Maryland,24041,708,7
+11/15/2020,Unknown,Maryland,,0,13
+11/15/2020,Washington,Maryland,24043,3038,52
+11/15/2020,Wicomico,Maryland,24045,2884,55
+11/15/2020,Worcester,Maryland,24047,1357,32
+11/15/2020,Barnstable,Massachusetts,25001,2287,188
+11/15/2020,Berkshire,Massachusetts,25003,1027,52
+11/15/2020,Bristol,Massachusetts,25005,15919,799
+11/15/2020,Dukes,Massachusetts,25007,176,0
+11/15/2020,Essex,Massachusetts,25009,28965,1392
+11/15/2020,Franklin,Massachusetts,25011,550,75
+11/15/2020,Hampden,Massachusetts,25013,12923,855
+11/15/2020,Hampshire,Massachusetts,25015,1874,160
+11/15/2020,Middlesex,Massachusetts,25017,38246,2355
+11/15/2020,Nantucket,Massachusetts,25019,250,2
+11/15/2020,Norfolk,Massachusetts,25021,13802,1149
+11/15/2020,Plymouth,Massachusetts,25023,12900,869
+11/15/2020,Suffolk,Massachusetts,25025,32792,1208
+11/15/2020,Unknown,Massachusetts,,6189,7
+11/15/2020,Worcester,Massachusetts,25027,20375,1218
+11/15/2020,Alcona,Michigan,26001,92,3
+11/15/2020,Alger,Michigan,26003,189,2
+11/15/2020,Allegan,Michigan,26005,2596,13
+11/15/2020,Alpena,Michigan,26007,297,16
+11/15/2020,Antrim,Michigan,26009,272,1
+11/15/2020,Arenac,Michigan,26011,215,6
+11/15/2020,Baraga,Michigan,26013,306,5
+11/15/2020,Barry,Michigan,26015,1347,10
+11/15/2020,Bay,Michigan,26017,2846,80
+11/15/2020,Benzie,Michigan,26019,224,3
+11/15/2020,Berrien,Michigan,26021,4598,102
+11/15/2020,Branch,Michigan,26023,2333,43
+11/15/2020,Calhoun,Michigan,26025,4742,99
+11/15/2020,Cass,Michigan,26027,1595,27
+11/15/2020,Charlevoix,Michigan,26029,357,5
+11/15/2020,Cheboygan,Michigan,26031,311,14
+11/15/2020,Chippewa,Michigan,26033,541,2
+11/15/2020,Clare,Michigan,26035,525,23
+11/15/2020,Clinton,Michigan,26037,2042,18
+11/15/2020,Crawford,Michigan,26039,226,5
+11/15/2020,Delta,Michigan,26041,2036,55
+11/15/2020,Dickinson,Michigan,26043,1245,28
+11/15/2020,Eaton,Michigan,26045,2086,23
+11/15/2020,Emmet,Michigan,26047,727,18
+11/15/2020,Genesee,Michigan,26049,10245,372
+11/15/2020,Gladwin,Michigan,26051,458,6
+11/15/2020,Gogebic,Michigan,26053,641,19
+11/15/2020,Grand Traverse,Michigan,26055,1266,15
+11/15/2020,Gratiot,Michigan,26057,1065,21
+11/15/2020,Hillsdale,Michigan,26059,986,32
+11/15/2020,Houghton,Michigan,26061,1265,9
+11/15/2020,Huron,Michigan,26063,460,8
+11/15/2020,Ingham,Michigan,26065,6578,85
+11/15/2020,Ionia,Michigan,26067,2228,13
+11/15/2020,Iosco,Michigan,26069,477,19
+11/15/2020,Iron,Michigan,26071,605,31
+11/15/2020,Isabella,Michigan,26073,1741,18
+11/15/2020,Jackson,Michigan,26075,4965,106
+11/15/2020,Kalamazoo,Michigan,26077,7177,143
+11/15/2020,Kalkaska,Michigan,26079,237,4
+11/15/2020,Kent,Michigan,26081,23631,247
+11/15/2020,Keweenaw,Michigan,26083,38,1
+11/15/2020,Lake,Michigan,26085,126,1
+11/15/2020,Lapeer,Michigan,26087,1850,51
+11/15/2020,Leelanau,Michigan,26089,255,2
+11/15/2020,Lenawee,Michigan,26091,2415,26
+11/15/2020,Livingston,Michigan,26093,3575,36
+11/15/2020,Luce,Michigan,26095,558,0
+11/15/2020,Mackinac,Michigan,26097,216,0
+11/15/2020,Macomb,Michigan,26099,27445,1171
+11/15/2020,Manistee,Michigan,26101,246,5
+11/15/2020,Marquette,Michigan,26103,2916,22
+11/15/2020,Mason,Michigan,26105,412,7
+11/15/2020,Mecosta,Michigan,26107,891,6
+11/15/2020,Menominee,Michigan,26109,1044,10
+11/15/2020,Midland,Michigan,26111,2086,16
+11/15/2020,Missaukee,Michigan,26113,182,1
+11/15/2020,Monroe,Michigan,26115,3452,51
+11/15/2020,Montcalm,Michigan,26117,1259,16
+11/15/2020,Montmorency,Michigan,26119,81,0
+11/15/2020,Muskegon,Michigan,26121,5828,115
+11/15/2020,Newaygo,Michigan,26123,1091,8
+11/15/2020,Oakland,Michigan,26125,34658,1282
+11/15/2020,Oceana,Michigan,26127,892,8
+11/15/2020,Ogemaw,Michigan,26129,291,7
+11/15/2020,Ontonagon,Michigan,26131,237,6
+11/15/2020,Osceola,Michigan,26133,334,2
+11/15/2020,Oscoda,Michigan,26135,91,2
+11/15/2020,Otsego,Michigan,26137,557,14
+11/15/2020,Ottawa,Michigan,26139,9743,101
+11/15/2020,Presque Isle,Michigan,26141,149,2
+11/15/2020,Roscommon,Michigan,26143,359,8
+11/15/2020,Saginaw,Michigan,26145,6228,178
+11/15/2020,Sanilac,Michigan,26151,408,9
+11/15/2020,Schoolcraft,Michigan,26153,153,1
+11/15/2020,Shiawassee,Michigan,26155,1310,35
+11/15/2020,St. Clair,Michigan,26147,2897,71
+11/15/2020,St. Joseph,Michigan,26149,1993,27
+11/15/2020,Tuscola,Michigan,26157,1149,41
+11/15/2020,Unknown,Michigan,,2001,4
+11/15/2020,Van Buren,Michigan,26159,1925,25
+11/15/2020,Washtenaw,Michigan,26161,7925,133
+11/15/2020,Wayne,Michigan,26163,50512,3121
+11/15/2020,Wexford,Michigan,26165,341,7
+11/15/2020,Aitkin,Minnesota,27001,490,13
+11/15/2020,Anoka,Minnesota,27003,15956,189
+11/15/2020,Becker,Minnesota,27005,1308,4
+11/15/2020,Beltrami,Minnesota,27007,1519,13
+11/15/2020,Benton,Minnesota,27009,2023,32
+11/15/2020,Big Stone,Minnesota,27011,236,1
+11/15/2020,Blue Earth,Minnesota,27013,3097,10
+11/15/2020,Brown,Minnesota,27015,795,5
+11/15/2020,Carlton,Minnesota,27017,1130,8
+11/15/2020,Carver,Minnesota,27019,3072,9
+11/15/2020,Cass,Minnesota,27021,922,8
+11/15/2020,Chippewa,Minnesota,27023,648,7
+11/15/2020,Chisago,Minnesota,27025,2273,4
+11/15/2020,Clay,Minnesota,27027,3773,50
+11/15/2020,Clearwater,Minnesota,27029,315,3
+11/15/2020,Cook,Minnesota,27031,43,0
+11/15/2020,Cottonwood,Minnesota,27033,510,0
+11/15/2020,Crow Wing,Minnesota,27035,2422,25
+11/15/2020,Dakota,Minnesota,27037,15556,159
+11/15/2020,Dodge,Minnesota,27039,639,0
+11/15/2020,Douglas,Minnesota,27041,1653,18
+11/15/2020,Faribault,Minnesota,27043,383,0
+11/15/2020,Fillmore,Minnesota,27045,477,0
+11/15/2020,Freeborn,Minnesota,27047,1107,5
+11/15/2020,Goodhue,Minnesota,27049,1298,20
+11/15/2020,Grant,Minnesota,27051,177,5
+11/15/2020,Hennepin,Minnesota,27053,50352,1044
+11/15/2020,Houston,Minnesota,27055,482,2
+11/15/2020,Hubbard,Minnesota,27057,772,15
+11/15/2020,Isanti,Minnesota,27059,1239,10
+11/15/2020,Itasca,Minnesota,27061,1329,19
+11/15/2020,Jackson,Minnesota,27063,326,1
+11/15/2020,Kanabec,Minnesota,27065,419,11
+11/15/2020,Kandiyohi,Minnesota,27067,2698,9
+11/15/2020,Kittson,Minnesota,27069,132,1
+11/15/2020,Koochiching,Minnesota,27071,264,5
+11/15/2020,Lac qui Parle,Minnesota,27073,240,3
+11/15/2020,Lake,Minnesota,27075,233,1
+11/15/2020,Lake of the Woods,Minnesota,27077,71,1
+11/15/2020,Le Sueur,Minnesota,27079,1041,7
+11/15/2020,Lincoln,Minnesota,27081,262,1
+11/15/2020,Lyon,Minnesota,27083,1548,8
+11/15/2020,Mahnomen,Minnesota,27087,182,3
+11/15/2020,Marshall,Minnesota,27089,310,6
+11/15/2020,Martin,Minnesota,27091,817,19
+11/15/2020,McLeod,Minnesota,27085,1261,6
+11/15/2020,Meeker,Minnesota,27093,727,5
+11/15/2020,Mille Lacs,Minnesota,27095,1039,27
+11/15/2020,Morrison,Minnesota,27097,1384,16
+11/15/2020,Mower,Minnesota,27099,1931,21
+11/15/2020,Murray,Minnesota,27101,436,3
+11/15/2020,Nicollet,Minnesota,27103,1162,21
+11/15/2020,Nobles,Minnesota,27105,2779,25
+11/15/2020,Norman,Minnesota,27107,248,5
+11/15/2020,Olmsted,Minnesota,27109,5141,30
+11/15/2020,Otter Tail,Minnesota,27111,1911,12
+11/15/2020,Pennington,Minnesota,27113,388,4
+11/15/2020,Pine,Minnesota,27115,911,5
+11/15/2020,Pipestone,Minnesota,27117,545,17
+11/15/2020,Polk,Minnesota,27119,1697,17
+11/15/2020,Pope,Minnesota,27121,361,0
+11/15/2020,Ramsey,Minnesota,27123,21142,430
+11/15/2020,Red Lake,Minnesota,27125,144,3
+11/15/2020,Redwood,Minnesota,27127,535,15
+11/15/2020,Renville,Minnesota,27129,501,14
+11/15/2020,Rice,Minnesota,27131,2758,25
+11/15/2020,Rock,Minnesota,27133,509,9
+11/15/2020,Roseau,Minnesota,27135,702,1
+11/15/2020,Scott,Minnesota,27139,5897,49
+11/15/2020,Sherburne,Minnesota,27141,3912,31
+11/15/2020,Sibley,Minnesota,27143,483,3
+11/15/2020,St. Louis,Minnesota,27137,5520,84
+11/15/2020,Stearns,Minnesota,27145,9883,74
+11/15/2020,Steele,Minnesota,27147,1318,5
+11/15/2020,Stevens,Minnesota,27149,352,1
+11/15/2020,Swift,Minnesota,27151,384,4
+11/15/2020,Todd,Minnesota,27153,1405,12
+11/15/2020,Traverse,Minnesota,27155,102,0
+11/15/2020,Unknown,Minnesota,,448,56
+11/15/2020,Wabasha,Minnesota,27157,686,1
+11/15/2020,Wadena,Minnesota,27159,519,6
+11/15/2020,Waseca,Minnesota,27161,1115,10
+11/15/2020,Washington,Minnesota,27163,10390,95
+11/15/2020,Watonwan,Minnesota,27165,677,4
+11/15/2020,Wilkin,Minnesota,27167,256,4
+11/15/2020,Winona,Minnesota,27169,2056,22
+11/15/2020,Wright,Minnesota,27171,5025,27
+11/15/2020,Yellow Medicine,Minnesota,27173,458,8
+11/15/2020,Adams,Mississippi,28001,1236,47
+11/15/2020,Alcorn,Mississippi,28003,1318,21
+11/15/2020,Amite,Mississippi,28005,458,14
+11/15/2020,Attala,Mississippi,28007,962,27
+11/15/2020,Benton,Mississippi,28009,447,16
+11/15/2020,Bolivar,Mississippi,28011,2251,82
+11/15/2020,Calhoun,Mississippi,28013,685,13
+11/15/2020,Carroll,Mississippi,28015,648,13
+11/15/2020,Chickasaw,Mississippi,28017,966,31
+11/15/2020,Choctaw,Mississippi,28019,263,7
+11/15/2020,Claiborne,Mississippi,28021,564,16
+11/15/2020,Clarke,Mississippi,28023,846,53
+11/15/2020,Clay,Mississippi,28025,806,26
+11/15/2020,Coahoma,Mississippi,28027,1377,40
+11/15/2020,Copiah,Mississippi,28029,1512,38
+11/15/2020,Covington,Mississippi,28031,1103,32
+11/15/2020,DeSoto,Mississippi,28033,8857,87
+11/15/2020,Forrest,Mississippi,28035,3426,83
+11/15/2020,Franklin,Mississippi,28037,278,4
+11/15/2020,George,Mississippi,28039,1159,22
+11/15/2020,Greene,Mississippi,28041,557,19
+11/15/2020,Grenada,Mississippi,28043,1307,43
+11/15/2020,Hancock,Mississippi,28045,1068,34
+11/15/2020,Harrison,Mississippi,28047,6432,101
+11/15/2020,Hinds,Mississippi,28049,8966,186
+11/15/2020,Holmes,Mississippi,28051,1196,60
+11/15/2020,Humphreys,Mississippi,28053,503,18
+11/15/2020,Issaquena,Mississippi,28055,108,4
+11/15/2020,Itawamba,Mississippi,28057,1359,33
+11/15/2020,Jackson,Mississippi,28059,5746,105
+11/15/2020,Jasper,Mississippi,28061,773,20
+11/15/2020,Jefferson,Mississippi,28063,299,11
+11/15/2020,Jefferson Davis,Mississippi,28065,511,15
+11/15/2020,Jones,Mississippi,28067,3253,86
+11/15/2020,Kemper,Mississippi,28069,361,15
+11/15/2020,Lafayette,Mississippi,28071,2867,45
+11/15/2020,Lamar,Mississippi,28073,2597,47
+11/15/2020,Lauderdale,Mississippi,28075,3042,141
+11/15/2020,Lawrence,Mississippi,28077,640,14
+11/15/2020,Leake,Mississippi,28079,1261,43
+11/15/2020,Lee,Mississippi,28081,4411,89
+11/15/2020,Leflore,Mississippi,28083,1915,88
+11/15/2020,Lincoln,Mississippi,28085,1657,64
+11/15/2020,Lowndes,Mississippi,28087,2127,62
+11/15/2020,Madison,Mississippi,28089,4300,97
+11/15/2020,Marion,Mississippi,28091,1040,46
+11/15/2020,Marshall,Mississippi,28093,1902,39
+11/15/2020,Monroe,Mississippi,28095,1753,76
+11/15/2020,Montgomery,Mississippi,28097,670,24
+11/15/2020,Neshoba,Mississippi,28099,2056,111
+11/15/2020,Newton,Mississippi,28101,970,29
+11/15/2020,Noxubee,Mississippi,28103,648,17
+11/15/2020,Oktibbeha,Mississippi,28105,2265,58
+11/15/2020,Panola,Mississippi,28107,1954,43
+11/15/2020,Pearl River,Mississippi,28109,1323,65
+11/15/2020,Perry,Mississippi,28111,595,24
+11/15/2020,Pike,Mississippi,28113,1533,58
+11/15/2020,Pontotoc,Mississippi,28115,1785,25
+11/15/2020,Prentiss,Mississippi,28117,1300,25
+11/15/2020,Quitman,Mississippi,28119,452,6
+11/15/2020,Rankin,Mississippi,28121,4784,90
+11/15/2020,Scott,Mississippi,28123,1388,29
+11/15/2020,Sharkey,Mississippi,28125,297,16
+11/15/2020,Simpson,Mississippi,28127,1354,52
+11/15/2020,Smith,Mississippi,28129,660,16
+11/15/2020,Stone,Mississippi,28131,629,14
+11/15/2020,Sunflower,Mississippi,28133,1791,54
+11/15/2020,Tallahatchie,Mississippi,28135,916,27
+11/15/2020,Tate,Mississippi,28137,1504,45
+11/15/2020,Tippah,Mississippi,28139,1109,28
+11/15/2020,Tishomingo,Mississippi,28141,985,41
+11/15/2020,Tunica,Mississippi,28143,575,18
+11/15/2020,Union,Mississippi,28145,1464,25
+11/15/2020,Walthall,Mississippi,28147,712,27
+11/15/2020,Warren,Mississippi,28149,1657,56
+11/15/2020,Washington,Mississippi,28151,2889,105
+11/15/2020,Wayne,Mississippi,28153,1109,22
+11/15/2020,Webster,Mississippi,28155,401,14
+11/15/2020,Wilkinson,Mississippi,28157,360,22
+11/15/2020,Winston,Mississippi,28159,1013,22
+11/15/2020,Yalobusha,Mississippi,28161,630,26
+11/15/2020,Yazoo,Mississippi,28163,1418,36
+11/15/2020,Adair,Missouri,29001,879,1
+11/15/2020,Andrew,Missouri,29003,617,8
+11/15/2020,Atchison,Missouri,29005,146,1
+11/15/2020,Audrain,Missouri,29007,1101,11
+11/15/2020,Barry,Missouri,29009,1190,19
+11/15/2020,Barton,Missouri,29011,555,4
+11/15/2020,Bates,Missouri,29013,383,8
+11/15/2020,Benton,Missouri,29015,674,7
+11/15/2020,Bollinger,Missouri,29017,691,6
+11/15/2020,Boone,Missouri,29019,8650,18
+11/15/2020,Buchanan,Missouri,29021,4931,54
+11/15/2020,Butler,Missouri,29023,1722,8
+11/15/2020,Caldwell,Missouri,29025,287,1
+11/15/2020,Callaway,Missouri,29027,2253,7
+11/15/2020,Camden,Missouri,29029,2077,43
+11/15/2020,Cape Girardeau,Missouri,29031,3961,60
+11/15/2020,Carroll,Missouri,29033,316,4
+11/15/2020,Carter,Missouri,29035,231,4
+11/15/2020,Cass,Missouri,29037,2911,35
+11/15/2020,Cedar,Missouri,29039,360,4
+11/15/2020,Chariton,Missouri,29041,177,0
+11/15/2020,Christian,Missouri,29043,3358,20
+11/15/2020,Clark,Missouri,29045,224,2
+11/15/2020,Clay,Missouri,29047,3652,58
+11/15/2020,Clinton,Missouri,29049,735,38
+11/15/2020,Cole,Missouri,29051,4923,36
+11/15/2020,Cooper,Missouri,29053,988,6
+11/15/2020,Crawford,Missouri,29055,961,10
+11/15/2020,Dade,Missouri,29057,347,24
+11/15/2020,Dallas,Missouri,29059,510,3
+11/15/2020,Daviess,Missouri,29061,287,5
+11/15/2020,DeKalb,Missouri,29063,452,9
+11/15/2020,Dent,Missouri,29065,376,4
+11/15/2020,Douglas,Missouri,29067,356,14
+11/15/2020,Dunklin,Missouri,29069,1463,13
+11/15/2020,Franklin,Missouri,29071,3836,58
+11/15/2020,Gasconade,Missouri,29073,371,24
+11/15/2020,Gentry,Missouri,29075,323,11
+11/15/2020,Greene,Missouri,29077,12253,176
+11/15/2020,Grundy,Missouri,29079,405,12
+11/15/2020,Harrison,Missouri,29081,303,1
+11/15/2020,Henry,Missouri,29083,791,8
+11/15/2020,Hickory,Missouri,29085,327,4
+11/15/2020,Holt,Missouri,29087,188,2
+11/15/2020,Howard,Missouri,29089,387,2
+11/15/2020,Howell,Missouri,29091,1438,22
+11/15/2020,Iron,Missouri,29093,166,0
+11/15/2020,Jackson,Missouri,29095,13748,153
+11/15/2020,Jasper,Missouri,29097,4233,54
+11/15/2020,Jefferson,Missouri,29099,8671,94
+11/15/2020,Johnson,Missouri,29101,2075,11
+11/15/2020,Joplin,Missouri,,2762,44
+11/15/2020,Kansas City,Missouri,,19083,244
+11/15/2020,Knox,Missouri,29103,102,1
+11/15/2020,Laclede,Missouri,29105,1530,28
+11/15/2020,Lafayette,Missouri,29107,1221,27
+11/15/2020,Lawrence,Missouri,29109,1585,32
+11/15/2020,Lewis,Missouri,29111,359,2
+11/15/2020,Lincoln,Missouri,29113,1817,7
+11/15/2020,Linn,Missouri,29115,249,10
+11/15/2020,Livingston,Missouri,29117,673,10
+11/15/2020,Macon,Missouri,29121,444,1
+11/15/2020,Madison,Missouri,29123,694,7
+11/15/2020,Maries,Missouri,29125,294,1
+11/15/2020,Marion,Missouri,29127,1391,15
+11/15/2020,McDonald,Missouri,29119,1449,16
+11/15/2020,Mercer,Missouri,29129,59,0
+11/15/2020,Miller,Missouri,29131,1257,21
+11/15/2020,Mississippi,Missouri,29133,580,6
+11/15/2020,Moniteau,Missouri,29135,1014,14
+11/15/2020,Monroe,Missouri,29137,292,3
+11/15/2020,Montgomery,Missouri,29139,260,5
+11/15/2020,Morgan,Missouri,29141,907,8
+11/15/2020,New Madrid,Missouri,29143,1112,23
+11/15/2020,Newton,Missouri,29145,2589,26
+11/15/2020,Nodaway,Missouri,29147,1635,11
+11/15/2020,Oregon,Missouri,29149,314,0
+11/15/2020,Osage,Missouri,29151,764,3
+11/15/2020,Ozark,Missouri,29153,257,1
+11/15/2020,Pemiscot,Missouri,29155,946,15
+11/15/2020,Perry,Missouri,29157,1257,8
+11/15/2020,Pettis,Missouri,29159,2660,28
+11/15/2020,Phelps,Missouri,29161,1287,34
+11/15/2020,Pike,Missouri,29163,654,8
+11/15/2020,Platte,Missouri,29165,1328,14
+11/15/2020,Polk,Missouri,29167,1457,19
+11/15/2020,Pulaski,Missouri,29169,1295,14
+11/15/2020,Putnam,Missouri,29171,96,1
+11/15/2020,Ralls,Missouri,29173,336,1
+11/15/2020,Randolph,Missouri,29175,989,4
+11/15/2020,Ray,Missouri,29177,540,2
+11/15/2020,Reynolds,Missouri,29179,213,2
+11/15/2020,Ripley,Missouri,29181,420,5
+11/15/2020,Saline,Missouri,29195,1337,12
+11/15/2020,Schuyler,Missouri,29197,110,0
+11/15/2020,Scotland,Missouri,29199,135,1
+11/15/2020,Scott,Missouri,29201,2045,33
+11/15/2020,Shannon,Missouri,29203,313,8
+11/15/2020,Shelby,Missouri,29205,158,1
+11/15/2020,St. Charles,Missouri,29183,16792,180
+11/15/2020,St. Clair,Missouri,29185,237,1
+11/15/2020,St. Francois,Missouri,29187,4193,36
+11/15/2020,St. Louis,Missouri,29189,40982,914
+11/15/2020,St. Louis city,Missouri,29510,10713,230
+11/15/2020,Ste. Genevieve,Missouri,29186,825,2
+11/15/2020,Stoddard,Missouri,29207,1226,17
+11/15/2020,Stone,Missouri,29209,964,13
+11/15/2020,Sullivan,Missouri,29211,483,5
+11/15/2020,Taney,Missouri,29213,2306,36
+11/15/2020,Texas,Missouri,29215,830,6
+11/15/2020,Vernon,Missouri,29217,537,4
+11/15/2020,Warren,Missouri,29219,1212,8
+11/15/2020,Washington,Missouri,29221,1135,21
+11/15/2020,Wayne,Missouri,29223,404,3
+11/15/2020,Webster,Missouri,29225,1506,23
+11/15/2020,Worth,Missouri,29227,48,0
+11/15/2020,Wright,Missouri,29229,687,11
+11/15/2020,Beaverhead,Montana,30001,445,2
+11/15/2020,Big Horn,Montana,30003,1638,46
+11/15/2020,Blaine,Montana,30005,464,13
+11/15/2020,Broadwater,Montana,30007,146,0
+11/15/2020,Carbon,Montana,30009,471,3
+11/15/2020,Carter,Montana,30011,98,3
+11/15/2020,Cascade,Montana,30013,3566,49
+11/15/2020,Chouteau,Montana,30015,203,1
+11/15/2020,Custer,Montana,30017,525,6
+11/15/2020,Daniels,Montana,30019,68,4
+11/15/2020,Dawson,Montana,30021,447,8
+11/15/2020,Deer Lodge,Montana,30023,603,9
+11/15/2020,Fallon,Montana,30025,156,0
+11/15/2020,Fergus,Montana,30027,422,2
+11/15/2020,Flathead,Montana,30029,5047,27
+11/15/2020,Gallatin,Montana,30031,5644,13
+11/15/2020,Garfield,Montana,30033,44,0
+11/15/2020,Glacier,Montana,30035,1114,18
+11/15/2020,Golden Valley,Montana,30037,20,0
+11/15/2020,Granite,Montana,30039,101,1
+11/15/2020,Hill,Montana,30041,1142,22
+11/15/2020,Jefferson,Montana,30043,310,0
+11/15/2020,Judith Basin,Montana,30045,38,0
+11/15/2020,Lake,Montana,30047,817,8
+11/15/2020,Lewis and Clark,Montana,30049,1785,9
+11/15/2020,Liberty,Montana,30051,47,1
+11/15/2020,Lincoln,Montana,30053,555,6
+11/15/2020,Madison,Montana,30057,325,2
+11/15/2020,McCone,Montana,30055,77,0
+11/15/2020,Meagher,Montana,30059,101,7
+11/15/2020,Mineral,Montana,30061,26,1
+11/15/2020,Missoula,Montana,30063,3482,36
+11/15/2020,Musselshell,Montana,30065,181,2
+11/15/2020,Park,Montana,30067,456,0
+11/15/2020,Petroleum,Montana,30069,5,0
+11/15/2020,Phillips,Montana,30071,226,4
+11/15/2020,Pondera,Montana,30073,234,1
+11/15/2020,Powder River,Montana,30075,75,5
+11/15/2020,Powell,Montana,30077,390,1
+11/15/2020,Prairie,Montana,30079,48,0
+11/15/2020,Ravalli,Montana,30081,774,5
+11/15/2020,Richland,Montana,30083,472,7
+11/15/2020,Roosevelt,Montana,30085,1131,36
+11/15/2020,Rosebud,Montana,30087,819,22
+11/15/2020,Sanders,Montana,30089,158,2
+11/15/2020,Sheridan,Montana,30091,201,0
+11/15/2020,Silver Bow,Montana,30093,1211,13
+11/15/2020,Stillwater,Montana,30095,351,4
+11/15/2020,Sweet Grass,Montana,30097,186,2
+11/15/2020,Teton,Montana,30099,134,2
+11/15/2020,Toole,Montana,30101,566,8
+11/15/2020,Treasure,Montana,30103,28,1
+11/15/2020,Valley,Montana,30105,489,5
+11/15/2020,Wheatland,Montana,30107,89,3
+11/15/2020,Wibaux,Montana,30109,61,0
+11/15/2020,Yellowstone,Montana,30111,8946,105
+11/15/2020,Adams,Nebraska,31001,1235,18
+11/15/2020,Antelope,Nebraska,31003,252,1
+11/15/2020,Arthur,Nebraska,31005,14,0
+11/15/2020,Banner,Nebraska,31007,7,0
+11/15/2020,Blaine,Nebraska,31009,10,0
+11/15/2020,Boone,Nebraska,31011,241,0
+11/15/2020,Box Butte,Nebraska,31013,393,2
+11/15/2020,Boyd,Nebraska,31015,93,2
+11/15/2020,Brown,Nebraska,31017,127,0
+11/15/2020,Buffalo,Nebraska,31019,2856,24
+11/15/2020,Burt,Nebraska,31021,294,1
+11/15/2020,Butler,Nebraska,31023,409,3
+11/15/2020,Cass,Nebraska,31025,838,5
+11/15/2020,Cedar,Nebraska,31027,241,1
+11/15/2020,Chase,Nebraska,31029,228,1
+11/15/2020,Cherry,Nebraska,31031,142,4
+11/15/2020,Cheyenne,Nebraska,31033,338,0
+11/15/2020,Clay,Nebraska,31035,280,2
+11/15/2020,Colfax,Nebraska,31037,1143,7
+11/15/2020,Cuming,Nebraska,31039,456,3
+11/15/2020,Custer,Nebraska,31041,347,7
+11/15/2020,Dakota,Nebraska,31043,2864,49
+11/15/2020,Dawes,Nebraska,31045,378,7
+11/15/2020,Dawson,Nebraska,31047,1697,15
+11/15/2020,Deuel,Nebraska,31049,27,0
+11/15/2020,Dixon,Nebraska,31051,270,3
+11/15/2020,Dodge,Nebraska,31053,2339,26
+11/15/2020,Douglas,Nebraska,31055,30829,267
+11/15/2020,Dundy,Nebraska,31057,47,2
+11/15/2020,Fillmore,Nebraska,31059,260,3
+11/15/2020,Franklin,Nebraska,31061,141,2
+11/15/2020,Frontier,Nebraska,31063,74,1
+11/15/2020,Furnas,Nebraska,31065,188,3
+11/15/2020,Gage,Nebraska,31067,1001,6
+11/15/2020,Garden,Nebraska,31069,64,0
+11/15/2020,Garfield,Nebraska,31071,69,0
+11/15/2020,Gosper,Nebraska,31073,94,0
+11/15/2020,Grant,Nebraska,31075,10,1
+11/15/2020,Greeley,Nebraska,31077,85,0
+11/15/2020,Hall,Nebraska,31079,3597,61
+11/15/2020,Hamilton,Nebraska,31081,381,14
+11/15/2020,Harlan,Nebraska,31083,103,0
+11/15/2020,Hayes,Nebraska,31085,32,0
+11/15/2020,Hitchcock,Nebraska,31087,78,1
+11/15/2020,Holt,Nebraska,31089,459,8
+11/15/2020,Hooker,Nebraska,31091,39,1
+11/15/2020,Howard,Nebraska,31093,247,6
+11/15/2020,Jefferson,Nebraska,31095,242,0
+11/15/2020,Johnson,Nebraska,31097,266,1
+11/15/2020,Kearney,Nebraska,31099,382,0
+11/15/2020,Keith,Nebraska,31101,226,0
+11/15/2020,Keya Paha,Nebraska,31103,17,0
+11/15/2020,Kimball,Nebraska,31105,109,0
+11/15/2020,Knox,Nebraska,31107,354,2
+11/15/2020,Lancaster,Nebraska,31109,12875,59
+11/15/2020,Lincoln,Nebraska,31111,1757,8
+11/15/2020,Logan,Nebraska,31113,21,0
+11/15/2020,Loup,Nebraska,31115,16,0
+11/15/2020,Madison,Nebraska,31119,2309,14
+11/15/2020,McPherson,Nebraska,31117,12,0
+11/15/2020,Merrick,Nebraska,31121,327,2
+11/15/2020,Morrill,Nebraska,31123,209,0
+11/15/2020,Nance,Nebraska,31125,195,1
+11/15/2020,Nemaha,Nebraska,31127,249,0
+11/15/2020,Nuckolls,Nebraska,31129,155,0
+11/15/2020,Otoe,Nebraska,31131,583,1
+11/15/2020,Pawnee,Nebraska,31133,55,0
+11/15/2020,Perkins,Nebraska,31135,103,10
+11/15/2020,Phelps,Nebraska,31137,428,3
+11/15/2020,Pierce,Nebraska,31139,337,12
+11/15/2020,Platte,Nebraska,31141,2524,13
+11/15/2020,Polk,Nebraska,31143,270,7
+11/15/2020,Red Willow,Nebraska,31145,413,2
+11/15/2020,Richardson,Nebraska,31147,230,2
+11/15/2020,Rock,Nebraska,31149,70,1
+11/15/2020,Saline,Nebraska,31151,1231,2
+11/15/2020,Sarpy,Nebraska,31153,8656,46
+11/15/2020,Saunders,Nebraska,31155,983,6
+11/15/2020,Scotts Bluff,Nebraska,31157,2251,13
+11/15/2020,Seward,Nebraska,31159,657,3
+11/15/2020,Sheridan,Nebraska,31161,210,0
+11/15/2020,Sherman,Nebraska,31163,98,3
+11/15/2020,Sioux,Nebraska,31165,14,0
+11/15/2020,Stanton,Nebraska,31167,145,0
+11/15/2020,Thayer,Nebraska,31169,156,1
+11/15/2020,Thomas,Nebraska,31171,26,0
+11/15/2020,Thurston,Nebraska,31173,458,4
+11/15/2020,Unknown,Nebraska,,645,0
+11/15/2020,Valley,Nebraska,31175,134,1
+11/15/2020,Washington,Nebraska,31177,862,9
+11/15/2020,Wayne,Nebraska,31179,603,3
+11/15/2020,Webster,Nebraska,31181,155,2
+11/15/2020,Wheeler,Nebraska,31183,7,0
+11/15/2020,York,Nebraska,31185,819,3
+11/15/2020,Carson City,Nevada,32510,1051,11
+11/15/2020,Churchill,Nevada,32001,517,4
+11/15/2020,Clark,Nevada,32003,95517,1618
+11/15/2020,Douglas,Nevada,32005,477,2
+11/15/2020,Elko,Nevada,32007,2016,15
+11/15/2020,Esmeralda,Nevada,32009,3,0
+11/15/2020,Eureka,Nevada,32011,21,0
+11/15/2020,Humboldt,Nevada,32013,214,4
+11/15/2020,Lander,Nevada,32015,139,4
+11/15/2020,Lincoln,Nevada,32017,113,1
+11/15/2020,Lyon,Nevada,32019,716,14
+11/15/2020,Mineral,Nevada,32021,32,1
+11/15/2020,Nye,Nevada,32023,1032,19
+11/15/2020,Pershing,Nevada,32027,39,0
+11/15/2020,Storey,Nevada,32029,25,0
+11/15/2020,Washoe,Nevada,32031,18626,219
+11/15/2020,White Pine,Nevada,32033,206,1
+11/15/2020,Belknap,New Hampshire,33001,407,6
+11/15/2020,Carroll,New Hampshire,33003,232,2
+11/15/2020,Cheshire,New Hampshire,33005,324,3
+11/15/2020,Coos,New Hampshire,33007,230,3
+11/15/2020,Grafton,New Hampshire,33009,399,2
+11/15/2020,Hillsborough,New Hampshire,33011,6781,328
+11/15/2020,Merrimack,New Hampshire,33013,1249,32
+11/15/2020,Rockingham,New Hampshire,33015,3512,105
+11/15/2020,Strafford,New Hampshire,33017,1190,14
+11/15/2020,Sullivan,New Hampshire,33019,166,4
+11/15/2020,Unknown,New Hampshire,,181,0
+11/15/2020,Atlantic,New Jersey,34001,6568,273
+11/15/2020,Bergen,New Jersey,34003,29469,2083
+11/15/2020,Burlington,New Jersey,34005,10568,526
+11/15/2020,Camden,New Jersey,34007,14916,649
+11/15/2020,Cape May,New Jersey,34009,1359,105
+11/15/2020,Cumberland,New Jersey,34011,4463,170
+11/15/2020,Essex,New Jersey,34013,30446,2172
+11/15/2020,Gloucester,New Jersey,34015,7075,255
+11/15/2020,Hudson,New Jersey,34017,27052,1544
+11/15/2020,Hunterdon,New Jersey,34019,2035,127
+11/15/2020,Mercer,New Jersey,34021,11096,647
+11/15/2020,Middlesex,New Jersey,34023,25947,1464
+11/15/2020,Monmouth,New Jersey,34025,16781,879
+11/15/2020,Morris,New Jersey,34027,11341,850
+11/15/2020,Ocean,New Jersey,34029,18701,1087
+11/15/2020,Passaic,New Jersey,34031,25017,1279
+11/15/2020,Salem,New Jersey,34033,1357,90
+11/15/2020,Somerset,New Jersey,34035,7723,604
+11/15/2020,Sussex,New Jersey,34037,2116,198
+11/15/2020,Union,New Jersey,34039,24324,1393
+11/15/2020,Unknown,New Jersey,,684,0
+11/15/2020,Warren,New Jersey,34041,2037,171
+11/15/2020,Bernalillo,New Mexico,35001,16449,260
+11/15/2020,Catron,New Mexico,35003,14,1
+11/15/2020,Chaves,New Mexico,35005,3284,22
+11/15/2020,Cibola,New Mexico,35006,1378,31
+11/15/2020,Colfax,New Mexico,35007,1,1
+11/15/2020,Curry,New Mexico,35009,2317,14
+11/15/2020,De Baca,New Mexico,35011,23,0
+11/15/2020,Do?ña Ana,New Mexico,35013,9960,135
+11/15/2020,Eddy,New Mexico,35015,2131,32
+11/15/2020,Grant,New Mexico,35017,292,6
+11/15/2020,Guadalupe,New Mexico,35019,78,1
+11/15/2020,Harding,New Mexico,35021,4,0
+11/15/2020,Hidalgo,New Mexico,35023,143,3
+11/15/2020,Lea,New Mexico,35025,3076,34
+11/15/2020,Lincoln,New Mexico,35027,518,7
+11/15/2020,Los Alamos,New Mexico,35028,87,0
+11/15/2020,Luna,New Mexico,35029,1528,17
+11/15/2020,McKinley,New Mexico,35031,5276,265
+11/15/2020,Mora,New Mexico,35033,20,0
+11/15/2020,Otero,New Mexico,35035,1905,22
+11/15/2020,Quay,New Mexico,35037,150,2
+11/15/2020,Rio Arriba,New Mexico,35039,770,19
+11/15/2020,Roosevelt,New Mexico,35041,723,11
+11/15/2020,San Juan,New Mexico,35045,4436,208
+11/15/2020,San Miguel,New Mexico,35047,285,0
+11/15/2020,Sandoval,New Mexico,35043,2984,61
+11/15/2020,Santa Fe,New Mexico,35049,3186,22
+11/15/2020,Sierra,New Mexico,35051,196,2
+11/15/2020,Socorro,New Mexico,35053,393,19
+11/15/2020,Taos,New Mexico,35055,458,6
+11/15/2020,Torrance,New Mexico,35057,209,1
+11/15/2020,Union,New Mexico,35059,65,2
+11/15/2020,Unknown,New Mexico,,86,0
+11/15/2020,Valencia,New Mexico,35061,1776,11
+11/15/2020,Albany,New York,36001,4529,135
+11/15/2020,Allegany,New York,36003,644,35
+11/15/2020,Broome,New York,36007,4394,123
+11/15/2020,Cattaraugus,New York,36009,678,21
+11/15/2020,Cayuga,New York,36011,632,5
+11/15/2020,Chautauqua,New York,36013,1239,5
+11/15/2020,Chemung,New York,36015,2362,27
+11/15/2020,Chenango,New York,36017,501,7
+11/15/2020,Clinton,New York,36019,377,5
+11/15/2020,Columbia,New York,36021,881,55
+11/15/2020,Cortland,New York,36023,750,1
+11/15/2020,Delaware,New York,36025,277,6
+11/15/2020,Dutchess,New York,36027,6185,174
+11/15/2020,Erie,New York,36029,17746,694
+11/15/2020,Essex,New York,36031,238,14
+11/15/2020,Franklin,New York,36033,188,3
+11/15/2020,Fulton,New York,36035,393,28
+11/15/2020,Genesee,New York,36037,603,6
+11/15/2020,Greene,New York,36039,585,16
+11/15/2020,Hamilton,New York,36041,26,1
+11/15/2020,Herkimer,New York,36043,491,10
+11/15/2020,Jefferson,New York,36045,324,1
+11/15/2020,Lewis,New York,36049,237,5
+11/15/2020,Livingston,New York,36051,488,7
+11/15/2020,Madison,New York,36053,718,9
+11/15/2020,Monroe,New York,36055,10454,269
+11/15/2020,Montgomery,New York,36057,322,11
+11/15/2020,Nassau,New York,36059,54014,2231
+11/15/2020,New York City,New York,,286785,24124
+11/15/2020,Niagara,New York,36063,2708,96
+11/15/2020,Oneida,New York,36065,3569,139
+11/15/2020,Onondaga,New York,36067,7749,196
+11/15/2020,Ontario,New York,36069,955,30
+11/15/2020,Orange,New York,36071,15139,425
+11/15/2020,Orleans,New York,36073,515,56
+11/15/2020,Oswego,New York,36075,968,4
+11/15/2020,Otsego,New York,36077,463,5
+11/15/2020,Putnam,New York,36079,2153,64
+11/15/2020,Rensselaer,New York,36083,1321,45
+11/15/2020,Rockland,New York,36087,19843,518
+11/15/2020,Saratoga,New York,36091,1680,17
+11/15/2020,Schenectady,New York,36093,1871,52
+11/15/2020,Schoharie,New York,36095,143,2
+11/15/2020,Schuyler,New York,36097,228,3
+11/15/2020,Seneca,New York,36099,209,2
+11/15/2020,St. Lawrence,New York,36089,568,6
+11/15/2020,Steuben,New York,36101,1416,72
+11/15/2020,Suffolk,New York,36103,53308,2026
+11/15/2020,Sullivan,New York,36105,1979,38
+11/15/2020,Tioga,New York,36107,951,44
+11/15/2020,Tompkins,New York,36109,806,0
+11/15/2020,Ulster,New York,36111,2788,87
+11/15/2020,Warren,New York,36113,507,30
+11/15/2020,Washington,New York,36115,403,14
+11/15/2020,Wayne,New York,36117,757,10
+11/15/2020,Westchester,New York,36119,44345,1488
+11/15/2020,Wyoming,New York,36121,343,5
+11/15/2020,Yates,New York,36123,206,6
+11/15/2020,Alamance,North Carolina,37001,6069,96
+11/15/2020,Alexander,North Carolina,37003,1280,13
+11/15/2020,Alleghany,North Carolina,37005,359,1
+11/15/2020,Anson,North Carolina,37007,815,13
+11/15/2020,Ashe,North Carolina,37009,629,3
+11/15/2020,Avery,North Carolina,37011,724,2
+11/15/2020,Beaufort,North Carolina,37013,1544,52
+11/15/2020,Bertie,North Carolina,37015,795,21
+11/15/2020,Bladen,North Carolina,37017,1187,19
+11/15/2020,Brunswick,North Carolina,37019,2554,55
+11/15/2020,Buncombe,North Carolina,37021,4800,120
+11/15/2020,Burke,North Carolina,37023,3214,60
+11/15/2020,Cabarrus,North Carolina,37025,5864,101
+11/15/2020,Caldwell,North Carolina,37027,3036,21
+11/15/2020,Camden,North Carolina,37029,158,3
+11/15/2020,Carteret,North Carolina,37031,1435,14
+11/15/2020,Caswell,North Carolina,37033,723,6
+11/15/2020,Catawba,North Carolina,37035,5613,71
+11/15/2020,Chatham,North Carolina,37037,2171,65
+11/15/2020,Cherokee,North Carolina,37039,854,15
+11/15/2020,Chowan,North Carolina,37041,572,18
+11/15/2020,Clay,North Carolina,37043,265,6
+11/15/2020,Cleveland,North Carolina,37045,3765,95
+11/15/2020,Columbus,North Carolina,37047,2183,67
+11/15/2020,Craven,North Carolina,37049,2693,66
+11/15/2020,Cumberland,North Carolina,37051,8214,109
+11/15/2020,Currituck,North Carolina,37053,276,4
+11/15/2020,Dare,North Carolina,37055,523,3
+11/15/2020,Davidson,North Carolina,37057,4423,48
+11/15/2020,Davie,North Carolina,37059,970,10
+11/15/2020,Duplin,North Carolina,37061,3053,56
+11/15/2020,Durham,North Carolina,37063,10358,106
+11/15/2020,Edgecombe,North Carolina,37065,2291,66
+11/15/2020,Forsyth,North Carolina,37067,10938,143
+11/15/2020,Franklin,North Carolina,37069,1713,32
+11/15/2020,Gaston,North Carolina,37071,8874,163
+11/15/2020,Gates,North Carolina,37073,184,5
+11/15/2020,Graham,North Carolina,37075,265,10
+11/15/2020,Granville,North Carolina,37077,2283,54
+11/15/2020,Greene,North Carolina,37079,1097,21
+11/15/2020,Guilford,North Carolina,37081,14022,218
+11/15/2020,Halifax,North Carolina,37083,1714,32
+11/15/2020,Harnett,North Carolina,37085,3414,77
+11/15/2020,Haywood,North Carolina,37087,865,37
+11/15/2020,Henderson,North Carolina,37089,2796,70
+11/15/2020,Hertford,North Carolina,37091,912,38
+11/15/2020,Hoke,North Carolina,37093,1759,28
+11/15/2020,Hyde,North Carolina,37095,179,5
+11/15/2020,Iredell,North Carolina,37097,4550,39
+11/15/2020,Jackson,North Carolina,37099,1277,8
+11/15/2020,Johnston,North Carolina,37101,6622,70
+11/15/2020,Jones,North Carolina,37103,219,15
+11/15/2020,Lee,North Carolina,37105,2281,29
+11/15/2020,Lenoir,North Carolina,37107,1767,46
+11/15/2020,Lincoln,North Carolina,37109,2916,16
+11/15/2020,Macon,North Carolina,37113,846,8
+11/15/2020,Madison,North Carolina,37115,390,7
+11/15/2020,Martin,North Carolina,37117,732,20
+11/15/2020,McDowell,North Carolina,37111,1571,34
+11/15/2020,Mecklenburg,North Carolina,37119,38310,420
+11/15/2020,Mitchell,North Carolina,37121,402,4
+11/15/2020,Montgomery,North Carolina,37123,1282,40
+11/15/2020,Moore,North Carolina,37125,2556,58
+11/15/2020,Nash,North Carolina,37127,3962,88
+11/15/2020,New Hanover,North Carolina,37129,6134,47
+11/15/2020,Northampton,North Carolina,37131,671,22
+11/15/2020,Onslow,North Carolina,37133,4176,36
+11/15/2020,Orange,North Carolina,37135,3502,61
+11/15/2020,Pamlico,North Carolina,37137,357,3
+11/15/2020,Pasquotank,North Carolina,37139,990,35
+11/15/2020,Pender,North Carolina,37141,1616,17
+11/15/2020,Perquimans,North Carolina,37143,288,4
+11/15/2020,Person,North Carolina,37145,828,10
+11/15/2020,Pitt,North Carolina,37147,7015,44
+11/15/2020,Polk,North Carolina,37149,430,13
+11/15/2020,Randolph,North Carolina,37151,4626,73
+11/15/2020,Richmond,North Carolina,37153,1640,36
+11/15/2020,Robeson,North Carolina,37155,6702,103
+11/15/2020,Rockingham,North Carolina,37157,2556,19
+11/15/2020,Rowan,North Carolina,37159,4870,124
+11/15/2020,Rutherford,North Carolina,37161,1982,80
+11/15/2020,Sampson,North Carolina,37163,3206,32
+11/15/2020,Scotland,North Carolina,37165,1760,35
+11/15/2020,Stanly,North Carolina,37167,2682,78
+11/15/2020,Stokes,North Carolina,37169,905,13
+11/15/2020,Surry,North Carolina,37171,2351,39
+11/15/2020,Swain,North Carolina,37173,335,5
+11/15/2020,Transylvania,North Carolina,37175,485,9
+11/15/2020,Tyrrell,North Carolina,37177,135,3
+11/15/2020,Union,North Carolina,37179,6818,67
+11/15/2020,Vance,North Carolina,37181,1444,47
+11/15/2020,Wake,North Carolina,37183,24740,280
+11/15/2020,Warren,North Carolina,37185,549,7
+11/15/2020,Washington,North Carolina,37187,285,8
+11/15/2020,Watauga,North Carolina,37189,1580,6
+11/15/2020,Wayne,North Carolina,37191,5165,105
+11/15/2020,Wilkes,North Carolina,37193,2250,43
+11/15/2020,Wilson,North Carolina,37195,3554,72
+11/15/2020,Yadkin,North Carolina,37197,1250,12
+11/15/2020,Yancey,North Carolina,37199,421,2
+11/15/2020,Adams,North Dakota,38001,130,0
+11/15/2020,Barnes,North Dakota,38003,726,4
+11/15/2020,Benson,North Dakota,38005,663,13
+11/15/2020,Billings,North Dakota,38007,37,0
+11/15/2020,Bottineau,North Dakota,38009,433,18
+11/15/2020,Bowman,North Dakota,38011,170,3
+11/15/2020,Burke,North Dakota,38013,146,1
+11/15/2020,Burleigh,North Dakota,38015,9897,101
+11/15/2020,Cass,North Dakota,38017,13359,105
+11/15/2020,Cavalier,North Dakota,38019,265,2
+11/15/2020,Dickey,North Dakota,38021,488,21
+11/15/2020,Divide,North Dakota,38023,105,1
+11/15/2020,Dunn,North Dakota,38025,248,6
+11/15/2020,Eddy,North Dakota,38027,307,3
+11/15/2020,Emmons,North Dakota,38029,321,9
+11/15/2020,Foster,North Dakota,38031,340,2
+11/15/2020,Golden Valley,North Dakota,38033,137,0
+11/15/2020,Grand Forks,North Dakota,38035,6757,32
+11/15/2020,Grant,North Dakota,38037,118,4
+11/15/2020,Griggs,North Dakota,38039,176,1
+11/15/2020,Hettinger,North Dakota,38041,183,3
+11/15/2020,Kidder,North Dakota,38043,152,5
+11/15/2020,LaMoure,North Dakota,38045,293,14
+11/15/2020,Logan,North Dakota,38047,144,4
+11/15/2020,McHenry,North Dakota,38049,368,16
+11/15/2020,McIntosh,North Dakota,38051,210,5
+11/15/2020,McKenzie,North Dakota,38053,763,5
+11/15/2020,McLean,North Dakota,38055,837,13
+11/15/2020,Mercer,North Dakota,38057,712,5
+11/15/2020,Morton,North Dakota,38059,3355,62
+11/15/2020,Mountrail,North Dakota,38061,843,12
+11/15/2020,Nelson,North Dakota,38063,292,8
+11/15/2020,Oliver,North Dakota,38065,107,2
+11/15/2020,Pembina,North Dakota,38067,474,2
+11/15/2020,Pierce,North Dakota,38069,296,4
+11/15/2020,Ramsey,North Dakota,38071,881,7
+11/15/2020,Ransom,North Dakota,38073,348,5
+11/15/2020,Renville,North Dakota,38075,163,2
+11/15/2020,Richland,North Dakota,38077,866,5
+11/15/2020,Rolette,North Dakota,38079,1029,12
+11/15/2020,Sargent,North Dakota,38081,220,3
+11/15/2020,Sheridan,North Dakota,38083,69,1
+11/15/2020,Sioux,North Dakota,38085,380,5
+11/15/2020,Slope,North Dakota,38087,19,0
+11/15/2020,Stark,North Dakota,38089,3012,36
+11/15/2020,Steele,North Dakota,38091,90,1
+11/15/2020,Stutsman,North Dakota,38093,1949,28
+11/15/2020,Towner,North Dakota,38095,169,8
+11/15/2020,Traill,North Dakota,38097,569,10
+11/15/2020,Unknown,North Dakota,,6,6
+11/15/2020,Walsh,North Dakota,38099,1173,7
+11/15/2020,Ward,North Dakota,38101,6158,95
+11/15/2020,Wells,North Dakota,38103,272,3
+11/15/2020,Williams,North Dakota,38105,2577,22
+11/15/2020,Saipan,Northern Mariana Islands,69110,98,2
+11/15/2020,Tinian,Northern Mariana Islands,69120,2,0
+11/15/2020,Adams,Ohio,39001,510,7
+11/15/2020,Allen,Ohio,39003,3814,81
+11/15/2020,Ashland,Ohio,39005,772,20
+11/15/2020,Ashtabula,Ohio,39007,1543,48
+11/15/2020,Athens,Ohio,39009,1636,4
+11/15/2020,Auglaize,Ohio,39011,1867,21
+11/15/2020,Belmont,Ohio,39013,1278,28
+11/15/2020,Brown,Ohio,39015,731,4
+11/15/2020,Butler,Ohio,39017,12362,139
+11/15/2020,Carroll,Ohio,39019,343,10
+11/15/2020,Champaign,Ohio,39021,712,4
+11/15/2020,Clark,Ohio,39023,4145,62
+11/15/2020,Clermont,Ohio,39025,4396,42
+11/15/2020,Clinton,Ohio,39027,849,14
+11/15/2020,Columbiana,Ohio,39029,2811,92
+11/15/2020,Coshocton,Ohio,39031,639,13
+11/15/2020,Crawford,Ohio,39033,917,14
+11/15/2020,Cuyahoga,Ohio,39035,29234,719
+11/15/2020,Darke,Ohio,39037,1701,55
+11/15/2020,Defiance,Ohio,39039,1035,16
+11/15/2020,Delaware,Ohio,39041,4281,31
+11/15/2020,Erie,Ohio,39043,1702,61
+11/15/2020,Fairfield,Ohio,39045,4299,59
+11/15/2020,Fayette,Ohio,39047,725,16
+11/15/2020,Franklin,Ohio,39049,42896,651
+11/15/2020,Fulton,Ohio,39051,976,18
+11/15/2020,Gallia,Ohio,39053,519,13
+11/15/2020,Geauga,Ohio,39055,1497,51
+11/15/2020,Greene,Ohio,39057,4150,59
+11/15/2020,Guernsey,Ohio,39059,648,8
+11/15/2020,Hamilton,Ohio,39061,24998,362
+11/15/2020,Hancock,Ohio,39063,1855,33
+11/15/2020,Hardin,Ohio,39065,662,17
+11/15/2020,Harrison,Ohio,39067,144,3
+11/15/2020,Henry,Ohio,39069,809,21
+11/15/2020,Highland,Ohio,39071,799,16
+11/15/2020,Hocking,Ohio,39073,479,10
+11/15/2020,Holmes,Ohio,39075,1241,30
+11/15/2020,Huron,Ohio,39077,1107,18
+11/15/2020,Jackson,Ohio,39079,746,10
+11/15/2020,Jefferson,Ohio,39081,805,4
+11/15/2020,Knox,Ohio,39083,868,18
+11/15/2020,Lake,Ohio,39085,4721,62
+11/15/2020,Lawrence,Ohio,39087,1535,33
+11/15/2020,Licking,Ohio,39089,4203,70
+11/15/2020,Logan,Ohio,39091,918,6
+11/15/2020,Lorain,Ohio,39093,4711,94
+11/15/2020,Lucas,Ohio,39095,11765,399
+11/15/2020,Madison,Ohio,39097,1312,18
+11/15/2020,Mahoning,Ohio,39099,5492,295
+11/15/2020,Marion,Ohio,39101,4098,51
+11/15/2020,Medina,Ohio,39103,3395,51
+11/15/2020,Meigs,Ohio,39105,300,12
+11/15/2020,Mercer,Ohio,39107,2476,37
+11/15/2020,Miami,Ohio,39109,3343,65
+11/15/2020,Monroe,Ohio,39111,251,19
+11/15/2020,Montgomery,Ohio,39113,16412,211
+11/15/2020,Morgan,Ohio,39115,161,1
+11/15/2020,Morrow,Ohio,39117,664,2
+11/15/2020,Muskingum,Ohio,39119,1750,9
+11/15/2020,Noble,Ohio,39121,451,14
+11/15/2020,Ottawa,Ohio,39123,933,30
+11/15/2020,Paulding,Ohio,39125,470,8
+11/15/2020,Perry,Ohio,39127,592,12
+11/15/2020,Pickaway,Ohio,39129,3668,46
+11/15/2020,Pike,Ohio,39131,572,1
+11/15/2020,Portage,Ohio,39133,2695,69
+11/15/2020,Preble,Ohio,39135,1177,21
+11/15/2020,Putnam,Ohio,39137,1962,41
+11/15/2020,Richland,Ohio,39139,2351,26
+11/15/2020,Ross,Ohio,39141,2069,55
+11/15/2020,Sandusky,Ohio,39143,1231,25
+11/15/2020,Scioto,Ohio,39145,1523,12
+11/15/2020,Seneca,Ohio,39147,1275,15
+11/15/2020,Shelby,Ohio,39149,1513,15
+11/15/2020,Stark,Ohio,39151,6568,192
+11/15/2020,Summit,Ohio,39153,10529,290
+11/15/2020,Trumbull,Ohio,39155,3852,139
+11/15/2020,Tuscarawas,Ohio,39157,2333,51
+11/15/2020,Union,Ohio,39159,1477,3
+11/15/2020,Van Wert,Ohio,39161,656,5
+11/15/2020,Vinton,Ohio,39163,177,5
+11/15/2020,Warren,Ohio,39165,6538,72
+11/15/2020,Washington,Ohio,39167,833,27
+11/15/2020,Wayne,Ohio,39169,2655,85
+11/15/2020,Williams,Ohio,39171,797,6
+11/15/2020,Wood,Ohio,39173,3658,105
+11/15/2020,Wyandot,Ohio,39175,533,15
+11/15/2020,Adair,Oklahoma,40001,1059,13
+11/15/2020,Alfalfa,Oklahoma,40003,164,0
+11/15/2020,Atoka,Oklahoma,40005,627,1
+11/15/2020,Beaver,Oklahoma,40007,137,1
+11/15/2020,Beckham,Oklahoma,40009,1080,16
+11/15/2020,Blaine,Oklahoma,40011,289,2
+11/15/2020,Bryan,Oklahoma,40013,2328,17
+11/15/2020,Caddo,Oklahoma,40015,1434,27
+11/15/2020,Canadian,Oklahoma,40017,5443,24
+11/15/2020,Carter,Oklahoma,40019,1215,13
+11/15/2020,Cherokee,Oklahoma,40021,1804,10
+11/15/2020,Choctaw,Oklahoma,40023,584,2
+11/15/2020,Cimarron,Oklahoma,40025,55,0
+11/15/2020,Cleveland,Oklahoma,40027,10461,116
+11/15/2020,Coal,Oklahoma,40029,217,0
+11/15/2020,Comanche,Oklahoma,40031,3503,26
+11/15/2020,Cotton,Oklahoma,40033,143,3
+11/15/2020,Craig,Oklahoma,40035,789,2
+11/15/2020,Creek,Oklahoma,40037,2069,41
+11/15/2020,Custer,Oklahoma,40039,1433,11
+11/15/2020,Delaware,Oklahoma,40041,1621,35
+11/15/2020,Dewey,Oklahoma,40043,138,1
+11/15/2020,Ellis,Oklahoma,40045,89,0
+11/15/2020,Garfield,Oklahoma,40047,3028,33
+11/15/2020,Garvin,Oklahoma,40049,1198,8
+11/15/2020,Grady,Oklahoma,40051,2094,19
+11/15/2020,Grant,Oklahoma,40053,165,3
+11/15/2020,Greer,Oklahoma,40055,197,8
+11/15/2020,Harmon,Oklahoma,40057,93,0
+11/15/2020,Harper,Oklahoma,40059,112,2
+11/15/2020,Haskell,Oklahoma,40061,557,6
+11/15/2020,Hughes,Oklahoma,40063,501,7
+11/15/2020,Jackson,Oklahoma,40065,1499,22
+11/15/2020,Jefferson,Oklahoma,40067,126,1
+11/15/2020,Johnston,Oklahoma,40069,420,4
+11/15/2020,Kay,Oklahoma,40071,1252,20
+11/15/2020,Kingfisher,Oklahoma,40073,711,6
+11/15/2020,Kiowa,Oklahoma,40075,256,5
+11/15/2020,Latimer,Oklahoma,40077,275,3
+11/15/2020,Le Flore,Oklahoma,40079,2051,26
+11/15/2020,Lincoln,Oklahoma,40081,1055,23
+11/15/2020,Logan,Oklahoma,40083,1102,3
+11/15/2020,Love,Oklahoma,40085,414,1
+11/15/2020,Major,Oklahoma,40093,325,2
+11/15/2020,Marshall,Oklahoma,40095,515,2
+11/15/2020,Mayes,Oklahoma,40097,1236,17
+11/15/2020,McClain,Oklahoma,40087,1905,16
+11/15/2020,McCurtain,Oklahoma,40089,1986,43
+11/15/2020,McIntosh,Oklahoma,40091,669,12
+11/15/2020,Murray,Oklahoma,40099,465,3
+11/15/2020,Muskogee,Oklahoma,40101,3216,29
+11/15/2020,Noble,Oklahoma,40103,326,3
+11/15/2020,Nowata,Oklahoma,40105,342,4
+11/15/2020,Okfuskee,Oklahoma,40107,746,11
+11/15/2020,Oklahoma,Oklahoma,40109,31159,260
+11/15/2020,Okmulgee,Oklahoma,40111,1540,15
+11/15/2020,Osage,Oklahoma,40113,1679,17
+11/15/2020,Ottawa,Oklahoma,40115,1499,22
+11/15/2020,Pawnee,Oklahoma,40117,444,5
+11/15/2020,Payne,Oklahoma,40119,3517,17
+11/15/2020,Pittsburg,Oklahoma,40121,1601,21
+11/15/2020,Pontotoc,Oklahoma,40123,1411,8
+11/15/2020,Pottawatomie,Oklahoma,40125,2760,21
+11/15/2020,Pushmataha,Oklahoma,40127,366,6
+11/15/2020,Roger Mills,Oklahoma,40129,113,5
+11/15/2020,Rogers,Oklahoma,40131,3227,57
+11/15/2020,Seminole,Oklahoma,40133,1073,8
+11/15/2020,Sequoyah,Oklahoma,40135,1570,14
+11/15/2020,Stephens,Oklahoma,40137,1149,12
+11/15/2020,Texas,Oklahoma,40139,2091,11
+11/15/2020,Tillman,Oklahoma,40141,234,4
+11/15/2020,Tulsa,Oklahoma,40143,27046,235
+11/15/2020,Unknown,Oklahoma,,57,0
+11/15/2020,Wagoner,Oklahoma,40145,2284,35
+11/15/2020,Washington,Oklahoma,40147,1634,43
+11/15/2020,Washita,Oklahoma,40149,267,2
+11/15/2020,Woods,Oklahoma,40151,336,1
+11/15/2020,Woodward,Oklahoma,40153,1552,6
+11/15/2020,Baker,Oregon,41001,215,3
+11/15/2020,Benton,Oregon,41003,617,7
+11/15/2020,Clackamas,Oregon,41005,4590,74
+11/15/2020,Clatsop,Oregon,41007,303,0
+11/15/2020,Columbia,Oregon,41009,353,2
+11/15/2020,Coos,Oregon,41011,338,1
+11/15/2020,Crook,Oregon,41013,168,5
+11/15/2020,Curry,Oregon,41015,83,2
+11/15/2020,Deschutes,Oregon,41017,1645,14
+11/15/2020,Douglas,Oregon,41019,619,10
+11/15/2020,Gilliam,Oregon,41021,19,0
+11/15/2020,Grant,Oregon,41023,66,0
+11/15/2020,Harney,Oregon,41025,65,0
+11/15/2020,Hood River,Oregon,41027,320,1
+11/15/2020,Jackson,Oregon,41029,2842,10
+11/15/2020,Jefferson,Oregon,41031,685,11
+11/15/2020,Josephine,Oregon,41033,345,4
+11/15/2020,Klamath,Oregon,41035,525,3
+11/15/2020,Lake,Oregon,41037,63,0
+11/15/2020,Lane,Oregon,41039,3259,34
+11/15/2020,Lincoln,Oregon,41041,544,13
+11/15/2020,Linn,Oregon,41043,1095,17
+11/15/2020,Malheur,Oregon,41045,2177,38
+11/15/2020,Marion,Oregon,41047,7500,124
+11/15/2020,Morrow,Oregon,41049,594,7
+11/15/2020,Multnomah,Oregon,41051,12700,195
+11/15/2020,Polk,Oregon,41053,891,15
+11/15/2020,Sherman,Oregon,41055,23,0
+11/15/2020,Tillamook,Oregon,41057,100,0
+11/15/2020,Umatilla,Oregon,41059,3873,47
+11/15/2020,Union,Oregon,41061,598,2
+11/15/2020,Wallowa,Oregon,41063,69,2
+11/15/2020,Wasco,Oregon,41065,416,17
+11/15/2020,Washington,Oregon,41067,7825,89
+11/15/2020,Wheeler,Oregon,41069,1,0
+11/15/2020,Yamhill,Oregon,41071,1354,15
+11/15/2020,Adams,Pennsylvania,42001,1493,39
+11/15/2020,Allegheny,Pennsylvania,42003,20026,458
+11/15/2020,Armstrong,Pennsylvania,42005,1215,31
+11/15/2020,Beaver,Pennsylvania,42007,2844,144
+11/15/2020,Bedford,Pennsylvania,42009,931,11
+11/15/2020,Berks,Pennsylvania,42011,11359,441
+11/15/2020,Blair,Pennsylvania,42013,2515,41
+11/15/2020,Bradford,Pennsylvania,42015,1364,29
+11/15/2020,Bucks,Pennsylvania,42017,13050,636
+11/15/2020,Butler,Pennsylvania,42019,2901,44
+11/15/2020,Cambria,Pennsylvania,42021,2180,23
+11/15/2020,Cameron,Pennsylvania,42023,16,0
+11/15/2020,Carbon,Pennsylvania,42025,892,36
+11/15/2020,Centre,Pennsylvania,42027,5122,24
+11/15/2020,Chester,Pennsylvania,42029,9774,384
+11/15/2020,Clarion,Pennsylvania,42031,504,4
+11/15/2020,Clearfield,Pennsylvania,42033,841,8
+11/15/2020,Clinton,Pennsylvania,42035,399,9
+11/15/2020,Columbia,Pennsylvania,42037,1215,45
+11/15/2020,Crawford,Pennsylvania,42039,1039,5
+11/15/2020,Cumberland,Pennsylvania,42041,3479,87
+11/15/2020,Dauphin,Pennsylvania,42043,6066,202
+11/15/2020,Delaware,Pennsylvania,42045,16595,831
+11/15/2020,Elk,Pennsylvania,42047,343,3
+11/15/2020,Erie,Pennsylvania,42049,3362,48
+11/15/2020,Fayette,Pennsylvania,42051,1352,15
+11/15/2020,Forest,Pennsylvania,42053,26,1
+11/15/2020,Franklin,Pennsylvania,42055,3086,75
+11/15/2020,Fulton,Pennsylvania,42057,152,4
+11/15/2020,Greene,Pennsylvania,42059,447,1
+11/15/2020,Huntingdon,Pennsylvania,42061,1367,37
+11/15/2020,Indiana,Pennsylvania,42063,1775,24
+11/15/2020,Jefferson,Pennsylvania,42065,415,4
+11/15/2020,Juniata,Pennsylvania,42067,408,9
+11/15/2020,Lackawanna,Pennsylvania,42069,4360,226
+11/15/2020,Lancaster,Pennsylvania,42071,12217,496
+11/15/2020,Lawrence,Pennsylvania,42073,1554,53
+11/15/2020,Lebanon,Pennsylvania,42075,4045,83
+11/15/2020,Lehigh,Pennsylvania,42077,8637,374
+11/15/2020,Luzerne,Pennsylvania,42079,7031,230
+11/15/2020,Lycoming,Pennsylvania,42081,1343,32
+11/15/2020,McKean,Pennsylvania,42083,274,2
+11/15/2020,Mercer,Pennsylvania,42085,1853,30
+11/15/2020,Mifflin,Pennsylvania,42087,891,7
+11/15/2020,Monroe,Pennsylvania,42089,2572,135
+11/15/2020,Montgomery,Pennsylvania,42091,17446,904
+11/15/2020,Montour,Pennsylvania,42093,366,13
+11/15/2020,Northampton,Pennsylvania,42095,6842,322
+11/15/2020,Northumberland,Pennsylvania,42097,1939,118
+11/15/2020,Perry,Pennsylvania,42099,486,8
+11/15/2020,Philadelphia,Pennsylvania,42101,52723,1934
+11/15/2020,Pike,Pennsylvania,42103,726,23
+11/15/2020,Potter,Pennsylvania,42105,103,2
+11/15/2020,Schuylkill,Pennsylvania,42107,2898,134
+11/15/2020,Snyder,Pennsylvania,42109,686,18
+11/15/2020,Somerset,Pennsylvania,42111,899,5
+11/15/2020,Sullivan,Pennsylvania,42113,33,1
+11/15/2020,Susquehanna,Pennsylvania,42115,488,30
+11/15/2020,Tioga,Pennsylvania,42117,544,5
+11/15/2020,Union,Pennsylvania,42119,1003,12
+11/15/2020,Venango,Pennsylvania,42121,552,1
+11/15/2020,Warren,Pennsylvania,42123,111,1
+11/15/2020,Washington,Pennsylvania,42125,3036,50
+11/15/2020,Wayne,Pennsylvania,42127,348,12
+11/15/2020,Westmoreland,Pennsylvania,42129,6099,135
+11/15/2020,Wyoming,Pennsylvania,42131,311,13
+11/15/2020,York,Pennsylvania,42133,8074,223
+11/15/2020,Adjuntas,Puerto Rico,72001,221,
+11/15/2020,Aguada,Puerto Rico,72003,533,
+11/15/2020,Aguadilla,Puerto Rico,72005,758,
+11/15/2020,Aguas Buenas,Puerto Rico,72007,450,
+11/15/2020,Aibonito,Puerto Rico,72009,254,
+11/15/2020,Anasco,Puerto Rico,72011,409,
+11/15/2020,Arecibo,Puerto Rico,72013,1327,
+11/15/2020,Arroyo,Puerto Rico,72015,222,
+11/15/2020,Barceloneta,Puerto Rico,72017,390,
+11/15/2020,Barranquitas,Puerto Rico,72019,731,
+11/15/2020,Bayamon,Puerto Rico,72021,5777,
+11/15/2020,Cabo Rojo,Puerto Rico,72023,593,
+11/15/2020,Caguas,Puerto Rico,72025,2753,
+11/15/2020,Camuy,Puerto Rico,72027,505,
+11/15/2020,Canovanas,Puerto Rico,72029,1055,
+11/15/2020,Carolina,Puerto Rico,72031,4710,
+11/15/2020,Catano,Puerto Rico,72033,720,
+11/15/2020,Cayey,Puerto Rico,72035,612,
+11/15/2020,Ceiba,Puerto Rico,72037,225,
+11/15/2020,Ciales,Puerto Rico,72039,423,
+11/15/2020,Cidra,Puerto Rico,72041,524,
+11/15/2020,Coamo,Puerto Rico,72043,502,
+11/15/2020,Comerio,Puerto Rico,72045,332,
+11/15/2020,Corozal,Puerto Rico,72047,1031,
+11/15/2020,Culebra,Puerto Rico,72049,24,
+11/15/2020,Dorado,Puerto Rico,72051,1290,
+11/15/2020,Fajardo,Puerto Rico,72053,821,
+11/15/2020,Florida,Puerto Rico,72054,445,
+11/15/2020,Guanica,Puerto Rico,72055,184,
+11/15/2020,Guayama,Puerto Rico,72057,458,
+11/15/2020,Guayanilla,Puerto Rico,72059,290,
+11/15/2020,Guaynabo,Puerto Rico,72061,2680,
+11/15/2020,Gurabo,Puerto Rico,72063,929,
+11/15/2020,Hatillo,Puerto Rico,72065,512,
+11/15/2020,Hormigueros,Puerto Rico,72067,251,
+11/15/2020,Humacao,Puerto Rico,72069,913,
+11/15/2020,Isabela,Puerto Rico,72071,519,
+11/15/2020,Jayuya,Puerto Rico,72073,332,
+11/15/2020,Juana Diaz,Puerto Rico,72075,546,
+11/15/2020,Juncos,Puerto Rico,72077,715,
+11/15/2020,Lajas,Puerto Rico,72079,241,
+11/15/2020,Lares,Puerto Rico,72081,546,
+11/15/2020,Las Marias,Puerto Rico,72083,135,
+11/15/2020,Las Piedras,Puerto Rico,72085,775,
+11/15/2020,Loiza,Puerto Rico,72087,455,
+11/15/2020,Luquillo,Puerto Rico,72089,362,
+11/15/2020,Manati,Puerto Rico,72091,876,
+11/15/2020,Maricao,Puerto Rico,72093,97,
+11/15/2020,Maunabo,Puerto Rico,72095,187,
+11/15/2020,Mayaguez,Puerto Rico,72097,1151,
+11/15/2020,Moca,Puerto Rico,72099,631,
+11/15/2020,Morovis,Puerto Rico,72101,704,
+11/15/2020,Naguabo,Puerto Rico,72103,434,
+11/15/2020,Naranjito,Puerto Rico,72105,932,
+11/15/2020,Orocovis,Puerto Rico,72107,492,
+11/15/2020,Patillas,Puerto Rico,72109,225,
+11/15/2020,Penuelas,Puerto Rico,72111,189,
+11/15/2020,Ponce,Puerto Rico,72113,1464,
+11/15/2020,Quebradillas,Puerto Rico,72115,352,
+11/15/2020,Rincon,Puerto Rico,72117,260,
+11/15/2020,Rio Grande,Puerto Rico,72119,987,
+11/15/2020,Sabana Grande,Puerto Rico,72121,257,
+11/15/2020,Salinas,Puerto Rico,72123,636,
+11/15/2020,San German,Puerto Rico,72125,375,
+11/15/2020,San Juan,Puerto Rico,72127,11815,
+11/15/2020,San Lorenzo,Puerto Rico,72129,839,
+11/15/2020,San Sebastian,Puerto Rico,72131,995,
+11/15/2020,Santa Isabel,Puerto Rico,72133,321,
+11/15/2020,Toa Alta,Puerto Rico,72135,2102,
+11/15/2020,Toa Baja,Puerto Rico,72137,2330,
+11/15/2020,Trujillo Alto,Puerto Rico,72139,1870,
+11/15/2020,Unknown,Puerto Rico,,2476,935
+11/15/2020,Utuado,Puerto Rico,72141,351,
+11/15/2020,Vega Alta,Puerto Rico,72143,1120,
+11/15/2020,Vega Baja,Puerto Rico,72145,1442,
+11/15/2020,Vieques,Puerto Rico,72147,107,
+11/15/2020,Villalba,Puerto Rico,72149,378,
+11/15/2020,Yabucoa,Puerto Rico,72151,536,
+11/15/2020,Yauco,Puerto Rico,72153,683,
+11/15/2020,Bristol,Rhode Island,44001,852,23
+11/15/2020,Kent,Rhode Island,44003,3368,128
+11/15/2020,Newport,Rhode Island,44005,906,8
+11/15/2020,Providence,Rhode Island,44007,27808,988
+11/15/2020,Unknown,Rhode Island,,6993,30
+11/15/2020,Washington,Rhode Island,44009,1602,77
+11/15/2020,Abbeville,South Carolina,45001,866,19
+11/15/2020,Aiken,South Carolina,45003,5688,91
+11/15/2020,Allendale,South Carolina,45005,440,8
+11/15/2020,Anderson,South Carolina,45007,7016,210
+11/15/2020,Bamberg,South Carolina,45009,711,36
+11/15/2020,Barnwell,South Carolina,45011,925,25
+11/15/2020,Beaufort,South Carolina,45013,6586,93
+11/15/2020,Berkeley,South Carolina,45015,6693,98
+11/15/2020,Calhoun,South Carolina,45017,528,18
+11/15/2020,Charleston,South Carolina,45019,18571,288
+11/15/2020,Cherokee,South Carolina,45021,1806,57
+11/15/2020,Chester,South Carolina,45023,1388,30
+11/15/2020,Chesterfield,South Carolina,45025,1631,51
+11/15/2020,Clarendon,South Carolina,45027,1298,69
+11/15/2020,Colleton,South Carolina,45029,1407,49
+11/15/2020,Darlington,South Carolina,45031,2783,68
+11/15/2020,Dillon,South Carolina,45033,1439,50
+11/15/2020,Dorchester,South Carolina,45035,5314,107
+11/15/2020,Edgefield,South Carolina,45037,1067,22
+11/15/2020,Fairfield,South Carolina,45039,972,40
+11/15/2020,Florence,South Carolina,45041,6153,207
+11/15/2020,Georgetown,South Carolina,45043,2606,61
+11/15/2020,Greenville,South Carolina,45045,20759,376
+11/15/2020,Greenwood,South Carolina,45047,2791,78
+11/15/2020,Hampton,South Carolina,45049,819,32
+11/15/2020,Horry,South Carolina,45051,13625,246
+11/15/2020,Jasper,South Carolina,45053,995,23
+11/15/2020,Kershaw,South Carolina,45055,2738,58
+11/15/2020,Lancaster,South Carolina,45057,3036,63
+11/15/2020,Laurens,South Carolina,45059,2211,67
+11/15/2020,Lee,South Carolina,45061,838,36
+11/15/2020,Lexington,South Carolina,45063,10375,217
+11/15/2020,Marion,South Carolina,45067,1256,46
+11/15/2020,Marlboro,South Carolina,45069,1262,15
+11/15/2020,McCormick,South Carolina,45065,305,7
+11/15/2020,Newberry,South Carolina,45071,1923,61
+11/15/2020,Oconee,South Carolina,45073,2809,36
+11/15/2020,Orangeburg,South Carolina,45075,3560,132
+11/15/2020,Pickens,South Carolina,45077,5380,73
+11/15/2020,Richland,South Carolina,45079,18901,284
+11/15/2020,Saluda,South Carolina,45081,764,25
+11/15/2020,Spartanburg,South Carolina,45083,10745,251
+11/15/2020,Sumter,South Carolina,45085,3874,94
+11/15/2020,Union,South Carolina,45087,921,24
+11/15/2020,Williamsburg,South Carolina,45089,1561,50
+11/15/2020,York,South Carolina,45091,8171,121
+11/15/2020,Aurora,South Dakota,46003,297,2
+11/15/2020,Beadle,South Dakota,46005,1924,22
+11/15/2020,Bennett,South Dakota,46007,269,5
+11/15/2020,Bon Homme,South Dakota,46009,1213,7
+11/15/2020,Brookings,South Dakota,46011,2063,13
+11/15/2020,Brown,South Dakota,46013,2906,10
+11/15/2020,Brule,South Dakota,46015,467,5
+11/15/2020,Buffalo,South Dakota,46017,331,5
+11/15/2020,Butte,South Dakota,46019,608,8
+11/15/2020,Campbell,South Dakota,46021,93,1
+11/15/2020,Charles Mix,South Dakota,46023,632,1
+11/15/2020,Clark,South Dakota,46025,186,1
+11/15/2020,Clay,South Dakota,46027,1117,8
+11/15/2020,Codington,South Dakota,46029,2227,30
+11/15/2020,Corson,South Dakota,46031,319,3
+11/15/2020,Custer,South Dakota,46033,436,4
+11/15/2020,Davison,South Dakota,46035,1870,16
+11/15/2020,Day,South Dakota,46037,267,5
+11/15/2020,Deuel,South Dakota,46039,254,2
+11/15/2020,Dewey,South Dakota,46041,693,2
+11/15/2020,Douglas,South Dakota,46043,252,5
+11/15/2020,Edmunds,South Dakota,46045,208,1
+11/15/2020,Fall River,South Dakota,46047,317,7
+11/15/2020,Faulk,South Dakota,46049,260,6
+11/15/2020,Grant,South Dakota,46051,475,5
+11/15/2020,Gregory,South Dakota,46053,362,13
+11/15/2020,Haakon,South Dakota,46055,118,3
+11/15/2020,Hamlin,South Dakota,46057,331,0
+11/15/2020,Hand,South Dakota,46059,237,1
+11/15/2020,Hanson,South Dakota,46061,189,1
+11/15/2020,Harding,South Dakota,46063,65,0
+11/15/2020,Hughes,South Dakota,46065,1298,8
+11/15/2020,Hutchinson,South Dakota,46067,420,3
+11/15/2020,Hyde,South Dakota,46069,99,0
+11/15/2020,Jackson,South Dakota,46071,180,5
+11/15/2020,Jerauld,South Dakota,46073,213,13
+11/15/2020,Jones,South Dakota,46075,46,0
+11/15/2020,Kingsbury,South Dakota,46077,340,5
+11/15/2020,Lake,South Dakota,46079,688,9
+11/15/2020,Lawrence,South Dakota,46081,1644,9
+11/15/2020,Lincoln,South Dakota,46083,4466,40
+11/15/2020,Lyman,South Dakota,46085,372,7
+11/15/2020,Marshall,South Dakota,46091,113,3
+11/15/2020,McCook,South Dakota,46087,490,9
+11/15/2020,McPherson,South Dakota,46089,101,1
+11/15/2020,Meade,South Dakota,46093,1419,11
+11/15/2020,Mellette,South Dakota,46095,129,1
+11/15/2020,Miner,South Dakota,46097,176,3
+11/15/2020,Minnehaha,South Dakota,46099,17017,139
+11/15/2020,Moody,South Dakota,46101,336,6
+11/15/2020,Oglala Lakota,South Dakota,46102,1397,13
+11/15/2020,Pennington,South Dakota,46103,6993,59
+11/15/2020,Perkins,South Dakota,46105,109,0
+11/15/2020,Potter,South Dakota,46107,210,0
+11/15/2020,Roberts,South Dakota,46109,561,13
+11/15/2020,Sanborn,South Dakota,46111,200,1
+11/15/2020,Spink,South Dakota,46115,461,8
+11/15/2020,Stanley,South Dakota,46117,163,0
+11/15/2020,Sully,South Dakota,46119,75,1
+11/15/2020,Todd,South Dakota,46121,701,10
+11/15/2020,Tripp,South Dakota,46123,407,2
+11/15/2020,Turner,South Dakota,46125,705,34
+11/15/2020,Union,South Dakota,46127,1032,18
+11/15/2020,Walworth,South Dakota,46129,374,10
+11/15/2020,Yankton,South Dakota,46135,1311,8
+11/15/2020,Ziebach,South Dakota,46137,149,3
+11/15/2020,Anderson,Tennessee,47001,2359,23
+11/15/2020,Bedford,Tennessee,47003,2248,24
+11/15/2020,Benton,Tennessee,47005,651,13
+11/15/2020,Bledsoe,Tennessee,47007,1106,4
+11/15/2020,Blount,Tennessee,47009,4303,47
+11/15/2020,Bradley,Tennessee,47011,4378,27
+11/15/2020,Campbell,Tennessee,47013,1329,20
+11/15/2020,Cannon,Tennessee,47015,606,2
+11/15/2020,Carroll,Tennessee,47017,1442,30
+11/15/2020,Carter,Tennessee,47019,2240,44
+11/15/2020,Cheatham,Tennessee,47021,1343,13
+11/15/2020,Chester,Tennessee,47023,874,19
+11/15/2020,Claiborne,Tennessee,47025,645,9
+11/15/2020,Clay,Tennessee,47027,474,16
+11/15/2020,Cocke,Tennessee,47029,1424,26
+11/15/2020,Coffee,Tennessee,47031,2376,36
+11/15/2020,Crockett,Tennessee,47033,1056,25
+11/15/2020,Cumberland,Tennessee,47035,2171,31
+11/15/2020,Davidson,Tennessee,47037,39843,382
+11/15/2020,DeKalb,Tennessee,47041,971,19
+11/15/2020,Decatur,Tennessee,47039,814,11
+11/15/2020,Dickson,Tennessee,47043,2349,24
+11/15/2020,Dyer,Tennessee,47045,2826,47
+11/15/2020,Fayette,Tennessee,47047,1985,36
+11/15/2020,Fentress,Tennessee,47049,1091,17
+11/15/2020,Franklin,Tennessee,47051,1678,29
+11/15/2020,Gibson,Tennessee,47053,2660,59
+11/15/2020,Giles,Tennessee,47055,1254,39
+11/15/2020,Grainger,Tennessee,47057,806,9
+11/15/2020,Greene,Tennessee,47059,2496,63
+11/15/2020,Grundy,Tennessee,47061,694,14
+11/15/2020,Hamblen,Tennessee,47063,3034,56
+11/15/2020,Hamilton,Tennessee,47065,14948,123
+11/15/2020,Hancock,Tennessee,47067,131,3
+11/15/2020,Hardeman,Tennessee,47069,2119,35
+11/15/2020,Hardin,Tennessee,47071,1617,25
+11/15/2020,Hawkins,Tennessee,47073,1611,31
+11/15/2020,Haywood,Tennessee,47075,1486,28
+11/15/2020,Henderson,Tennessee,47077,1619,30
+11/15/2020,Henry,Tennessee,47079,1227,15
+11/15/2020,Hickman,Tennessee,47081,990,16
+11/15/2020,Houston,Tennessee,47083,533,19
+11/15/2020,Humphreys,Tennessee,47085,591,6
+11/15/2020,Jackson,Tennessee,47087,611,7
+11/15/2020,Jefferson,Tennessee,47089,1914,27
+11/15/2020,Johnson,Tennessee,47091,1324,17
+11/15/2020,Knox,Tennessee,47093,16180,130
+11/15/2020,Lake,Tennessee,47095,1107,5
+11/15/2020,Lauderdale,Tennessee,47097,1846,20
+11/15/2020,Lawrence,Tennessee,47099,2253,25
+11/15/2020,Lewis,Tennessee,47101,647,9
+11/15/2020,Lincoln,Tennessee,47103,1271,8
+11/15/2020,Loudon,Tennessee,47105,2006,15
+11/15/2020,Macon,Tennessee,47111,1617,26
+11/15/2020,Madison,Tennessee,47113,4627,94
+11/15/2020,Marion,Tennessee,47115,968,15
+11/15/2020,Marshall,Tennessee,47117,1472,15
+11/15/2020,Maury,Tennessee,47119,4819,46
+11/15/2020,McMinn,Tennessee,47107,2133,48
+11/15/2020,McNairy,Tennessee,47109,1315,31
+11/15/2020,Meigs,Tennessee,47121,415,10
+11/15/2020,Monroe,Tennessee,47123,1789,40
+11/15/2020,Montgomery,Tennessee,47125,5493,75
+11/15/2020,Moore,Tennessee,47127,332,2
+11/15/2020,Morgan,Tennessee,47129,568,6
+11/15/2020,Obion,Tennessee,47131,2247,36
+11/15/2020,Overton,Tennessee,47133,1415,33
+11/15/2020,Perry,Tennessee,47135,429,18
+11/15/2020,Pickett,Tennessee,47137,341,11
+11/15/2020,Polk,Tennessee,47139,599,13
+11/15/2020,Putnam,Tennessee,47141,5335,70
+11/15/2020,Rhea,Tennessee,47143,1391,27
+11/15/2020,Roane,Tennessee,47145,1974,14
+11/15/2020,Robertson,Tennessee,47147,3161,46
+11/15/2020,Rutherford,Tennessee,47149,15146,131
+11/15/2020,Scott,Tennessee,47151,721,6
+11/15/2020,Sequatchie,Tennessee,47153,448,5
+11/15/2020,Sevier,Tennessee,47155,4126,27
+11/15/2020,Shelby,Tennessee,47157,42660,612
+11/15/2020,Smith,Tennessee,47159,1269,17
+11/15/2020,Stewart,Tennessee,47161,487,13
+11/15/2020,Sullivan,Tennessee,47163,5253,77
+11/15/2020,Sumner,Tennessee,47165,7995,122
+11/15/2020,Tipton,Tennessee,47167,3065,32
+11/15/2020,Trousdale,Tennessee,47169,1863,10
+11/15/2020,Unicoi,Tennessee,47171,661,17
+11/15/2020,Union,Tennessee,47173,639,5
+11/15/2020,Unknown,Tennessee,,839,0
+11/15/2020,Van Buren,Tennessee,47175,287,2
+11/15/2020,Warren,Tennessee,47177,2031,15
+11/15/2020,Washington,Tennessee,47179,4930,87
+11/15/2020,Wayne,Tennessee,47181,1695,8
+11/15/2020,Weakley,Tennessee,47183,1913,34
+11/15/2020,White,Tennessee,47185,1529,17
+11/15/2020,Williamson,Tennessee,47187,9489,66
+11/15/2020,Wilson,Tennessee,47189,6168,69
+11/15/2020,Anderson,Texas,48001,3051,45
+11/15/2020,Andrews,Texas,48003,859,11
+11/15/2020,Angelina,Texas,48005,3170,95
+11/15/2020,Aransas,Texas,48007,374,18
+11/15/2020,Archer,Texas,48009,197,2
+11/15/2020,Armstrong,Texas,48011,37,1
+11/15/2020,Atascosa,Texas,48013,1375,37
+11/15/2020,Austin,Texas,48015,544,11
+11/15/2020,Bailey,Texas,48017,408,5
+11/15/2020,Bandera,Texas,48019,208,11
+11/15/2020,Bastrop,Texas,48021,2127,33
+11/15/2020,Baylor,Texas,48023,49,4
+11/15/2020,Bee,Texas,48025,1924,40
+11/15/2020,Bell,Texas,48027,7352,109
+11/15/2020,Bexar,Texas,48029,70054,1451
+11/15/2020,Blanco,Texas,48031,170,6
+11/15/2020,Borden,Texas,48033,4,0
+11/15/2020,Bosque,Texas,48035,476,14
+11/15/2020,Bowie,Texas,48037,2345,90
+11/15/2020,Brazoria,Texas,48039,13308,190
+11/15/2020,Brazos,Texas,48041,9718,94
+11/15/2020,Brewster,Texas,48043,301,5
+11/15/2020,Briscoe,Texas,48045,36,1
+11/15/2020,Brooks,Texas,48047,380,25
+11/15/2020,Brown,Texas,48049,1335,36
+11/15/2020,Burleson,Texas,48051,536,7
+11/15/2020,Burnet,Texas,48053,1206,16
+11/15/2020,Caldwell,Texas,48055,1787,39
+11/15/2020,Calhoun,Texas,48057,955,9
+11/15/2020,Callahan,Texas,48059,180,7
+11/15/2020,Cameron,Texas,48061,24992,1100
+11/15/2020,Camp,Texas,48063,430,14
+11/15/2020,Carson,Texas,48065,74,2
+11/15/2020,Cass,Texas,48067,686,32
+11/15/2020,Castro,Texas,48069,393,7
+11/15/2020,Chambers,Texas,48071,1708,21
+11/15/2020,Cherokee,Texas,48073,1690,46
+11/15/2020,Childress,Texas,48075,778,0
+11/15/2020,Clay,Texas,48077,185,5
+11/15/2020,Cochran,Texas,48079,143,4
+11/15/2020,Coke,Texas,48081,144,8
+11/15/2020,Coleman,Texas,48083,154,5
+11/15/2020,Collin,Texas,48085,21665,218
+11/15/2020,Collingsworth,Texas,48087,22,0
+11/15/2020,Colorado,Texas,48089,538,4
+11/15/2020,Comal,Texas,48091,4131,124
+11/15/2020,Comanche,Texas,48093,406,5
+11/15/2020,Concho,Texas,48095,155,2
+11/15/2020,Cooke,Texas,48097,630,11
+11/15/2020,Coryell,Texas,48099,2174,14
+11/15/2020,Cottle,Texas,48101,45,4
+11/15/2020,Crane,Texas,48103,97,6
+11/15/2020,Crockett,Texas,48105,171,7
+11/15/2020,Crosby,Texas,48107,159,13
+11/15/2020,Culberson,Texas,48109,140,3
+11/15/2020,Dallam,Texas,48111,418,11
+11/15/2020,Dallas,Texas,48113,118884,1379
+11/15/2020,Dawson,Texas,48115,1064,30
+11/15/2020,DeWitt,Texas,48123,1128,44
+11/15/2020,Deaf Smith,Texas,48117,1576,35
+11/15/2020,Delta,Texas,48119,43,0
+11/15/2020,Denton,Texas,48121,19573,195
+11/15/2020,Dickens,Texas,48125,64,2
+11/15/2020,Dimmit,Texas,48127,327,8
+11/15/2020,Donley,Texas,48129,100,1
+11/15/2020,Duval,Texas,48131,543,22
+11/15/2020,Eastland,Texas,48133,312,9
+11/15/2020,Ector,Texas,48135,8206,130
+11/15/2020,Edwards,Texas,48137,79,2
+11/15/2020,El Paso,Texas,48141,73340,803
+11/15/2020,Ellis,Texas,48139,5714,100
+11/15/2020,Erath,Texas,48143,1202,18
+11/15/2020,Falls,Texas,48145,720,13
+11/15/2020,Fannin,Texas,48147,896,24
+11/15/2020,Fayette,Texas,48149,564,23
+11/15/2020,Fisher,Texas,48151,138,4
+11/15/2020,Floyd,Texas,48153,173,10
+11/15/2020,Foard,Texas,48155,25,1
+11/15/2020,Fort Bend,Texas,48157,19811,322
+11/15/2020,Franklin,Texas,48159,237,10
+11/15/2020,Freestone,Texas,48161,486,8
+11/15/2020,Frio,Texas,48163,1054,9
+11/15/2020,Gaines,Texas,48165,786,14
+11/15/2020,Galveston,Texas,48167,13570,174
+11/15/2020,Garza,Texas,48169,156,11
+11/15/2020,Gillespie,Texas,48171,419,10
+11/15/2020,Glasscock,Texas,48173,18,0
+11/15/2020,Goliad,Texas,48175,172,6
+11/15/2020,Gonzales,Texas,48177,1171,21
+11/15/2020,Gray,Texas,48179,1099,14
+11/15/2020,Grayson,Texas,48181,3450,92
+11/15/2020,Gregg,Texas,48183,4179,103
+11/15/2020,Grimes,Texas,48185,1262,37
+11/15/2020,Guadalupe,Texas,48187,4075,83
+11/15/2020,Hale,Texas,48189,3341,75
+11/15/2020,Hall,Texas,48191,59,2
+11/15/2020,Hamilton,Texas,48193,253,7
+11/15/2020,Hansford,Texas,48195,220,8
+11/15/2020,Hardeman,Texas,48197,73,4
+11/15/2020,Hardin,Texas,48199,1510,41
+11/15/2020,Harris,Texas,48201,174493,2909
+11/15/2020,Harrison,Texas,48203,1550,41
+11/15/2020,Hartley,Texas,48205,198,2
+11/15/2020,Haskell,Texas,48207,92,3
+11/15/2020,Hays,Texas,48209,7415,91
+11/15/2020,Hemphill,Texas,48211,212,1
+11/15/2020,Henderson,Texas,48213,2108,53
+11/15/2020,Hidalgo,Texas,48215,37413,1998
+11/15/2020,Hill,Texas,48217,1008,16
+11/15/2020,Hockley,Texas,48219,1127,38
+11/15/2020,Hood,Texas,48221,1340,42
+11/15/2020,Hopkins,Texas,48223,766,48
+11/15/2020,Houston,Texas,48225,451,14
+11/15/2020,Howard,Texas,48227,1330,28
+11/15/2020,Hudspeth,Texas,48229,133,3
+11/15/2020,Hunt,Texas,48231,2400,52
+11/15/2020,Hutchinson,Texas,48233,553,13
+11/15/2020,Irion,Texas,48235,15,0
+11/15/2020,Jack,Texas,48237,196,3
+11/15/2020,Jackson,Texas,48239,719,16
+11/15/2020,Jasper,Texas,48241,530,34
+11/15/2020,Jeff Davis,Texas,48243,26,0
+11/15/2020,Jefferson,Texas,48245,9237,168
+11/15/2020,Jim Hogg,Texas,48247,194,7
+11/15/2020,Jim Wells,Texas,48249,1858,53
+11/15/2020,Johnson,Texas,48251,4399,76
+11/15/2020,Jones,Texas,48253,1577,4
+11/15/2020,Karnes,Texas,48255,976,18
+11/15/2020,Kaufman,Texas,48257,4042,70
+11/15/2020,Kendall,Texas,48259,453,11
+11/15/2020,Kenedy,Texas,48261,11,2
+11/15/2020,Kent,Texas,48263,19,0
+11/15/2020,Kerr,Texas,48265,788,18
+11/15/2020,Kimble,Texas,48267,47,2
+11/15/2020,King,Texas,48269,1,0
+11/15/2020,Kinney,Texas,48271,83,2
+11/15/2020,Kleberg,Texas,48273,1121,54
+11/15/2020,Knox,Texas,48275,116,9
+11/15/2020,La Salle,Texas,48283,380,14
+11/15/2020,Lamar,Texas,48277,2259,57
+11/15/2020,Lamb,Texas,48279,804,34
+11/15/2020,Lampasas,Texas,48281,344,9
+11/15/2020,Lavaca,Texas,48285,1282,39
+11/15/2020,Lee,Texas,48287,262,15
+11/15/2020,Leon,Texas,48289,426,14
+11/15/2020,Liberty,Texas,48291,2377,61
+11/15/2020,Limestone,Texas,48293,706,16
+11/15/2020,Lipscomb,Texas,48295,94,1
+11/15/2020,Live Oak,Texas,48297,401,10
+11/15/2020,Llano,Texas,48299,243,4
+11/15/2020,Lubbock,Texas,48303,25810,273
+11/15/2020,Lynn,Texas,48305,281,9
+11/15/2020,Madison,Texas,48313,803,8
+11/15/2020,Marion,Texas,48315,181,15
+11/15/2020,Martin,Texas,48317,139,7
+11/15/2020,Mason,Texas,48319,94,2
+11/15/2020,Matagorda,Texas,48321,1170,56
+11/15/2020,Maverick,Texas,48323,4609,168
+11/15/2020,McCulloch,Texas,48307,236,6
+11/15/2020,McLennan,Texas,48309,12106,168
+11/15/2020,McMullen,Texas,48311,25,1
+11/15/2020,Medina,Texas,48325,1347,49
+11/15/2020,Menard,Texas,48327,91,3
+11/15/2020,Midland,Texas,48329,6405,110
+11/15/2020,Milam,Texas,48331,590,9
+11/15/2020,Mills,Texas,48333,113,4
+11/15/2020,Mitchell,Texas,48335,252,3
+11/15/2020,Montague,Texas,48337,419,13
+11/15/2020,Montgomery,Texas,48339,14912,193
+11/15/2020,Moore,Texas,48341,1492,25
+11/15/2020,Morris,Texas,48343,251,6
+11/15/2020,Motley,Texas,48345,19,0
+11/15/2020,Nacogdoches,Texas,48347,1895,75
+11/15/2020,Navarro,Texas,48349,2250,40
+11/15/2020,Newton,Texas,48351,192,15
+11/15/2020,Nolan,Texas,48353,555,7
+11/15/2020,Nueces,Texas,48355,22192,463
+11/15/2020,Ochiltree,Texas,48357,458,6
+11/15/2020,Oldham,Texas,48359,31,2
+11/15/2020,Orange,Texas,48361,2385,50
+11/15/2020,Palo Pinto,Texas,48363,815,27
+11/15/2020,Panola,Texas,48365,516,33
+11/15/2020,Parker,Texas,48367,3015,58
+11/15/2020,Parmer,Texas,48369,652,22
+11/15/2020,Pecos,Texas,48371,603,15
+11/15/2020,Polk,Texas,48373,1416,42
+11/15/2020,Potter,Texas,48375,10410,134
+11/15/2020,Presidio,Texas,48377,213,7
+11/15/2020,Rains,Texas,48379,244,6
+11/15/2020,Randall,Texas,48381,8083,83
+11/15/2020,Reagan,Texas,48383,123,6
+11/15/2020,Real,Texas,48385,128,8
+11/15/2020,Red River,Texas,48387,212,18
+11/15/2020,Reeves,Texas,48389,350,11
+11/15/2020,Refugio,Texas,48391,328,16
+11/15/2020,Roberts,Texas,48393,20,0
+11/15/2020,Robertson,Texas,48395,455,6
+11/15/2020,Rockwall,Texas,48397,2356,35
+11/15/2020,Runnels,Texas,48399,324,10
+11/15/2020,Rusk,Texas,48401,1115,29
+11/15/2020,Sabine,Texas,48403,117,10
+11/15/2020,San Augustine,Texas,48405,314,16
+11/15/2020,San Jacinto,Texas,48407,250,14
+11/15/2020,San Patricio,Texas,48409,1630,84
+11/15/2020,San Saba,Texas,48411,267,5
+11/15/2020,Schleicher,Texas,48413,72,2
+11/15/2020,Scurry,Texas,48415,1322,19
+11/15/2020,Shackelford,Texas,48417,46,0
+11/15/2020,Shelby,Texas,48419,586,34
+11/15/2020,Sherman,Texas,48421,85,1
+11/15/2020,Smith,Texas,48423,8038,187
+11/15/2020,Somervell,Texas,48425,210,5
+11/15/2020,Starr,Texas,48427,4121,187
+11/15/2020,Stephens,Texas,48429,215,7
+11/15/2020,Sterling,Texas,48431,26,1
+11/15/2020,Stonewall,Texas,48433,24,1
+11/15/2020,Sutton,Texas,48435,148,3
+11/15/2020,Swisher,Texas,48437,208,5
+11/15/2020,Tarrant,Texas,48439,82015,928
+11/15/2020,Taylor,Texas,48441,6111,88
+11/15/2020,Terrell,Texas,48443,9,0
+11/15/2020,Terry,Texas,48445,784,12
+11/15/2020,Throckmorton,Texas,48447,20,2
+11/15/2020,Titus,Texas,48449,1684,37
+11/15/2020,Tom Green,Texas,48451,7080,93
+11/15/2020,Travis,Texas,48453,34612,466
+11/15/2020,Trinity,Texas,48455,214,8
+11/15/2020,Tyler,Texas,48457,282,4
+11/15/2020,Upshur,Texas,48459,560,17
+11/15/2020,Upton,Texas,48461,33,4
+11/15/2020,Uvalde,Texas,48463,979,37
+11/15/2020,Val Verde,Texas,48465,2932,131
+11/15/2020,Van Zandt,Texas,48467,1306,42
+11/15/2020,Victoria,Texas,48469,4584,99
+11/15/2020,Walker,Texas,48471,4021,66
+11/15/2020,Waller,Texas,48473,1051,17
+11/15/2020,Ward,Texas,48475,248,4
+11/15/2020,Washington,Texas,48477,821,52
+11/15/2020,Webb,Texas,48479,17275,375
+11/15/2020,Wharton,Texas,48481,1513,61
+11/15/2020,Wheeler,Texas,48483,173,2
+11/15/2020,Wichita,Texas,48485,5350,88
+11/15/2020,Wilbarger,Texas,48487,530,9
+11/15/2020,Willacy,Texas,48489,1292,59
+11/15/2020,Williamson,Texas,48491,11903,160
+11/15/2020,Wilson,Texas,48493,1047,28
+11/15/2020,Winkler,Texas,48495,202,5
+11/15/2020,Wise,Texas,48497,1208,26
+11/15/2020,Wood,Texas,48499,777,46
+11/15/2020,Yoakum,Texas,48501,516,10
+11/15/2020,Young,Texas,48503,743,16
+11/15/2020,Zapata,Texas,48505,419,9
+11/15/2020,Zavala,Texas,48507,605,21
+11/15/2020,Beaver,Utah,49001,117,1
+11/15/2020,Box Elder,Utah,49003,1653,10
+11/15/2020,Cache,Utah,49005,5909,13
+11/15/2020,Carbon,Utah,49007,501,3
+11/15/2020,Daggett,Utah,49009,1,0
+11/15/2020,Davis,Utah,49011,12507,54
+11/15/2020,Duchesne,Utah,49013,297,2
+11/15/2020,Emery,Utah,49015,210,3
+11/15/2020,Garfield,Utah,49017,152,5
+11/15/2020,Grand,Utah,49019,223,1
+11/15/2020,Iron,Utah,49021,1245,4
+11/15/2020,Juab,Utah,49023,344,7
+11/15/2020,Kane,Utah,49025,118,1
+11/15/2020,Millard,Utah,49027,312,1
+11/15/2020,Morgan,Utah,49029,346,2
+11/15/2020,Piute,Utah,49031,37,1
+11/15/2020,Rich,Utah,49033,31,0
+11/15/2020,Salt Lake,Utah,49035,64794,351
+11/15/2020,San Juan,Utah,49037,916,30
+11/15/2020,Sanpete,Utah,49039,693,3
+11/15/2020,Sevier,Utah,49041,565,2
+11/15/2020,Summit,Utah,49043,1864,2
+11/15/2020,Tooele,Utah,49045,2199,9
+11/15/2020,Uintah,Utah,49047,459,1
+11/15/2020,Unknown,Utah,,614,3
+11/15/2020,Utah,Utah,49049,39334,105
+11/15/2020,Wasatch,Utah,49051,1601,10
+11/15/2020,Washington,Utah,49053,6896,55
+11/15/2020,Wayne,Utah,49055,34,0
+11/15/2020,Weber,Utah,49057,9836,39
+11/15/2020,Addison,Vermont,50001,149,2
+11/15/2020,Bennington,Vermont,50003,166,1
+11/15/2020,Caledonia,Vermont,50005,68,0
+11/15/2020,Chittenden,Vermont,50007,1188,39
+11/15/2020,Essex,Vermont,50009,23,0
+11/15/2020,Franklin,Vermont,50011,163,7
+11/15/2020,Grand Isle,Vermont,50013,32,0
+11/15/2020,Lamoille,Vermont,50015,97,1
+11/15/2020,Orange,Vermont,50017,91,0
+11/15/2020,Orleans,Vermont,50019,69,1
+11/15/2020,Rutland,Vermont,50021,177,1
+11/15/2020,Unknown,Vermont,,10,0
+11/15/2020,Washington,Vermont,50023,331,2
+11/15/2020,Windham,Vermont,50025,174,3
+11/15/2020,Windsor,Vermont,50027,151,2
+11/15/2020,St. Croix,Virgin Islands,78010,549,7
+11/15/2020,St. John,Virgin Islands,78020,73,1
+11/15/2020,St. Thomas,Virgin Islands,78030,812,15
+11/15/2020,Accomack,Virginia,51001,1255,21
+11/15/2020,Albemarle,Virginia,51003,1709,26
+11/15/2020,Alexandria city,Virginia,51510,4635,76
+11/15/2020,Alleghany,Virginia,51005,239,6
+11/15/2020,Amelia,Virginia,51007,161,6
+11/15/2020,Amherst,Virginia,51009,668,6
+11/15/2020,Appomattox,Virginia,51011,347,6
+11/15/2020,Arlington,Virginia,51013,5298,157
+11/15/2020,Augusta,Virginia,51015,861,10
+11/15/2020,Bath,Virginia,51017,36,0
+11/15/2020,Bedford,Virginia,51019,1520,18
+11/15/2020,Bland,Virginia,51021,104,5
+11/15/2020,Botetourt,Virginia,51023,609,13
+11/15/2020,Bristol city,Virginia,51520,427,7
+11/15/2020,Brunswick,Virginia,51025,447,6
+11/15/2020,Buchanan,Virginia,51027,313,4
+11/15/2020,Buckingham,Virginia,51029,816,9
+11/15/2020,Buena Vista city,Virginia,51530,161,1
+11/15/2020,Campbell,Virginia,51031,917,11
+11/15/2020,Caroline,Virginia,51033,491,6
+11/15/2020,Carroll,Virginia,51035,749,29
+11/15/2020,Charles City,Virginia,51036,117,5
+11/15/2020,Charlotte,Virginia,51037,252,2
+11/15/2020,Charlottesville city,Virginia,51540,1726,31
+11/15/2020,Chesapeake city,Virginia,51550,5506,80
+11/15/2020,Chesterfield,Virginia,51041,8047,121
+11/15/2020,Clarke,Virginia,51043,152,2
+11/15/2020,Colonial Heights city,Virginia,51570,352,26
+11/15/2020,Covington city,Virginia,51580,94,0
+11/15/2020,Craig,Virginia,51045,72,0
+11/15/2020,Culpeper,Virginia,51047,1734,18
+11/15/2020,Cumberland,Virginia,51049,137,4
+11/15/2020,Danville city,Virginia,51590,1413,47
+11/15/2020,Dickenson,Virginia,51051,207,1
+11/15/2020,Dinwiddie,Virginia,51053,593,12
+11/15/2020,Emporia city,Virginia,51595,307,28
+11/15/2020,Essex,Virginia,51057,215,2
+11/15/2020,Fairfax,Virginia,51059,26432,610
+11/15/2020,Fairfax city,Virginia,51600,181,8
+11/15/2020,Falls Church city,Virginia,51610,82,7
+11/15/2020,Fauquier,Virginia,51061,1237,28
+11/15/2020,Floyd,Virginia,51063,283,15
+11/15/2020,Fluvanna,Virginia,51065,461,9
+11/15/2020,Franklin,Virginia,51067,1251,9
+11/15/2020,Franklin city,Virginia,51620,527,15
+11/15/2020,Frederick,Virginia,51069,1481,16
+11/15/2020,Fredericksburg city,Virginia,51630,632,7
+11/15/2020,Galax city,Virginia,51640,501,30
+11/15/2020,Giles,Virginia,51071,198,0
+11/15/2020,Gloucester,Virginia,51073,382,3
+11/15/2020,Goochland,Virginia,51075,368,7
+11/15/2020,Grayson,Virginia,51077,452,20
+11/15/2020,Greene,Virginia,51079,331,4
+11/15/2020,Greensville,Virginia,51081,919,15
+11/15/2020,Halifax,Virginia,51083,708,10
+11/15/2020,Hampton city,Virginia,51650,2376,34
+11/15/2020,Hanover,Virginia,51085,1969,48
+11/15/2020,Harrisonburg city,Virginia,51660,3247,36
+11/15/2020,Henrico,Virginia,51087,7200,243
+11/15/2020,Henry,Virginia,51089,1597,37
+11/15/2020,Highland,Virginia,51091,14,0
+11/15/2020,Hopewell city,Virginia,51670,560,8
+11/15/2020,Isle of Wight,Virginia,51093,928,27
+11/15/2020,James City,Virginia,51095,1041,22
+11/15/2020,King George,Virginia,51099,329,5
+11/15/2020,King William,Virginia,51101,252,5
+11/15/2020,King and Queen,Virginia,51097,98,2
+11/15/2020,Lancaster,Virginia,51103,214,1
+11/15/2020,Lee,Virginia,51105,739,11
+11/15/2020,Lexington city,Virginia,51678,291,2
+11/15/2020,Loudoun,Virginia,51107,8810,135
+11/15/2020,Louisa,Virginia,51109,442,8
+11/15/2020,Lunenburg,Virginia,51111,159,5
+11/15/2020,Lynchburg city,Virginia,51680,2290,26
+11/15/2020,Madison,Virginia,51113,166,3
+11/15/2020,Manassas Park city,Virginia,51685,677,8
+11/15/2020,Manassas city,Virginia,51683,2140,28
+11/15/2020,Martinsville city,Virginia,51690,561,24
+11/15/2020,Mathews,Virginia,51115,147,0
+11/15/2020,Mecklenburg,Virginia,51117,950,35
+11/15/2020,Middlesex,Virginia,51119,150,11
+11/15/2020,Montgomery,Virginia,51121,3379,7
+11/15/2020,Nelson,Virginia,51125,150,2
+11/15/2020,New Kent,Virginia,51127,330,4
+11/15/2020,Newport News city,Virginia,51700,3509,53
+11/15/2020,Norfolk city,Virginia,51710,5872,87
+11/15/2020,Northampton,Virginia,51131,330,31
+11/15/2020,Northumberland,Virginia,51133,236,8
+11/15/2020,Norton city,Virginia,51720,63,0
+11/15/2020,Nottoway,Virginia,51135,442,21
+11/15/2020,Orange,Virginia,51137,486,6
+11/15/2020,Page,Virginia,51139,524,31
+11/15/2020,Patrick,Virginia,51141,389,27
+11/15/2020,Petersburg city,Virginia,51730,1022,30
+11/15/2020,Pittsylvania,Virginia,51143,1497,18
+11/15/2020,Poquoson city,Virginia,51735,115,2
+11/15/2020,Portsmouth city,Virginia,51740,2997,70
+11/15/2020,Powhatan,Virginia,51145,357,6
+11/15/2020,Prince Edward,Virginia,51147,820,14
+11/15/2020,Prince George,Virginia,51149,1285,7
+11/15/2020,Prince William,Virginia,51153,15777,229
+11/15/2020,Pulaski,Virginia,51155,423,8
+11/15/2020,Radford city,Virginia,51750,1030,2
+11/15/2020,Rappahannock,Virginia,51157,72,2
+11/15/2020,Richmond,Virginia,51159,377,4
+11/15/2020,Richmond city,Virginia,51760,5963,78
+11/15/2020,Roanoke,Virginia,51161,2086,26
+11/15/2020,Roanoke city,Virginia,51770,3441,53
+11/15/2020,Rockbridge,Virginia,51163,197,3
+11/15/2020,Rockingham,Virginia,51165,1962,29
+11/15/2020,Russell,Virginia,51167,685,8
+11/15/2020,Salem city,Virginia,51775,720,14
+11/15/2020,Scott,Virginia,51169,625,11
+11/15/2020,Shenandoah,Virginia,51171,1172,61
+11/15/2020,Smyth,Virginia,51173,824,27
+11/15/2020,Southampton,Virginia,51175,952,39
+11/15/2020,Spotsylvania,Virginia,51177,2730,55
+11/15/2020,Stafford,Virginia,51179,2743,22
+11/15/2020,Staunton city,Virginia,51790,496,9
+11/15/2020,Suffolk city,Virginia,51800,2523,79
+11/15/2020,Surry,Virginia,51181,150,5
+11/15/2020,Sussex,Virginia,51183,654,13
+11/15/2020,Tazewell,Virginia,51185,744,4
+11/15/2020,Virginia Beach city,Virginia,51810,9164,112
+11/15/2020,Warren,Virginia,51187,694,25
+11/15/2020,Washington,Virginia,51191,1439,28
+11/15/2020,Waynesboro city,Virginia,51820,451,4
+11/15/2020,Westmoreland,Virginia,51193,380,5
+11/15/2020,Williamsburg city,Virginia,51830,248,8
+11/15/2020,Winchester city,Virginia,51840,769,4
+11/15/2020,Wise,Virginia,51195,1006,14
+11/15/2020,Wythe,Virginia,51197,455,7
+11/15/2020,York,Virginia,51199,745,9
+11/15/2020,Adams,Washington,53001,1122,11
+11/15/2020,Asotin,Washington,53003,505,10
+11/15/2020,Benton,Washington,53005,6678,143
+11/15/2020,Chelan,Washington,53007,2807,24
+11/15/2020,Clallam,Washington,53009,313,3
+11/15/2020,Clark,Washington,53011,6162,102
+11/15/2020,Columbia,Washington,53013,25,2
+11/15/2020,Cowlitz,Washington,53015,1030,8
+11/15/2020,Douglas,Washington,53017,1611,12
+11/15/2020,Ferry,Washington,53019,42,1
+11/15/2020,Franklin,Washington,53021,5607,70
+11/15/2020,Garfield,Washington,53023,51,0
+11/15/2020,Grant,Washington,53025,3958,29
+11/15/2020,Grays Harbor,Washington,53027,863,15
+11/15/2020,Island,Washington,53029,502,15
+11/15/2020,Jefferson,Washington,53031,114,0
+11/15/2020,King,Washington,53033,34556,855
+11/15/2020,Kitsap,Washington,53035,1966,27
+11/15/2020,Kittitas,Washington,53037,807,22
+11/15/2020,Klickitat,Washington,53039,234,3
+11/15/2020,Lewis,Washington,53041,922,13
+11/15/2020,Lincoln,Washington,53043,105,2
+11/15/2020,Mason,Washington,53045,620,10
+11/15/2020,Okanogan,Washington,53047,1193,14
+11/15/2020,Pacific,Washington,53049,170,3
+11/15/2020,Pend Oreille,Washington,53051,182,1
+11/15/2020,Pierce,Washington,53053,14453,285
+11/15/2020,San Juan,Washington,53055,49,0
+11/15/2020,Skagit,Washington,53057,1622,26
+11/15/2020,Skamania,Washington,53059,84,1
+11/15/2020,Snohomish,Washington,53061,12301,258
+11/15/2020,Spokane,Washington,53063,12449,229
+11/15/2020,Stevens,Washington,53065,423,6
+11/15/2020,Thurston,Washington,53067,2488,40
+11/15/2020,Unknown,Washington,,2,2
+11/15/2020,Wahkiakum,Washington,53069,11,0
+11/15/2020,Walla Walla,Washington,53071,1773,15
+11/15/2020,Whatcom,Washington,53073,1900,62
+11/15/2020,Whitman,Washington,53075,2010,23
+11/15/2020,Yakima,Washington,53077,13655,296
+11/15/2020,Barbour,West Virginia,54001,263,3
+11/15/2020,Berkeley,West Virginia,54003,2209,20
+11/15/2020,Boone,West Virginia,54005,505,10
+11/15/2020,Braxton,West Virginia,54007,94,0
+11/15/2020,Brooke,West Virginia,54009,377,7
+11/15/2020,Cabell,West Virginia,54011,2162,44
+11/15/2020,Calhoun,West Virginia,54013,43,0
+11/15/2020,Clay,West Virginia,54015,94,3
+11/15/2020,Doddridge,West Virginia,54017,87,1
+11/15/2020,Fayette,West Virginia,54019,950,30
+11/15/2020,Gilmer,West Virginia,54021,175,0
+11/15/2020,Grant,West Virginia,54023,235,9
+11/15/2020,Greenbrier,West Virginia,54025,308,6
+11/15/2020,Hampshire,West Virginia,54027,206,1
+11/15/2020,Hancock,West Virginia,54029,366,4
+11/15/2020,Hardy,West Virginia,54031,150,1
+11/15/2020,Harrison,West Virginia,54033,872,14
+11/15/2020,Jackson,West Virginia,54035,538,24
+11/15/2020,Jefferson,West Virginia,54037,947,11
+11/15/2020,Kanawha,West Virginia,54039,4652,125
+11/15/2020,Lewis,West Virginia,54041,197,2
+11/15/2020,Lincoln,West Virginia,54043,342,2
+11/15/2020,Logan,West Virginia,54045,919,48
+11/15/2020,Marion,West Virginia,54049,585,5
+11/15/2020,Marshall,West Virginia,54051,790,9
+11/15/2020,Mason,West Virginia,54053,251,6
+11/15/2020,McDowell,West Virginia,54047,292,1
+11/15/2020,Mercer,West Virginia,54055,1045,36
+11/15/2020,Mineral,West Virginia,54057,590,4
+11/15/2020,Mingo,West Virginia,54059,831,13
+11/15/2020,Monongalia,West Virginia,54061,2754,7
+11/15/2020,Monroe,West Virginia,54063,290,8
+11/15/2020,Morgan,West Virginia,54065,206,0
+11/15/2020,Nicholas,West Virginia,54067,255,3
+11/15/2020,Ohio,West Virginia,54069,997,12
+11/15/2020,Pendleton,West Virginia,54071,84,1
+11/15/2020,Pleasants,West Virginia,54073,55,3
+11/15/2020,Pocahontas,West Virginia,54075,81,0
+11/15/2020,Preston,West Virginia,54077,337,6
+11/15/2020,Putnam,West Virginia,54079,1377,25
+11/15/2020,Raleigh,West Virginia,54081,1110,15
+11/15/2020,Randolph,West Virginia,54083,547,2
+11/15/2020,Ritchie,West Virginia,54085,92,1
+11/15/2020,Roane,West Virginia,54087,132,2
+11/15/2020,Summers,West Virginia,54089,201,5
+11/15/2020,Taylor,West Virginia,54091,218,8
+11/15/2020,Tucker,West Virginia,54093,75,0
+11/15/2020,Tyler,West Virginia,54095,106,0
+11/15/2020,Upshur,West Virginia,54097,359,4
+11/15/2020,Wayne,West Virginia,54099,795,13
+11/15/2020,Webster,West Virginia,54101,47,0
+11/15/2020,Wetzel,West Virginia,54103,319,11
+11/15/2020,Wirt,West Virginia,54105,66,1
+11/15/2020,Wood,West Virginia,54107,1565,10
+11/15/2020,Wyoming,West Virginia,54109,516,6
+11/15/2020,Adams,Wisconsin,55001,907,7
+11/15/2020,Ashland,Wisconsin,55003,519,6
+11/15/2020,Barron,Wisconsin,55005,2686,30
+11/15/2020,Bayfield,Wisconsin,55007,542,6
+11/15/2020,Brown,Wisconsin,55009,20312,123
+11/15/2020,Buffalo,Wisconsin,55011,579,3
+11/15/2020,Burnett,Wisconsin,55013,564,7
+11/15/2020,Calumet,Wisconsin,55015,3671,22
+11/15/2020,Chippewa,Wisconsin,55017,3551,40
+11/15/2020,Clark,Wisconsin,55019,1805,27
+11/15/2020,Columbia,Wisconsin,55021,2900,11
+11/15/2020,Crawford,Wisconsin,55023,676,4
+11/15/2020,Dane,Wisconsin,55025,22337,63
+11/15/2020,Dodge,Wisconsin,55027,7001,57
+11/15/2020,Door,Wisconsin,55029,1483,10
+11/15/2020,Douglas,Wisconsin,55031,1329,1
+11/15/2020,Dunn,Wisconsin,55033,2068,3
+11/15/2020,Eau Claire,Wisconsin,55035,5954,44
+11/15/2020,Florence,Wisconsin,55037,287,11
+11/15/2020,Fond du Lac,Wisconsin,55039,7275,36
+11/15/2020,Forest,Wisconsin,55041,683,12
+11/15/2020,Grant,Wisconsin,55043,3030,54
+11/15/2020,Green,Wisconsin,55045,1414,5
+11/15/2020,Green Lake,Wisconsin,55047,1219,4
+11/15/2020,Iowa,Wisconsin,55049,994,4
+11/15/2020,Iron,Wisconsin,55051,350,7
+11/15/2020,Jackson,Wisconsin,55053,1243,2
+11/15/2020,Jefferson,Wisconsin,55055,4457,31
+11/15/2020,Juneau,Wisconsin,55057,1565,6
+11/15/2020,Kenosha,Wisconsin,55059,8151,110
+11/15/2020,Kewaunee,Wisconsin,55061,1474,13
+11/15/2020,La Crosse,Wisconsin,55063,6514,30
+11/15/2020,Lafayette,Wisconsin,55065,926,2
+11/15/2020,Langlade,Wisconsin,55067,1427,26
+11/15/2020,Lincoln,Wisconsin,55069,1592,18
+11/15/2020,Manitowoc,Wisconsin,55071,4567,33
+11/15/2020,Marathon,Wisconsin,55073,8650,106
+11/15/2020,Marinette,Wisconsin,55075,2690,22
+11/15/2020,Marquette,Wisconsin,55077,1032,7
+11/15/2020,Menominee,Wisconsin,55078,498,2
+11/15/2020,Milwaukee,Wisconsin,55079,59549,652
+11/15/2020,Monroe,Wisconsin,55081,1947,11
+11/15/2020,Oconto,Wisconsin,55083,2956,24
+11/15/2020,Oneida,Wisconsin,55085,1914,22
+11/15/2020,Outagamie,Wisconsin,55087,12632,100
+11/15/2020,Ozaukee,Wisconsin,55089,4272,32
+11/15/2020,Pepin,Wisconsin,55091,364,1
+11/15/2020,Pierce,Wisconsin,55093,1765,11
+11/15/2020,Polk,Wisconsin,55095,1516,5
+11/15/2020,Portage,Wisconsin,55097,4141,32
+11/15/2020,Price,Wisconsin,55099,600,3
+11/15/2020,Racine,Wisconsin,55101,12423,143
+11/15/2020,Richland,Wisconsin,55103,732,10
+11/15/2020,Rock,Wisconsin,55105,7995,62
+11/15/2020,Rusk,Wisconsin,55107,614,5
+11/15/2020,Sauk,Wisconsin,55111,3006,10
+11/15/2020,Sawyer,Wisconsin,55113,653,5
+11/15/2020,Shawano,Wisconsin,55115,3407,42
+11/15/2020,Sheboygan,Wisconsin,55117,7480,45
+11/15/2020,St. Croix,Wisconsin,55109,3483,18
+11/15/2020,Taylor,Wisconsin,55119,895,10
+11/15/2020,Trempealeau,Wisconsin,55121,1718,7
+11/15/2020,Vernon,Wisconsin,55123,830,5
+11/15/2020,Vilas,Wisconsin,55125,987,9
+11/15/2020,Walworth,Wisconsin,55127,5374,45
+11/15/2020,Washburn,Wisconsin,55129,466,2
+11/15/2020,Washington,Wisconsin,55131,7799,62
+11/15/2020,Waukesha,Wisconsin,55133,20329,167
+11/15/2020,Waupaca,Wisconsin,55135,3665,95
+11/15/2020,Waushara,Wisconsin,55137,1628,6
+11/15/2020,Winnebago,Wisconsin,55139,12571,94
+11/15/2020,Wood,Wisconsin,55141,3291,19
+11/15/2020,Albany,Wyoming,56001,2484,8
+11/15/2020,Big Horn,Wyoming,56003,364,9
+11/15/2020,Campbell,Wyoming,56005,2095,6
+11/15/2020,Carbon,Wyoming,56007,446,4
+11/15/2020,Converse,Wyoming,56009,472,5
+11/15/2020,Crook,Wyoming,56011,221,3
+11/15/2020,Fremont,Wyoming,56013,2398,22
+11/15/2020,Goshen,Wyoming,56015,372,6
+11/15/2020,Hot Springs,Wyoming,56017,77,0
+11/15/2020,Johnson,Wyoming,56019,183,2
+11/15/2020,Laramie,Wyoming,56021,3264,15
+11/15/2020,Lincoln,Wyoming,56023,493,6
+11/15/2020,Natrona,Wyoming,56025,3155,23
+11/15/2020,Niobrara,Wyoming,56027,62,0
+11/15/2020,Park,Wyoming,56029,1085,4
+11/15/2020,Platte,Wyoming,56031,252,5
+11/15/2020,Sheridan,Wyoming,56033,1265,8
+11/15/2020,Sublette,Wyoming,56035,268,1
+11/15/2020,Sweetwater,Wyoming,56037,1075,4
+11/15/2020,Teton,Wyoming,56039,1178,2
+11/15/2020,Uinta,Wyoming,56041,729,4
+11/15/2020,Washakie,Wyoming,56043,217,7
+11/15/2020,Weston,Wyoming,56045,339,0
